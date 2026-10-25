@@ -45,18 +45,36 @@ def resolve(item):
     result = min(candidates)[2]
     return {"poster": "https://image.tmdb.org/t/p/w500" + result["poster_path"], "tmdb_id": result["id"]}
 
+def details(item):
+    kind = "tv" if item.get("type") == "TV" else "movie"
+    data = api(kind + "/" + str(item["tmdb_id"]), {"language": "en-US"})
+    runtimes = data.get("episode_run_time", []) if kind == "tv" else [data.get("runtime")]
+    runtime = next((v for v in runtimes if isinstance(v, int) and v > 0), None)
+    rating = data.get("vote_average")
+    return {
+        "synopsis": data.get("overview") or None,
+        "genres": [g["name"] for g in data.get("genres", []) if g.get("name")][:3],
+        "runtime_minutes": runtime,
+        "tmdb_rating": round(rating, 1) if isinstance(rating, (int, float)) and data.get("vote_count", 0) else None,
+        "imdb_id": data.get("imdb_id") if kind == "movie" else None,
+    }
+
 changed = 0
 unresolved = []
 for section, items in catalog["lists"].items():
     for item in items:
-        if item.get("poster"):
+        if item.get("tmdb_id") and item.get("synopsis") and "genres" in item and "tmdb_rating" in item:
             continue
         try:
-            match = resolve(item)
+            match = None if item.get("tmdb_id") else resolve(item)
             if match:
                 item.update(match)
-                changed += 1
-                print("MATCH", section, item["title"], item["year"], item["tmdb_id"])
+            if item.get("tmdb_id"):
+                metadata = details(item)
+                if any(item.get(k) != v for k, v in metadata.items()) or match:
+                    item.update(metadata)
+                    changed += 1
+                print("METADATA", section, item["title"], item["year"])
             else:
                 unresolved.append(item["title"] + " (" + str(item["year"]) + ")")
         except (urllib.error.URLError, TimeoutError, ValueError) as exc:
