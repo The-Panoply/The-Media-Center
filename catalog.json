@@ -9,7 +9,15 @@
         "group": "Highest Priority",
         "poster": "https://image.tmdb.org/t/p/w500/iOb2fjXLbpJgyQXe46n1WtGCnaa.jpg",
         "tmdb_id": 687163,
-        "metadata_refresh_requested": true
+        "metadata_refresh_requested": true,
+        "synopsis": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+        "genres": [
+          "Science Fiction",
+          "Adventure"
+        ],
+        "runtime_minutes": 157,
+        "tmdb_rating": 8.6,
+        "imdb_id": "tt12042730"
       },
       {
         "title": "Raised by Wolves",
@@ -17,7 +25,15 @@
         "type": "TV",
         "group": "Highest Priority",
         "poster": "https://image.tmdb.org/t/p/w500/mTvSVKMn2Npf6zvYNbGMJnYLtvp.jpg",
-        "tmdb_id": 85723
+        "tmdb_id": 85723,
+        "synopsis": "After Earth is ravaged by a great religious war, an atheistic android architect sends two of his creations, Mother and Father, to start a peaceful, godless colony on the planet Kepler-22b. Their treacherous task is jeopardized by the arrival of the Mithraic, a deeply devout religious order of surviving humans.",
+        "genres": [
+          "Sci-Fi & Fantasy",
+          "Drama"
+        ],
+        "runtime_minutes": null,
+        "tmdb_rating": 7.5,
+        "imdb_id": null
       },
       {
         "title": "Predestination",
@@ -25,7 +41,15 @@
         "type": "Movie",
         "group": "Highest Priority",
         "poster": "https://image.tmdb.org/t/p/w500/38Xr1JnV1ZcLQ55zmdSp6n475cZ.jpg",
-        "tmdb_id": 206487
+        "tmdb_id": 206487,
+        "synopsis": "Predestination chronicles the life of a Temporal Agent sent on an intricate series of time-travel journeys designed to prevent future killers from committing their crimes. Now, on his final assignment, the Agent must stop the one criminal that has eluded him throughout time and prevent a devastating attack in which thousands of lives will be lost.",
+        "genres": [
+          "Science Fiction",
+          "Thriller"
+        ],
+        "runtime_minutes": 98,
+        "tmdb_rating": 7.4,
+        "imdb_id": "tt2397535"
       },
       {
         "title": "Annihilation",
@@ -33,7 +57,15 @@
         "type": "Movie",
         "group": "Highest Priority",
         "poster": "https://image.tmdb.org/t/p/w500/4YRplSk6BhH6PRuE9gfyw9byUJ6.jpg",
-        "tmdb_id": 300668
+        "tmdb_id": 300668,
+        "synopsis": "A biologist signs up for a dangerous, secret expedition into a mysterious zone where the laws of nature don't apply.",
+        "genres": [
+          "Science Fiction",
+          "Horror"
+        ],
+        "runtime_minutes": 115,
+        "tmdb_rating": 6.5,
+        "imdb_id": "tt2798920"
       },
       {
         "title": "Sunshine",
@@ -41,7 +73,16 @@
         "type": "Movie",
         "group": "Highest Priority",
         "poster": "https://image.tmdb.org/t/p/w500/oKGGeJ8qvm0UmClz43VJ31fzPP7.jpg",
-        "tmdb_id": 1272
+        "tmdb_id": 1272,
+        "synopsis": "Fifty years into the future, the sun is dying, and Earth is threatened by arctic temperatures. A team of astronauts is sent to revive the Sun — but the mission fails. Seven years later, a new team is sent to finish the mission as mankind’s last hope.",
+        "genres": [
+          "Thriller",
+          "Science Fiction",
+          "Horror"
+        ],
+        "runtime_minutes": 108,
+        "tmdb_rating": 7.0,
+        "imdb_id": "tt0448134"
       },
       {
         "title": "Coherence",
@@ -49,7 +90,15 @@
         "type": "Movie",
         "group": "Highest Priority",
         "poster": "https://image.tmdb.org/t/p/w500/ezUtb9m5DeLwL2gxi4gktzNCvQv.jpg",
-        "tmdb_id": 220289
+        "tmdb_id": 220289,
+        "synopsis": "Four couples gather for dinner the night a mysterious and powerful comet passes overhead.",
+        "genres": [
+          "Thriller",
+          "Science Fiction"
+        ],
+        "runtime_minutes": 89,
+        "tmdb_rating": 7.2,
+        "imdb_id": "tt2866360"
       },
       {
         "title": "The Thirteenth Floor",
@@ -57,7 +106,16 @@
         "type": "Movie",
         "group": "Highest Priority",
         "poster": "https://image.tmdb.org/t/p/w500/7oaie3ZBc9UuWZLF24crro1pone.jpg",
-        "tmdb_id": 1090
+        "tmdb_id": 1090,
+        "synopsis": "In Los Angeles, a wealthy man, known as Mr. Fuller, discovers a shocking secret about the world he lives in. Fearing for his life, he leaves a desperate message for a friend of his in the most unexpected place.",
+        "genres": [
+          "Thriller",
+          "Science Fiction",
+          "Mystery"
+        ],
+        "runtime_minutes": 100,
+        "tmdb_rating": 7.1,
+        "imdb_id": "tt0139809"
       },
       {
         "title": "Equilibrium",
@@ -65,7 +123,16 @@
         "type": "Movie",
         "group": "Highest Priority",
         "poster": "https://image.tmdb.org/t/p/w500/yQuovle5Ov6q69XSdTNdH52eANc.jpg",
-        "tmdb_id": 7299
+        "tmdb_id": 7299,
+        "synopsis": "In a dystopian future, a totalitarian regime maintains peace by subduing the populace with a drug, and displays of emotion are punishable by death. A man in charge of enforcing the law rises to overthrow the system.",
+        "genres": [
+          "Action",
+          "Science Fiction",
+          "Thriller"
+        ],
+        "runtime_minutes": 107,
+        "tmdb_rating": 7.1,
+        "imdb_id": "tt0238380"
       },
       {
         "title": "Mickey 17",
@@ -73,7 +140,16 @@
         "type": "Movie",
         "group": "Highest Priority",
         "poster": "https://image.tmdb.org/t/p/w500/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg",
-        "tmdb_id": 696506
+        "tmdb_id": 696506,
+        "synopsis": "Unlikely hero Mickey Barnes finds himself in the extraordinary circumstance of working for an employer who demands the ultimate commitment to the job… to die, for a living.",
+        "genres": [
+          "Science Fiction",
+          "Comedy",
+          "Adventure"
+        ],
+        "runtime_minutes": 137,
+        "tmdb_rating": 6.8,
+        "imdb_id": "tt12299608"
       },
       {
         "title": "Solaris",
@@ -81,7 +157,16 @@
         "type": "Movie",
         "group": "Highest Priority",
         "poster": "https://image.tmdb.org/t/p/w500/drdrB1hEZmzFlK1xtW5HMxK3LUJ.jpg",
-        "tmdb_id": 2103
+        "tmdb_id": 2103,
+        "synopsis": "A troubled psychologist is sent to investigate the crew of an isolated research station orbiting a bizarre planet.",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Mystery"
+        ],
+        "runtime_minutes": 99,
+        "tmdb_rating": 6.0,
+        "imdb_id": "tt0307479"
       },
       {
         "title": "Source Code",
@@ -89,7 +174,16 @@
         "type": "Movie",
         "group": "Strong Possibilities",
         "poster": "https://image.tmdb.org/t/p/w500/nTr0lvAzeQmUjgSgDEHTJpnrxTz.jpg",
-        "tmdb_id": 45612
+        "tmdb_id": 45612,
+        "synopsis": "When decorated soldier Captain Colter Stevens wakes up in the body of an unknown man, he discovers he's part of a mission to find the bomber of a Chicago commuter train.",
+        "genres": [
+          "Thriller",
+          "Science Fiction",
+          "Mystery"
+        ],
+        "runtime_minutes": 93,
+        "tmdb_rating": 7.3,
+        "imdb_id": "tt0945513"
       },
       {
         "title": "Midnight Special",
@@ -97,7 +191,16 @@
         "type": "Movie",
         "group": "Strong Possibilities",
         "poster": "https://image.tmdb.org/t/p/w500/hgDRq1l4ATxwufWjILKsYtglbI6.jpg",
-        "tmdb_id": 245703
+        "tmdb_id": 245703,
+        "synopsis": "A father and son go on the run after the dad learns his child possesses special powers.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Science Fiction"
+        ],
+        "runtime_minutes": 112,
+        "tmdb_rating": 6.3,
+        "imdb_id": "tt2649554"
       },
       {
         "title": "The Endless",
@@ -105,7 +208,16 @@
         "type": "Movie",
         "group": "Strong Possibilities",
         "poster": "https://image.tmdb.org/t/p/w500/uVHPBTLb6Sj1Eso9HzyBAOMRheM.jpg",
-        "tmdb_id": 430231
+        "tmdb_id": 430231,
+        "synopsis": "Two brothers return to the cult they fled from years ago to discover that the group's beliefs may be more sane than they once thought.",
+        "genres": [
+          "Science Fiction",
+          "Horror",
+          "Thriller"
+        ],
+        "runtime_minutes": 112,
+        "tmdb_rating": 6.3,
+        "imdb_id": "tt3986820"
       },
       {
         "title": "Prospect",
@@ -113,7 +225,14 @@
         "type": "Movie",
         "group": "Strong Possibilities",
         "poster": "https://image.tmdb.org/t/p/w500/1HpAwszXLsD8GeypDzK0me7fPFA.jpg",
-        "tmdb_id": 506072
+        "tmdb_id": 506072,
+        "synopsis": "A teenage girl and her father travel to a remote alien moon, aiming to strike it rich. They've secured a contract to harvest a large deposit of the elusive gems hidden in the depths of the moon's toxic forest. But there are others roving the wilderness and the job quickly devolves into a fight to survive.",
+        "genres": [
+          "Science Fiction"
+        ],
+        "runtime_minutes": 98,
+        "tmdb_rating": 6.2,
+        "imdb_id": "tt7946422"
       },
       {
         "title": "The Vast of Night",
@@ -121,7 +240,16 @@
         "type": "Movie",
         "group": "Strong Possibilities",
         "poster": "https://image.tmdb.org/t/p/w500/q2P9lYkctl5Ory71HEBMaFxbVlD.jpg",
-        "tmdb_id": 565743
+        "tmdb_id": 565743,
+        "synopsis": "At the dawn of the space-race, two radio-obsessed teens discover a strange frequency over the airwaves in what becomes the most important night of their lives and in the history of their small town.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Science Fiction"
+        ],
+        "runtime_minutes": 91,
+        "tmdb_rating": 6.6,
+        "imdb_id": "tt6803046"
       },
       {
         "title": "Bugonia",
@@ -129,7 +257,16 @@
         "type": "Movie",
         "group": "Strong Possibilities",
         "poster": "https://image.tmdb.org/t/p/w500/rSdOua3wKMEaFWDcKAYWRjXQWOt.jpg",
-        "tmdb_id": 701387
+        "tmdb_id": 701387,
+        "synopsis": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
+        "genres": [
+          "Science Fiction",
+          "Thriller",
+          "Comedy"
+        ],
+        "runtime_minutes": 119,
+        "tmdb_rating": 7.3,
+        "imdb_id": "tt12300742"
       },
       {
         "title": "Pandorum",
@@ -137,7 +274,16 @@
         "type": "Movie",
         "group": "Strong Possibilities",
         "poster": "https://image.tmdb.org/t/p/w500/mNMfa6r3pl0EzFIKEkVcxyr6Rc7.jpg",
-        "tmdb_id": 19898
+        "tmdb_id": 19898,
+        "synopsis": "Two crew members wake up on an abandoned spacecraft with no idea who they are, how long they've been asleep, or what their mission is. The two soon discover they're actually not alone – and the reality of their situation is more horrifying than they could have imagined.",
+        "genres": [
+          "Action",
+          "Horror",
+          "Mystery"
+        ],
+        "runtime_minutes": 108,
+        "tmdb_rating": 6.6,
+        "imdb_id": "tt1188729"
       },
       {
         "title": "The Artifice Girl",
@@ -145,7 +291,16 @@
         "type": "Movie",
         "group": "Strong Possibilities",
         "poster": "https://image.tmdb.org/t/p/w500/A3qrVjsBd4IZ3QWHMs2x1dwRxuX.jpg",
-        "tmdb_id": 983282
+        "tmdb_id": 983282,
+        "synopsis": "A team of special agents discovers a revolutionary new computer program to bait and trap online predators. After teaming up with the program's troubled developer, they soon find that the AI is rapidly advancing beyond its original purpose.",
+        "genres": [
+          "Science Fiction",
+          "Thriller",
+          "Mystery"
+        ],
+        "runtime_minutes": 93,
+        "tmdb_rating": 6.7,
+        "imdb_id": "tt20859464"
       },
       {
         "title": "Ad Astra",
@@ -153,7 +308,15 @@
         "type": "Movie",
         "group": "Strong Possibilities",
         "poster": "https://image.tmdb.org/t/p/w500/xBHvZcjRiWyobQ9kxBhO6B2dtRI.jpg",
-        "tmdb_id": 419704
+        "tmdb_id": 419704,
+        "synopsis": "The near future, a time when both hope and hardships drive humanity to look to the stars and beyond. While a mysterious phenomenon menaces to destroy life on planet Earth, astronaut Roy McBride undertakes a mission across the immensity of space and its many perils to uncover the truth about a lost expedition that decades before boldly faced emptiness and silence in search of the unknown.",
+        "genres": [
+          "Science Fiction",
+          "Drama"
+        ],
+        "runtime_minutes": 123,
+        "tmdb_rating": 6.1,
+        "imdb_id": "tt2935510"
       },
       {
         "title": "Solaris",
@@ -161,7 +324,16 @@
         "type": "Movie",
         "group": "Strong Possibilities",
         "poster": "https://image.tmdb.org/t/p/w500/pgqj7QoBPWFLLKtLEpPmFYFRMgB.jpg",
-        "tmdb_id": 593
+        "tmdb_id": 593,
+        "synopsis": "A psychologist is sent to a space station orbiting a planet called Solaris to investigate the death of a doctor and the mental problems of cosmonauts on the station. He soon discovers that the water on the planet is a type of brain which brings out repressed memories and obsessions.",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Mystery"
+        ],
+        "runtime_minutes": 167,
+        "tmdb_rating": 7.8,
+        "imdb_id": "tt0069293"
       },
       {
         "title": "Timecrimes",
@@ -169,7 +341,15 @@
         "type": "Movie",
         "group": "Strong Possibilities",
         "poster": "https://image.tmdb.org/t/p/w500/zdxQRP7mzczMJBwKnv8MCPRq7rQ.jpg",
-        "tmdb_id": 14139
+        "tmdb_id": 14139,
+        "synopsis": "A man accidentally gets into a time machine and travels back in time nearly an hour. Finding himself will be the first of a series of disasters of unforeseeable consequences.",
+        "genres": [
+          "Science Fiction",
+          "Thriller"
+        ],
+        "runtime_minutes": 93,
+        "tmdb_rating": 7.0,
+        "imdb_id": "tt0480669"
       },
       {
         "title": "Primer",
@@ -177,7 +357,16 @@
         "type": "Movie",
         "group": "More Experimental or Uncertain",
         "poster": "https://image.tmdb.org/t/p/w500/xEoq2WmDzpzxhkHEsmOYOg6BPg6.jpg",
-        "tmdb_id": 14337
+        "tmdb_id": 14337,
+        "synopsis": "A group of fledgling inventors discover a complex method to manipulate reality. At first, they successfully game the stock market with it, but the consequences of the invention start to catch up with them.",
+        "genres": [
+          "Science Fiction",
+          "Drama",
+          "Thriller"
+        ],
+        "runtime_minutes": 77,
+        "tmdb_rating": 6.7,
+        "imdb_id": "tt0390384"
       },
       {
         "title": "Aniara",
@@ -185,7 +374,15 @@
         "type": "Movie",
         "group": "More Experimental or Uncertain",
         "poster": "https://image.tmdb.org/t/p/w500/pEpEJe8NTmwWL0hwYkZguTzEqzt.jpg",
-        "tmdb_id": 496743
+        "tmdb_id": 496743,
+        "synopsis": "A ship carrying settlers to a new home on Mars after Earth is rendered uninhabitable is knocked off-course, causing the passengers to consider their place in the universe.",
+        "genres": [
+          "Science Fiction",
+          "Drama"
+        ],
+        "runtime_minutes": 106,
+        "tmdb_rating": 6.1,
+        "imdb_id": "tt7589524"
       },
       {
         "title": "Under the Skin",
@@ -193,7 +390,14 @@
         "type": "Movie",
         "group": "More Experimental or Uncertain",
         "poster": "https://image.tmdb.org/t/p/w500/kX41SU4XFBbeXvVzEb0vbzpkGgO.jpg",
-        "tmdb_id": 698232
+        "tmdb_id": 698232,
+        "synopsis": "Man and Woman are reunited after a long time. Sorrow and desire cannot break the silence. But that's okay: when words don't come, it's the body that speaks.",
+        "genres": [
+          "Drama"
+        ],
+        "runtime_minutes": 19,
+        "tmdb_rating": 6.2,
+        "imdb_id": "tt4698852"
       },
       {
         "title": "High Life",
@@ -201,7 +405,16 @@
         "type": "Movie",
         "group": "More Experimental or Uncertain",
         "poster": "https://image.tmdb.org/t/p/w500/wElOvH7H6sLElsTOLu1MY6oWRUx.jpg",
-        "tmdb_id": 376865
+        "tmdb_id": 376865,
+        "synopsis": "Monte and his daughter are the last survivors of a damned and dangerous mission to deep space. The crew—death-row inmates led by a doctor with sinister motives—has vanished. As the mystery of what happened onboard the ship is unraveled, father and daughter must rely on each other to survive as they hurtle toward the oblivion of a black hole.",
+        "genres": [
+          "Science Fiction",
+          "Drama",
+          "Mystery"
+        ],
+        "runtime_minutes": 113,
+        "tmdb_rating": 5.7,
+        "imdb_id": "tt4827558"
       },
       {
         "title": "Upstream Color",
@@ -209,7 +422,15 @@
         "type": "Movie",
         "group": "More Experimental or Uncertain",
         "poster": "https://image.tmdb.org/t/p/w500/tQ4IWxSYIgZVWnQwLCG8r6sUraU.jpg",
-        "tmdb_id": 145197
+        "tmdb_id": 145197,
+        "synopsis": "A man and woman are drawn together, entangled in the lifecycle of an ageless organism. Identity becomes an illusion as they struggle to assemble the loose fragments of wrecked lives.",
+        "genres": [
+          "Drama",
+          "Science Fiction"
+        ],
+        "runtime_minutes": 96,
+        "tmdb_rating": 6.3,
+        "imdb_id": "tt2084989"
       },
       {
         "title": "Fast Color",
@@ -217,7 +438,15 @@
         "type": "Movie",
         "group": "More Experimental or Uncertain",
         "poster": "https://image.tmdb.org/t/p/w500/1zZaZGMo23NsOGoGF5HRCPWwWN7.jpg",
-        "tmdb_id": 450487
+        "tmdb_id": 450487,
+        "synopsis": "A woman is forced to go on the run when her superhuman abilities are discovered. Years after having abandoned her family, the only place she has left to hide is home.",
+        "genres": [
+          "Thriller",
+          "Science Fiction"
+        ],
+        "runtime_minutes": 102,
+        "tmdb_rating": 6.0,
+        "imdb_id": "tt6418778"
       },
       {
         "title": "Sputnik",
@@ -225,7 +454,16 @@
         "type": "Movie",
         "group": "More Experimental or Uncertain",
         "poster": "https://image.tmdb.org/t/p/w500/eAUzmhP54bE1vPXaY7FbuZREJlR.jpg",
-        "tmdb_id": 594718
+        "tmdb_id": 594718,
+        "synopsis": "At the height of the Cold War, a Soviet spacecraft crash lands after a mission gone awry, leaving the commander as its only survivor. After a renowned Russian psychologist is brought in to evaluate the commander’s mental state, it becomes clear that something dangerous may have come back to Earth with him…",
+        "genres": [
+          "Science Fiction",
+          "Drama",
+          "Horror"
+        ],
+        "runtime_minutes": 113,
+        "tmdb_rating": 6.5,
+        "imdb_id": "tt11905962"
       },
       {
         "title": "Splice",
@@ -233,7 +471,15 @@
         "type": "Movie",
         "group": "More Experimental or Uncertain",
         "poster": "https://image.tmdb.org/t/p/w500/4oqaWnO3dKYAt3vZWAD4oLfOXOC.jpg",
-        "tmdb_id": 37707
+        "tmdb_id": 37707,
+        "synopsis": "Elsa and Clive, two rebellious young scientists, defy legal and ethical boundaries and forge ahead with a dangerous experiment: splicing together human and animal DNA to create a new organism. Named \"Dren\", the creature rapidly develops from a deformed female infant into a beautiful but dangerous winged human-chimera, who forges a bond with both of her creators — only to have that bond turn deadly.",
+        "genres": [
+          "Horror",
+          "Science Fiction"
+        ],
+        "runtime_minutes": 104,
+        "tmdb_rating": 5.9,
+        "imdb_id": "tt1017460"
       },
       {
         "title": "Tau",
@@ -241,7 +487,16 @@
         "type": "Movie",
         "group": "More Experimental or Uncertain",
         "poster": "https://image.tmdb.org/t/p/w500/qqYOlCee3X7cKg05EOQH1htcHmy.jpg",
-        "tmdb_id": 411143
+        "tmdb_id": 411143,
+        "synopsis": "Held captive in a futuristic smart house, a woman hopes to escape by befriending the A.I. program that controls the house.",
+        "genres": [
+          "Science Fiction",
+          "Thriller",
+          "Horror"
+        ],
+        "runtime_minutes": 97,
+        "tmdb_rating": 6.1,
+        "imdb_id": "tt4357394"
       },
       {
         "title": "Lockout",
@@ -249,7 +504,16 @@
         "type": "Movie",
         "group": "More Experimental or Uncertain",
         "poster": "https://image.tmdb.org/t/p/w500/i5QfNIcg6hc327IWUerea0EczP4.jpg",
-        "tmdb_id": 81796
+        "tmdb_id": 81796,
+        "synopsis": "Set in the near future, Lockout follows a falsely convicted ex-government agent , whose one chance at obtaining freedom lies in the dangerous mission of rescuing the President's daughter from rioting convicts at an outer space maximum security prison.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ],
+        "runtime_minutes": 95,
+        "tmdb_rating": 5.9,
+        "imdb_id": "tt1592525"
       }
     ],
     "candidates": [
@@ -259,7 +523,16 @@
         "type": "Movie",
         "group": "Science Fiction & Dystopian Movies",
         "poster": "https://image.tmdb.org/t/p/w500/atOgZMJpMrTdpqvPiHVPfBhR61l.jpg",
-        "tmdb_id": 406990
+        "tmdb_id": 406990,
+        "synopsis": "In a world where families are limited to one child due to overpopulation, a set of identical septuplets must avoid being put to a long sleep by the government and dangerous infighting while investigating the disappearance of one of their own.",
+        "genres": [
+          "Science Fiction",
+          "Thriller",
+          "Mystery"
+        ],
+        "runtime_minutes": 123,
+        "tmdb_rating": 7.1,
+        "imdb_id": "tt1536537"
       },
       {
         "title": "Captive State",
@@ -267,7 +540,16 @@
         "type": "Movie",
         "group": "Science Fiction & Dystopian Movies",
         "poster": "https://image.tmdb.org/t/p/w500/u2ccL7X3osXwn3txIuXENRHmYQ5.jpg",
-        "tmdb_id": 429471
+        "tmdb_id": 429471,
+        "synopsis": "Nearly a decade after occupation by an extraterrestrial force, the lives of a Chicago neighborhood on both sides of the conflict are explored. In a working-class Chicago neighborhood occupied by an alien force for nine years, increased surveillance and the restriction of civil rights have given rise to an authoritarian system -- and dissent among the populace.",
+        "genres": [
+          "Science Fiction",
+          "Thriller",
+          "Adventure"
+        ],
+        "runtime_minutes": 110,
+        "tmdb_rating": 5.7,
+        "imdb_id": "tt5968394"
       },
       {
         "title": "Mars Express",
@@ -275,7 +557,16 @@
         "type": "Movie",
         "group": "Science Fiction & Dystopian Movies",
         "poster": "https://image.tmdb.org/t/p/w500/g8rUn0khoYB3G4gPPGTF1Xv9Olu.jpg",
-        "tmdb_id": 586810
+        "tmdb_id": 586810,
+        "synopsis": "In 2200, private detective Aline Ruby and her android partner Carlos Rivera are hired by a wealthy businessman to track down a notorious hacker. On Mars, they descend deep into the underbelly of the planet's capital city where they uncover a darker story of brain farms, political corruption, and a missing girl who holds a secret about the robots that threatens to change the face of the universe.",
+        "genres": [
+          "Animation",
+          "Science Fiction",
+          "Thriller"
+        ],
+        "runtime_minutes": 89,
+        "tmdb_rating": 7.5,
+        "imdb_id": "tt26915336"
       },
       {
         "title": "The Girl with All the Gifts",
@@ -283,7 +574,16 @@
         "type": "Movie",
         "group": "Science Fiction & Dystopian Movies",
         "poster": "https://image.tmdb.org/t/p/w500/vdCD8z55a4RNmHQDPIpuMFqoY2B.jpg",
-        "tmdb_id": 375366
+        "tmdb_id": 375366,
+        "synopsis": "In the future, a strange fungus has changed nearly everyone into thoughtless, flesh-eating monsters. When a scientist and a teacher find a girl who seems to be immune to the fungus, they all begin a journey to save humanity.",
+        "genres": [
+          "Action",
+          "Horror",
+          "Science Fiction"
+        ],
+        "runtime_minutes": 111,
+        "tmdb_rating": 6.6,
+        "imdb_id": "tt4547056"
       },
       {
         "title": "Automata",
@@ -291,7 +591,15 @@
         "type": "Movie",
         "group": "Science Fiction & Dystopian Movies",
         "poster": "https://image.tmdb.org/t/p/w500/h7SEtIWOfLsuCWhQgflev7ppRPq.jpg",
-        "tmdb_id": 262543
+        "tmdb_id": 262543,
+        "synopsis": "Jacq Vaucan, an insurance agent of ROC robotics corporation, routinely investigates the case of manipulating a robot. What he discovers will have profound consequences for the future of humanity.",
+        "genres": [
+          "Thriller",
+          "Science Fiction"
+        ],
+        "runtime_minutes": 110,
+        "tmdb_rating": 5.9,
+        "imdb_id": "tt1971325"
       },
       {
         "title": "The Machine",
@@ -299,7 +607,15 @@
         "type": "Movie",
         "group": "Science Fiction & Dystopian Movies",
         "poster": "https://image.tmdb.org/t/p/w500/nNHAZaTrFVOjwLhkMYm4syUjNw8.jpg",
-        "tmdb_id": 174675
+        "tmdb_id": 174675,
+        "synopsis": "Already deep into a second Cold War, Britain’s Ministry of Defense seeks a game-changing weapon. Programmer Vincent McCarthy unwittingly provides an answer in The Machine, a super-strong human cyborg. When a programming bug causes the prototype to decimate his lab, McCarthy takes his obsessive efforts underground, far away from inquisitive eyes.",
+        "genres": [
+          "Science Fiction",
+          "Thriller"
+        ],
+        "runtime_minutes": 92,
+        "tmdb_rating": 5.9,
+        "imdb_id": "tt2317225"
       },
       {
         "title": "Freaks",
@@ -307,7 +623,15 @@
         "type": "Movie",
         "group": "Science Fiction & Dystopian Movies",
         "poster": "https://image.tmdb.org/t/p/w500/kc2cvuqESIiRX5QoZOoMTBq18kQ.jpg",
-        "tmdb_id": 539892
+        "tmdb_id": 539892,
+        "synopsis": "Kept locked inside the house by her father, 7-year-old Chloe lives in fear and fascination of the outside world, where Abnormals create a constant threat—or so she believes. When a mysterious stranger offers her a glimpse of what's really happening outside, Chloe soon finds that while the truth isn't so simple, the danger is very real.",
+        "genres": [
+          "Science Fiction",
+          "Thriller"
+        ],
+        "runtime_minutes": 105,
+        "tmdb_rating": 6.7,
+        "imdb_id": "tt8781414"
       },
       {
         "title": "The Wandering Earth",
@@ -315,7 +639,16 @@
         "type": "Movie",
         "group": "Science Fiction & Dystopian Movies",
         "poster": "https://image.tmdb.org/t/p/w500/z3MXFdFjrYmoxOEFgE1wuphwo2a.jpg",
-        "tmdb_id": 535167
+        "tmdb_id": 535167,
+        "synopsis": "When the Sun begins to expand in such a way that it will inevitably engulf and destroy the Earth in a hundred years, united mankind finds a way to avoid extinction by propelling the planet out of the Solar System using gigantic engines, moving it to a new home located four light years away, an epic journey that will last thousands of years.",
+        "genres": [
+          "Science Fiction",
+          "Action",
+          "Drama"
+        ],
+        "runtime_minutes": 126,
+        "tmdb_rating": 6.6,
+        "imdb_id": "tt7605074"
       },
       {
         "title": "The Congress",
@@ -323,7 +656,16 @@
         "type": "Movie",
         "group": "Science Fiction & Dystopian Movies",
         "poster": "https://image.tmdb.org/t/p/w500/oeT9rwfCBayxgVoUn1yZGmkZlUq.jpg",
-        "tmdb_id": 152795
+        "tmdb_id": 152795,
+        "synopsis": "An aging, out-of-work actress accepts one last job, though the consequences of her decision affect her in ways she didn't consider.",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Animation"
+        ],
+        "runtime_minutes": 123,
+        "tmdb_rating": 6.4,
+        "imdb_id": "tt1821641"
       },
       {
         "title": "The Town",
@@ -331,7 +673,16 @@
         "type": "Movie",
         "group": "Character-Driven Thrillers",
         "poster": "https://image.tmdb.org/t/p/w500/3NIzyXkfylsjflRKSz8Fts3lXzm.jpg",
-        "tmdb_id": 23168
+        "tmdb_id": 23168,
+        "synopsis": "A proficient group of thieves rob a bank and hold the manager hostage. Things begin to get complicated when one of the crew members falls in love with her.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ],
+        "runtime_minutes": 125,
+        "tmdb_rating": 7.2,
+        "imdb_id": "tt0840361"
       },
       {
         "title": "End of Watch",
@@ -339,7 +690,16 @@
         "type": "Movie",
         "group": "Character-Driven Thrillers",
         "poster": "https://image.tmdb.org/t/p/w500/pDeVKQICkcdwwjHxGj0MeS14YJ6.jpg",
-        "tmdb_id": 77016
+        "tmdb_id": 77016,
+        "synopsis": "Two young officers are marked for death after confiscating a small cache of money and firearms from the members of a notorious cartel during a routine traffic stop.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ],
+        "runtime_minutes": 109,
+        "tmdb_rating": 7.4,
+        "imdb_id": "tt1855199"
       },
       {
         "title": "Thief",
@@ -347,7 +707,16 @@
         "type": "Movie",
         "group": "Character-Driven Thrillers",
         "poster": "https://image.tmdb.org/t/p/w500/bpjRGwfYJ71bU0hNhLIz7g3t6Oy.jpg",
-        "tmdb_id": 11524
+        "tmdb_id": 11524,
+        "synopsis": "Frank is an expert professional safecracker, specialized in high-profile diamond heists. He plans to use his ill-gotten income to retire from crime and build a nice life for himself complete with a home, wife and kids. To accelerate the process, he signs on with a top gangster for a big score.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Drama"
+        ],
+        "runtime_minutes": 123,
+        "tmdb_rating": 7.2,
+        "imdb_id": "tt0083190"
       },
       {
         "title": "12 Monkeys",
@@ -362,7 +731,15 @@
         "type": "Movie",
         "group": "Other Movie Candidates",
         "poster": "https://image.tmdb.org/t/p/w500/rY5BrDRcYAKE0BYmmT66YG6Uy5Q.jpg",
-        "tmdb_id": 281
+        "tmdb_id": 281,
+        "synopsis": "In the last days of 1999, ex-cop turned street hustler Lenny Nero receives a disc which contains the memories of the murder of a prostitute. With the help of bodyguard Mace, he starts to investigate and is pulled deeper and deeper in a whirl of murder, blackmail and intrigue.",
+        "genres": [
+          "Science Fiction",
+          "Thriller"
+        ],
+        "runtime_minutes": 145,
+        "tmdb_rating": 7.0,
+        "imdb_id": "tt0114558"
       },
       {
         "title": "The Lives of Others",
@@ -370,7 +747,15 @@
         "type": "Movie",
         "group": "Other Movie Candidates",
         "poster": "https://image.tmdb.org/t/p/w500/cVUDMnskSc01rdbyH0tLATTJUdP.jpg",
-        "tmdb_id": 582
+        "tmdb_id": 582,
+        "synopsis": "In 1984 East Berlin, dedicated Stasi officer Gerd Wiesler begins spying on a famous playwright and his actress-lover Christa-Maria. Wiesler becomes unexpectedly sympathetic to the couple, and faces conflicting loyalties when his superior takes a liking to Christa-Maria.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ],
+        "runtime_minutes": 137,
+        "tmdb_rating": 8.0,
+        "imdb_id": "tt0405094"
       },
       {
         "title": "Counterpart",
@@ -378,7 +763,15 @@
         "type": "TV",
         "group": "Television Series",
         "poster": "https://image.tmdb.org/t/p/w500/fVTpkoTkl7LJSoVCnuoHRPJvS4o.jpg",
-        "tmdb_id": 63646
+        "tmdb_id": 63646,
+        "synopsis": "Howard Silk is a lowly cog in a bureaucratic UN agency who is turning the last corner of a life filled with regret when he discovers the agency he works for is guarding a secret: a crossing to a parallel dimension.",
+        "genres": [
+          "Sci-Fi & Fantasy",
+          "Drama"
+        ],
+        "runtime_minutes": 56,
+        "tmdb_rating": 7.5,
+        "imdb_id": null
       },
       {
         "title": "Pantheon",
@@ -386,7 +779,15 @@
         "type": "TV",
         "group": "Television Series",
         "poster": "https://image.tmdb.org/t/p/w500/28xQt18ryWRcx9tBkK0MBsNNRw5.jpg",
-        "tmdb_id": 195339
+        "tmdb_id": 195339,
+        "synopsis": "A bullied teen receives mysterious help from someone online: a stranger soon revealed to be her recently deceased father, David, whose consciousness has been uploaded to the Cloud following an experimental destructive brain scan. David is the first of a new kind of being – an “Uploaded Intelligence” or “UI” – but he will not be the last, as a global conspiracy unfolds that threatens to trigger a new kind of world war.",
+        "genres": [
+          "Animation",
+          "Sci-Fi & Fantasy"
+        ],
+        "runtime_minutes": null,
+        "tmdb_rating": 8.2,
+        "imdb_id": null
       },
       {
         "title": "Severance",
@@ -394,7 +795,16 @@
         "type": "TV",
         "group": "Television Series",
         "poster": "https://image.tmdb.org/t/p/w500/pPHpeI2X1qEd1CS1SeyrdhZ4qnT.jpg",
-        "tmdb_id": 95396
+        "tmdb_id": 95396,
+        "synopsis": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Sci-Fi & Fantasy"
+        ],
+        "runtime_minutes": null,
+        "tmdb_rating": 8.4,
+        "imdb_id": null
       },
       {
         "title": "Years and Years",
@@ -402,7 +812,16 @@
         "type": "TV",
         "group": "Television Series",
         "poster": "https://image.tmdb.org/t/p/w500/u1FBsyMH9Tx7K5yzMnJsYRvNEKQ.jpg",
-        "tmdb_id": 87104
+        "tmdb_id": 87104,
+        "synopsis": "As Britain is rocked by unstable political, economic and technological advances, members of the Lyons family converge on one crucial night in 2019. Over the next 15 years, the twists and turns of their everyday lives are explored as we find out if this ordinary family could change the world.",
+        "genres": [
+          "Drama",
+          "War & Politics",
+          "Sci-Fi & Fantasy"
+        ],
+        "runtime_minutes": 60,
+        "tmdb_rating": 7.5,
+        "imdb_id": null
       },
       {
         "title": "Devs",
@@ -410,7 +829,16 @@
         "type": "TV",
         "group": "Television Series",
         "poster": "https://image.tmdb.org/t/p/w500/uv63iNWOh69bSJYJQZjiX6n8B3m.jpg",
-        "tmdb_id": 81349
+        "tmdb_id": 81349,
+        "synopsis": "Young computer engineer Lily Chan investigates the secretive development division of her employer, a cutting-edge tech company based in San Francisco, which she believes is behind the murder of her boyfriend.",
+        "genres": [
+          "Sci-Fi & Fantasy",
+          "Drama",
+          "Mystery"
+        ],
+        "runtime_minutes": 52,
+        "tmdb_rating": 7.3,
+        "imdb_id": null
       },
       {
         "title": "Dark",
@@ -418,7 +846,16 @@
         "type": "TV",
         "group": "Television Series",
         "poster": "https://image.tmdb.org/t/p/w500/wiiyc3m6HKaQhFBYeuM7ySCNQsG.jpg",
-        "tmdb_id": 70523
+        "tmdb_id": 70523,
+        "synopsis": "A missing child sets four families on a frantic hunt for answers as they unearth a mind-bending mystery that spans three generations.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Sci-Fi & Fantasy"
+        ],
+        "runtime_minutes": null,
+        "tmdb_rating": 8.4,
+        "imdb_id": null
       },
       {
         "title": "Humans",
@@ -426,7 +863,16 @@
         "type": "TV",
         "group": "Television Series",
         "poster": "https://image.tmdb.org/t/p/w500/iBjjSGgnjAQBSQGO9pYIh7Gp2PO.jpg",
-        "tmdb_id": 62822
+        "tmdb_id": 62822,
+        "synopsis": "In a parallel present where the latest must-have gadget for any busy family is a 'Synth' - a highly-developed robotic servant that's so similar to a real human it's transforming the way we live.",
+        "genres": [
+          "Sci-Fi & Fantasy",
+          "Drama",
+          "Mystery"
+        ],
+        "runtime_minutes": 46,
+        "tmdb_rating": 7.5,
+        "imdb_id": null
       }
     ]
   }
