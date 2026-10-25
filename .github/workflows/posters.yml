@@ -1,0 +1,32 @@
+name: Resolve TMDb posters
+on:
+  push:
+    branches: [main]
+    paths:
+      - catalog.json
+      - scripts/resolve_posters.py
+      - .github/workflows/posters.yml
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: media-center-posters
+  cancel-in-progress: false
+jobs:
+  posters:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Resolve missing posters
+        env:
+          TMDB_API_TOKEN: ${{ secrets.TMDB_API_TOKEN }}
+        run: python3 scripts/resolve_posters.py
+      - name: Commit resolved posters
+        run: |
+          if ! git diff --quiet -- catalog.json; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add catalog.json
+            git commit -m "Populate TMDb poster artwork"
+            git push
+          fi
