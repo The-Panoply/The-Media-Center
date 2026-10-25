@@ -8,7 +8,8 @@
         "type": "Movie",
         "group": "Highest Priority",
         "poster": "https://image.tmdb.org/t/p/w500/iOb2fjXLbpJgyQXe46n1WtGCnaa.jpg",
-        "tmdb_id": 687163
+        "tmdb_id": 687163,
+        "metadata_refresh_requested": true
       },
       {
         "title": "Raised by Wolves",
