@@ -7,217 +7,248 @@
         "year": 2026,
         "type": "Movie",
         "group": "Highest Priority",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/iOb2fjXLbpJgyQXe46n1WtGCnaa.jpg",
+        "tmdb_id": 687163
       },
       {
         "title": "Raised by Wolves",
         "year": 2020,
         "type": "TV",
         "group": "Highest Priority",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/mTvSVKMn2Npf6zvYNbGMJnYLtvp.jpg",
+        "tmdb_id": 85723
       },
       {
         "title": "Predestination",
         "year": 2014,
         "type": "Movie",
         "group": "Highest Priority",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/38Xr1JnV1ZcLQ55zmdSp6n475cZ.jpg",
+        "tmdb_id": 206487
       },
       {
         "title": "Annihilation",
         "year": 2018,
         "type": "Movie",
         "group": "Highest Priority",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/4YRplSk6BhH6PRuE9gfyw9byUJ6.jpg",
+        "tmdb_id": 300668
       },
       {
         "title": "Sunshine",
         "year": 2007,
         "type": "Movie",
         "group": "Highest Priority",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/oKGGeJ8qvm0UmClz43VJ31fzPP7.jpg",
+        "tmdb_id": 1272
       },
       {
         "title": "Coherence",
         "year": 2013,
         "type": "Movie",
         "group": "Highest Priority",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/ezUtb9m5DeLwL2gxi4gktzNCvQv.jpg",
+        "tmdb_id": 220289
       },
       {
         "title": "The Thirteenth Floor",
         "year": 1999,
         "type": "Movie",
         "group": "Highest Priority",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/7oaie3ZBc9UuWZLF24crro1pone.jpg",
+        "tmdb_id": 1090
       },
       {
         "title": "Equilibrium",
         "year": 2002,
         "type": "Movie",
         "group": "Highest Priority",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/yQuovle5Ov6q69XSdTNdH52eANc.jpg",
+        "tmdb_id": 7299
       },
       {
         "title": "Mickey 17",
         "year": 2025,
         "type": "Movie",
         "group": "Highest Priority",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg",
+        "tmdb_id": 696506
       },
       {
         "title": "Solaris",
         "year": 2002,
         "type": "Movie",
         "group": "Highest Priority",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/drdrB1hEZmzFlK1xtW5HMxK3LUJ.jpg",
+        "tmdb_id": 2103
       },
       {
         "title": "Source Code",
         "year": 2011,
         "type": "Movie",
         "group": "Strong Possibilities",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/nTr0lvAzeQmUjgSgDEHTJpnrxTz.jpg",
+        "tmdb_id": 45612
       },
       {
         "title": "Midnight Special",
         "year": 2016,
         "type": "Movie",
         "group": "Strong Possibilities",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/hgDRq1l4ATxwufWjILKsYtglbI6.jpg",
+        "tmdb_id": 245703
       },
       {
         "title": "The Endless",
         "year": 2017,
         "type": "Movie",
         "group": "Strong Possibilities",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/uVHPBTLb6Sj1Eso9HzyBAOMRheM.jpg",
+        "tmdb_id": 430231
       },
       {
         "title": "Prospect",
         "year": 2018,
         "type": "Movie",
         "group": "Strong Possibilities",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/1HpAwszXLsD8GeypDzK0me7fPFA.jpg",
+        "tmdb_id": 506072
       },
       {
         "title": "The Vast of Night",
         "year": 2019,
         "type": "Movie",
         "group": "Strong Possibilities",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/q2P9lYkctl5Ory71HEBMaFxbVlD.jpg",
+        "tmdb_id": 565743
       },
       {
         "title": "Bugonia",
         "year": 2025,
         "type": "Movie",
         "group": "Strong Possibilities",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/rSdOua3wKMEaFWDcKAYWRjXQWOt.jpg",
+        "tmdb_id": 701387
       },
       {
         "title": "Pandorum",
         "year": 2009,
         "type": "Movie",
         "group": "Strong Possibilities",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/mNMfa6r3pl0EzFIKEkVcxyr6Rc7.jpg",
+        "tmdb_id": 19898
       },
       {
         "title": "The Artifice Girl",
         "year": 2022,
         "type": "Movie",
         "group": "Strong Possibilities",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/A3qrVjsBd4IZ3QWHMs2x1dwRxuX.jpg",
+        "tmdb_id": 983282
       },
       {
         "title": "Ad Astra",
         "year": 2019,
         "type": "Movie",
         "group": "Strong Possibilities",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/xBHvZcjRiWyobQ9kxBhO6B2dtRI.jpg",
+        "tmdb_id": 419704
       },
       {
         "title": "Solaris",
         "year": 1972,
         "type": "Movie",
         "group": "Strong Possibilities",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/pgqj7QoBPWFLLKtLEpPmFYFRMgB.jpg",
+        "tmdb_id": 593
       },
       {
         "title": "Timecrimes",
         "year": 2007,
         "type": "Movie",
         "group": "Strong Possibilities",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/zdxQRP7mzczMJBwKnv8MCPRq7rQ.jpg",
+        "tmdb_id": 14139
       },
       {
         "title": "Primer",
         "year": 2004,
         "type": "Movie",
         "group": "More Experimental or Uncertain",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/xEoq2WmDzpzxhkHEsmOYOg6BPg6.jpg",
+        "tmdb_id": 14337
       },
       {
         "title": "Aniara",
         "year": 2018,
         "type": "Movie",
         "group": "More Experimental or Uncertain",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/pEpEJe8NTmwWL0hwYkZguTzEqzt.jpg",
+        "tmdb_id": 496743
       },
       {
         "title": "Under the Skin",
         "year": 2013,
         "type": "Movie",
         "group": "More Experimental or Uncertain",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/kX41SU4XFBbeXvVzEb0vbzpkGgO.jpg",
+        "tmdb_id": 698232
       },
       {
         "title": "High Life",
         "year": 2018,
         "type": "Movie",
         "group": "More Experimental or Uncertain",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/wElOvH7H6sLElsTOLu1MY6oWRUx.jpg",
+        "tmdb_id": 376865
       },
       {
         "title": "Upstream Color",
         "year": 2013,
         "type": "Movie",
         "group": "More Experimental or Uncertain",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/tQ4IWxSYIgZVWnQwLCG8r6sUraU.jpg",
+        "tmdb_id": 145197
       },
       {
         "title": "Fast Color",
         "year": 2018,
         "type": "Movie",
         "group": "More Experimental or Uncertain",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/1zZaZGMo23NsOGoGF5HRCPWwWN7.jpg",
+        "tmdb_id": 450487
       },
       {
         "title": "Sputnik",
         "year": 2020,
         "type": "Movie",
         "group": "More Experimental or Uncertain",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/eAUzmhP54bE1vPXaY7FbuZREJlR.jpg",
+        "tmdb_id": 594718
       },
       {
         "title": "Splice",
         "year": 2009,
         "type": "Movie",
         "group": "More Experimental or Uncertain",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/4oqaWnO3dKYAt3vZWAD4oLfOXOC.jpg",
+        "tmdb_id": 37707
       },
       {
         "title": "Tau",
         "year": 2018,
         "type": "Movie",
         "group": "More Experimental or Uncertain",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/qqYOlCee3X7cKg05EOQH1htcHmy.jpg",
+        "tmdb_id": 411143
       },
       {
         "title": "Lockout",
         "year": 2012,
         "type": "Movie",
         "group": "More Experimental or Uncertain",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/i5QfNIcg6hc327IWUerea0EczP4.jpg",
+        "tmdb_id": 81796
       }
     ],
     "candidates": [
@@ -226,84 +257,96 @@
         "year": 2017,
         "type": "Movie",
         "group": "Science Fiction & Dystopian Movies",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/atOgZMJpMrTdpqvPiHVPfBhR61l.jpg",
+        "tmdb_id": 406990
       },
       {
         "title": "Captive State",
         "year": 2019,
         "type": "Movie",
         "group": "Science Fiction & Dystopian Movies",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/u2ccL7X3osXwn3txIuXENRHmYQ5.jpg",
+        "tmdb_id": 429471
       },
       {
         "title": "Mars Express",
         "year": 2023,
         "type": "Movie",
         "group": "Science Fiction & Dystopian Movies",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/g8rUn0khoYB3G4gPPGTF1Xv9Olu.jpg",
+        "tmdb_id": 586810
       },
       {
         "title": "The Girl with All the Gifts",
         "year": 2016,
         "type": "Movie",
         "group": "Science Fiction & Dystopian Movies",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/vdCD8z55a4RNmHQDPIpuMFqoY2B.jpg",
+        "tmdb_id": 375366
       },
       {
         "title": "Automata",
         "year": 2014,
         "type": "Movie",
         "group": "Science Fiction & Dystopian Movies",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/h7SEtIWOfLsuCWhQgflev7ppRPq.jpg",
+        "tmdb_id": 262543
       },
       {
         "title": "The Machine",
         "year": 2013,
         "type": "Movie",
         "group": "Science Fiction & Dystopian Movies",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/nNHAZaTrFVOjwLhkMYm4syUjNw8.jpg",
+        "tmdb_id": 174675
       },
       {
         "title": "Freaks",
         "year": 2018,
         "type": "Movie",
         "group": "Science Fiction & Dystopian Movies",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/kc2cvuqESIiRX5QoZOoMTBq18kQ.jpg",
+        "tmdb_id": 539892
       },
       {
         "title": "The Wandering Earth",
         "year": 2019,
         "type": "Movie",
         "group": "Science Fiction & Dystopian Movies",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/z3MXFdFjrYmoxOEFgE1wuphwo2a.jpg",
+        "tmdb_id": 535167
       },
       {
         "title": "The Congress",
         "year": 2013,
         "type": "Movie",
         "group": "Science Fiction & Dystopian Movies",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/oeT9rwfCBayxgVoUn1yZGmkZlUq.jpg",
+        "tmdb_id": 152795
       },
       {
         "title": "The Town",
         "year": 2010,
         "type": "Movie",
         "group": "Character-Driven Thrillers",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/3NIzyXkfylsjflRKSz8Fts3lXzm.jpg",
+        "tmdb_id": 23168
       },
       {
         "title": "End of Watch",
         "year": 2012,
         "type": "Movie",
         "group": "Character-Driven Thrillers",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/pDeVKQICkcdwwjHxGj0MeS14YJ6.jpg",
+        "tmdb_id": 77016
       },
       {
         "title": "Thief",
         "year": 1981,
         "type": "Movie",
         "group": "Character-Driven Thrillers",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/bpjRGwfYJ71bU0hNhLIz7g3t6Oy.jpg",
+        "tmdb_id": 11524
       },
       {
         "title": "12 Monkeys",
@@ -317,63 +360,72 @@
         "year": 1995,
         "type": "Movie",
         "group": "Other Movie Candidates",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/rY5BrDRcYAKE0BYmmT66YG6Uy5Q.jpg",
+        "tmdb_id": 281
       },
       {
         "title": "The Lives of Others",
         "year": 2006,
         "type": "Movie",
         "group": "Other Movie Candidates",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/cVUDMnskSc01rdbyH0tLATTJUdP.jpg",
+        "tmdb_id": 582
       },
       {
         "title": "Counterpart",
         "year": 2017,
         "type": "TV",
         "group": "Television Series",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/fVTpkoTkl7LJSoVCnuoHRPJvS4o.jpg",
+        "tmdb_id": 63646
       },
       {
         "title": "Pantheon",
         "year": 2022,
         "type": "TV",
         "group": "Television Series",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/28xQt18ryWRcx9tBkK0MBsNNRw5.jpg",
+        "tmdb_id": 195339
       },
       {
         "title": "Severance",
         "year": 2022,
         "type": "TV",
         "group": "Television Series",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/pPHpeI2X1qEd1CS1SeyrdhZ4qnT.jpg",
+        "tmdb_id": 95396
       },
       {
         "title": "Years and Years",
         "year": 2019,
         "type": "TV",
         "group": "Television Series",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/u1FBsyMH9Tx7K5yzMnJsYRvNEKQ.jpg",
+        "tmdb_id": 87104
       },
       {
         "title": "Devs",
         "year": 2020,
         "type": "TV",
         "group": "Television Series",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/uv63iNWOh69bSJYJQZjiX6n8B3m.jpg",
+        "tmdb_id": 81349
       },
       {
         "title": "Dark",
         "year": 2017,
         "type": "TV",
         "group": "Television Series",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/wiiyc3m6HKaQhFBYeuM7ySCNQsG.jpg",
+        "tmdb_id": 70523
       },
       {
         "title": "Humans",
         "year": 2015,
         "type": "TV",
         "group": "Television Series",
-        "poster": null
+        "poster": "https://image.tmdb.org/t/p/w500/iBjjSGgnjAQBSQGO9pYIh7Gp2PO.jpg",
+        "tmdb_id": 62822
       }
     ]
   }
