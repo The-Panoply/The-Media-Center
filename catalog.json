@@ -1,0 +1,380 @@
+{
+  "schema": 1,
+  "lists": {
+    "main": [
+      {
+        "title": "Project Hail Mary",
+        "year": 2026,
+        "type": "Movie",
+        "group": "Highest Priority",
+        "poster": null
+      },
+      {
+        "title": "Raised by Wolves",
+        "year": 2020,
+        "type": "TV",
+        "group": "Highest Priority",
+        "poster": null
+      },
+      {
+        "title": "Predestination",
+        "year": 2014,
+        "type": "Movie",
+        "group": "Highest Priority",
+        "poster": null
+      },
+      {
+        "title": "Annihilation",
+        "year": 2018,
+        "type": "Movie",
+        "group": "Highest Priority",
+        "poster": null
+      },
+      {
+        "title": "Sunshine",
+        "year": 2007,
+        "type": "Movie",
+        "group": "Highest Priority",
+        "poster": null
+      },
+      {
+        "title": "Coherence",
+        "year": 2013,
+        "type": "Movie",
+        "group": "Highest Priority",
+        "poster": null
+      },
+      {
+        "title": "The Thirteenth Floor",
+        "year": 1999,
+        "type": "Movie",
+        "group": "Highest Priority",
+        "poster": null
+      },
+      {
+        "title": "Equilibrium",
+        "year": 2002,
+        "type": "Movie",
+        "group": "Highest Priority",
+        "poster": null
+      },
+      {
+        "title": "Mickey 17",
+        "year": 2025,
+        "type": "Movie",
+        "group": "Highest Priority",
+        "poster": null
+      },
+      {
+        "title": "Solaris",
+        "year": 2002,
+        "type": "Movie",
+        "group": "Highest Priority",
+        "poster": null
+      },
+      {
+        "title": "Source Code",
+        "year": 2011,
+        "type": "Movie",
+        "group": "Strong Possibilities",
+        "poster": null
+      },
+      {
+        "title": "Midnight Special",
+        "year": 2016,
+        "type": "Movie",
+        "group": "Strong Possibilities",
+        "poster": null
+      },
+      {
+        "title": "The Endless",
+        "year": 2017,
+        "type": "Movie",
+        "group": "Strong Possibilities",
+        "poster": null
+      },
+      {
+        "title": "Prospect",
+        "year": 2018,
+        "type": "Movie",
+        "group": "Strong Possibilities",
+        "poster": null
+      },
+      {
+        "title": "The Vast of Night",
+        "year": 2019,
+        "type": "Movie",
+        "group": "Strong Possibilities",
+        "poster": null
+      },
+      {
+        "title": "Bugonia",
+        "year": 2025,
+        "type": "Movie",
+        "group": "Strong Possibilities",
+        "poster": null
+      },
+      {
+        "title": "Pandorum",
+        "year": 2009,
+        "type": "Movie",
+        "group": "Strong Possibilities",
+        "poster": null
+      },
+      {
+        "title": "The Artifice Girl",
+        "year": 2022,
+        "type": "Movie",
+        "group": "Strong Possibilities",
+        "poster": null
+      },
+      {
+        "title": "Ad Astra",
+        "year": 2019,
+        "type": "Movie",
+        "group": "Strong Possibilities",
+        "poster": null
+      },
+      {
+        "title": "Solaris",
+        "year": 1972,
+        "type": "Movie",
+        "group": "Strong Possibilities",
+        "poster": null
+      },
+      {
+        "title": "Timecrimes",
+        "year": 2007,
+        "type": "Movie",
+        "group": "Strong Possibilities",
+        "poster": null
+      },
+      {
+        "title": "Primer",
+        "year": 2004,
+        "type": "Movie",
+        "group": "More Experimental or Uncertain",
+        "poster": null
+      },
+      {
+        "title": "Aniara",
+        "year": 2018,
+        "type": "Movie",
+        "group": "More Experimental or Uncertain",
+        "poster": null
+      },
+      {
+        "title": "Under the Skin",
+        "year": 2013,
+        "type": "Movie",
+        "group": "More Experimental or Uncertain",
+        "poster": null
+      },
+      {
+        "title": "High Life",
+        "year": 2018,
+        "type": "Movie",
+        "group": "More Experimental or Uncertain",
+        "poster": null
+      },
+      {
+        "title": "Upstream Color",
+        "year": 2013,
+        "type": "Movie",
+        "group": "More Experimental or Uncertain",
+        "poster": null
+      },
+      {
+        "title": "Fast Color",
+        "year": 2018,
+        "type": "Movie",
+        "group": "More Experimental or Uncertain",
+        "poster": null
+      },
+      {
+        "title": "Sputnik",
+        "year": 2020,
+        "type": "Movie",
+        "group": "More Experimental or Uncertain",
+        "poster": null
+      },
+      {
+        "title": "Splice",
+        "year": 2009,
+        "type": "Movie",
+        "group": "More Experimental or Uncertain",
+        "poster": null
+      },
+      {
+        "title": "Tau",
+        "year": 2018,
+        "type": "Movie",
+        "group": "More Experimental or Uncertain",
+        "poster": null
+      },
+      {
+        "title": "Lockout",
+        "year": 2012,
+        "type": "Movie",
+        "group": "More Experimental or Uncertain",
+        "poster": null
+      }
+    ],
+    "candidates": [
+      {
+        "title": "What Happened to Monday",
+        "year": 2017,
+        "type": "Movie",
+        "group": "Science Fiction & Dystopian Movies",
+        "poster": null
+      },
+      {
+        "title": "Captive State",
+        "year": 2019,
+        "type": "Movie",
+        "group": "Science Fiction & Dystopian Movies",
+        "poster": null
+      },
+      {
+        "title": "Mars Express",
+        "year": 2023,
+        "type": "Movie",
+        "group": "Science Fiction & Dystopian Movies",
+        "poster": null
+      },
+      {
+        "title": "The Girl with All the Gifts",
+        "year": 2016,
+        "type": "Movie",
+        "group": "Science Fiction & Dystopian Movies",
+        "poster": null
+      },
+      {
+        "title": "Automata",
+        "year": 2014,
+        "type": "Movie",
+        "group": "Science Fiction & Dystopian Movies",
+        "poster": null
+      },
+      {
+        "title": "The Machine",
+        "year": 2013,
+        "type": "Movie",
+        "group": "Science Fiction & Dystopian Movies",
+        "poster": null
+      },
+      {
+        "title": "Freaks",
+        "year": 2018,
+        "type": "Movie",
+        "group": "Science Fiction & Dystopian Movies",
+        "poster": null
+      },
+      {
+        "title": "The Wandering Earth",
+        "year": 2019,
+        "type": "Movie",
+        "group": "Science Fiction & Dystopian Movies",
+        "poster": null
+      },
+      {
+        "title": "The Congress",
+        "year": 2013,
+        "type": "Movie",
+        "group": "Science Fiction & Dystopian Movies",
+        "poster": null
+      },
+      {
+        "title": "The Town",
+        "year": 2010,
+        "type": "Movie",
+        "group": "Character-Driven Thrillers",
+        "poster": null
+      },
+      {
+        "title": "End of Watch",
+        "year": 2012,
+        "type": "Movie",
+        "group": "Character-Driven Thrillers",
+        "poster": null
+      },
+      {
+        "title": "Thief",
+        "year": 1981,
+        "type": "Movie",
+        "group": "Character-Driven Thrillers",
+        "poster": null
+      },
+      {
+        "title": "12 Monkeys",
+        "year": 1995,
+        "type": "Movie",
+        "group": "Other Movie Candidates",
+        "poster": null
+      },
+      {
+        "title": "Strange Days",
+        "year": 1995,
+        "type": "Movie",
+        "group": "Other Movie Candidates",
+        "poster": null
+      },
+      {
+        "title": "The Lives of Others",
+        "year": 2006,
+        "type": "Movie",
+        "group": "Other Movie Candidates",
+        "poster": null
+      },
+      {
+        "title": "Counterpart",
+        "year": 2017,
+        "type": "TV",
+        "group": "Television Series",
+        "poster": null
+      },
+      {
+        "title": "Pantheon",
+        "year": 2022,
+        "type": "TV",
+        "group": "Television Series",
+        "poster": null
+      },
+      {
+        "title": "Severance",
+        "year": 2022,
+        "type": "TV",
+        "group": "Television Series",
+        "poster": null
+      },
+      {
+        "title": "Years and Years",
+        "year": 2019,
+        "type": "TV",
+        "group": "Television Series",
+        "poster": null
+      },
+      {
+        "title": "Devs",
+        "year": 2020,
+        "type": "TV",
+        "group": "Television Series",
+        "poster": null
+      },
+      {
+        "title": "Dark",
+        "year": 2017,
+        "type": "TV",
+        "group": "Television Series",
+        "poster": null
+      },
+      {
+        "title": "Humans",
+        "year": 2015,
+        "type": "TV",
+        "group": "Television Series",
+        "poster": null
+      }
+    ]
+  }
+}
