@@ -51,14 +51,23 @@ def details(item):
     runtimes = data.get("episode_run_time", []) if kind == "tv" else [data.get("runtime")]
     runtime = next((v for v in runtimes if isinstance(v, int) and v > 0), None)
     rating = data.get("vote_average")
-    credits = api(kind + "/" + str(item["tmdb_id"]) + "/credits", {"language": "en-US"})
-    providers = api(kind + "/" + str(item["tmdb_id"]) + "/watch/providers", {})
+    try:
+        credits = api(kind + "/" + str(item["tmdb_id"]) + "/credits", {"language": "en-US"})
+    except (urllib.error.URLError, TimeoutError, ValueError) as exc:
+        print("CREDITS ERROR", item["title"], str(exc))
+        credits = {}
+    try:
+        providers = api(kind + "/" + str(item["tmdb_id"]) + "/watch/providers", {})
+    except (urllib.error.URLError, TimeoutError, ValueError) as exc:
+        print("PROVIDERS ERROR", item["title"], str(exc))
+        providers = {}
     us = providers.get("results", {}).get("US", {})
     streaming = [p["provider_name"] for p in us.get("flatrate", []) if p.get("provider_name")]
     rent = [p["provider_name"] for p in us.get("rent", []) if p.get("provider_name")]
     buy = [p["provider_name"] for p in us.get("buy", []) if p.get("provider_name")]
     return {
-        "cast": [p["name"] for p in credits.get("cast", []) if p.get("name")][:4],
+        "cast": [p["name"] for p in credits.get("cast", []) if p.get("name")][:4] or item.get("cast", []),
+        "poster": ("https://image.tmdb.org/t/p/w500" + data["poster_path"]) if data.get("poster_path") else item.get("poster"),
         "watch_us": {"stream": list(dict.fromkeys(streaming)), "rent": list(dict.fromkeys(rent)), "buy": list(dict.fromkeys(buy)), "source": "TMDb", "checked": time.strftime("%Y-%m-%d")},
         "synopsis": data.get("overview") or None,
         "genres": [g["name"] for g in data.get("genres", []) if g.get("name")][:3],
