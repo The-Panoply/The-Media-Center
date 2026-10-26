@@ -65,10 +65,20 @@ def details(item):
     streaming = [p["provider_name"] for p in us.get("flatrate", []) if p.get("provider_name")]
     rent = [p["provider_name"] for p in us.get("rent", []) if p.get("provider_name")]
     buy = [p["provider_name"] for p in us.get("buy", []) if p.get("provider_name")]
+    def logo_items(kind):
+        seen = set()
+        result = []
+        for provider in us.get(kind, []):
+            name = provider.get("provider_name")
+            logo = provider.get("logo_path")
+            if name and logo and name not in seen:
+                result.append({"name": name, "logo": "https://image.tmdb.org/t/p/w92" + logo})
+                seen.add(name)
+        return result
     return {
         "cast": [p["name"] for p in credits.get("cast", []) if p.get("name")][:4] or item.get("cast", []),
         "poster": ("https://image.tmdb.org/t/p/w500" + data["poster_path"]) if data.get("poster_path") else item.get("poster"),
-        "watch_us": {"stream": list(dict.fromkeys(streaming)), "rent": list(dict.fromkeys(rent)), "buy": list(dict.fromkeys(buy)), "source": "TMDb", "checked": time.strftime("%Y-%m-%d")},
+        "watch_us": {"stream": list(dict.fromkeys(streaming)), "rent": list(dict.fromkeys(rent)), "buy": list(dict.fromkeys(buy)), "stream_logos": logo_items("flatrate"), "rent_logos": logo_items("rent"), "buy_logos": logo_items("buy"), "source": "TMDb", "checked": time.strftime("%Y-%m-%d")},
         "synopsis": data.get("overview") or None,
         "genres": [g["name"] for g in data.get("genres", []) if g.get("name")][:3],
         "runtime_minutes": runtime,
@@ -80,7 +90,7 @@ changed = 0
 unresolved = []
 for section, items in catalog["lists"].items():
     for item in items:
-        if item.get("tmdb_id") and item.get("synopsis") and "genres" in item and "tmdb_rating" in item and "cast" in item and "watch_us" in item:
+        if item.get("tmdb_id") and item.get("synopsis") and "genres" in item and "tmdb_rating" in item and "cast" in item and "watch_us" in item and "stream_logos" in item["watch_us"]:
             continue
         try:
             match = None if item.get("tmdb_id") else resolve(item)
