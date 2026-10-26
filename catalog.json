@@ -392,7 +392,7 @@
           "Horror"
         ],
         "runtime_minutes": 108,
-        "tmdb_rating": 7.0,
+        "tmdb_rating": 7,
         "imdb_id": "tt0448134",
         "short_summary": "Astronauts undertake a desperate mission to reignite the dying Sun.",
         "cast": [
@@ -931,7 +931,7 @@
           "Mystery"
         ],
         "runtime_minutes": 99,
-        "tmdb_rating": 6.0,
+        "tmdb_rating": 6,
         "imdb_id": "tt0307479",
         "short_summary": "A psychologist confronts strange phenomena aboard a station orbiting a mysterious planet.",
         "cast": [
@@ -2007,7 +2007,7 @@
           "Thriller"
         ],
         "runtime_minutes": 93,
-        "tmdb_rating": 7.0,
+        "tmdb_rating": 7,
         "imdb_id": "tt0480669",
         "short_summary": "An accidental trip into the recent past sets off a dangerous chain of events.",
         "cast": [
@@ -2548,7 +2548,7 @@
           "Science Fiction"
         ],
         "runtime_minutes": 102,
-        "tmdb_rating": 6.0,
+        "tmdb_rating": 6,
         "imdb_id": "tt6418778",
         "short_summary": "A woman with unusual powers returns home while evading those pursuing her.",
         "cast": [
@@ -4058,7 +4058,8 @@
           "Bruce Willis",
           "Madeleine Stowe",
           "Brad Pitt"
-        ]
+        ],
+        "imdb_id": "tt0114746"
       },
       {
         "title": "Strange Days",
@@ -4073,7 +4074,7 @@
           "Thriller"
         ],
         "runtime_minutes": 145,
-        "tmdb_rating": 7.0,
+        "tmdb_rating": 7,
         "imdb_id": "tt0114558",
         "short_summary": "A former cop uncovers a deadly conspiracy involving recorded human memories.",
         "cast": [
@@ -4128,7 +4129,7 @@
           "Thriller"
         ],
         "runtime_minutes": 137,
-        "tmdb_rating": 8.0,
+        "tmdb_rating": 8,
         "imdb_id": "tt0405094",
         "short_summary": "An East German surveillance officer becomes entangled in the lives of the artists he monitors.",
         "cast": [
