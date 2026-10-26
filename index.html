@@ -73,6 +73,67 @@ article:focus-visible{outline:2px solid #916b44;outline-offset:4px;border-radius
 @media(max-width:550px){.ratings{gap:3px 6px;font-size:10.5px}.rating-icon{width:10px;height:10px}.rating-item:first-child .rating-icon{width:19px;height:10px}.format{font-size:10px}.watch-logo{width:19px;height:19px}}
 /* Streaming only: simple text, no provider logos or purchase options */
 .watch{display:block;margin:7px 0 9px;font-size:13px;line-height:1.45;color:#435064}
+
+/* The Media Center — editorial navy & antique-gold refinement */
+:root{
+  --bg:#FCFBF8;
+  --ink:#203448;
+  --sub:#687684;
+  --line:#E8E4DC;
+  --accent:#A27B40;
+  --navy:#203448;
+  --gold:#B18A4C;
+  --paper:#F7F5F0;
+}
+body{background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;-webkit-font-smoothing:antialiased}
+header{background:var(--paper);border-top:3px solid var(--navy);border-bottom:1px solid #E5E0D6}
+header .inner{padding-top:36px;padding-bottom:35px}
+header small{color:var(--accent);font-size:10px;letter-spacing:.27em;font-weight:750}
+h1{color:#1C3247;font-family:Georgia,"Times New Roman",serif;font-weight:400;font-size:clamp(41px,5.3vw,64px);line-height:1.14;letter-spacing:-.047em;margin:9px 0 7px}
+header p{color:#647282;font-size:14px;letter-spacing:.012em}
+header .inner::after{content:"";display:block;width:54px;height:2px;background:var(--gold);margin-top:22px}
+main{padding-top:29px}
+.tools{gap:15px;align-items:center;margin:0 0 18px;padding-bottom:15px;border-bottom:1px solid var(--line)}
+.tabs{gap:22px;align-self:stretch;align-items:stretch}
+.tabs button{border:0;border-bottom:2px solid transparent;border-radius:0;background:transparent;color:#74808A;padding:10px 1px 12px;font-size:13px;font-weight:600;letter-spacing:.015em;white-space:nowrap;transition:color .15s,border-color .15s}
+.tabs button:hover{color:var(--navy);background:transparent}
+.tabs button[aria-pressed=true]{background:transparent;border-color:var(--gold);color:var(--navy);font-weight:700}
+input,select{border:1px solid #E1DED7;border-radius:6px;background:#fff;color:var(--navy);font-size:13px;padding:10px 12px;box-shadow:0 1px 2px rgba(20,38,53,.025)}
+input::placeholder{color:#9AA2A8}
+input:focus,select:focus,button:focus-visible{outline:2px solid rgba(177,138,76,.45);outline-offset:3px}
+select{min-width:125px}
+.count{color:#89919A;font-size:11px;letter-spacing:.08em;text-transform:uppercase;margin-bottom:10px}
+h2{color:#23394D;font:normal 29px/1.2 Georgia,"Times New Roman",serif;letter-spacing:-.025em;margin:38px 0 11px;padding:0 0 13px;border-bottom:1px solid #DCD8D0}
+article{border-bottom-color:#EBE7DF}
+article:hover{background:rgba(239,234,225,.22)}
+article:focus-visible{outline-color:var(--gold)}
+.title{color:#1F3244;letter-spacing:-.019em}
+.rank{color:var(--accent)}
+.year,.format{color:#8A929B}
+.short-summary{color:#4D5C69}
+.cast,.extra,.meta{color:#7A858E}
+.extra{border-top-color:#E6E0D6}
+.rating-score{color:#485867}
+footer{background:#F7F5F0;border-top:1px solid #E5E0D6;color:#87909A;font-size:11px;line-height:1.7}
+@media(max-width:800px){
+  header .inner{padding-top:30px;padding-bottom:29px}
+  .tools{gap:11px}
+  h2{margin-top:31px}
+}
+@media(max-width:550px){
+  header .inner{padding-top:27px;padding-bottom:25px}
+  header .inner::after{margin-top:18px;width:43px}
+  h1{font-size:clamp(38px,10vw,49px)}
+  header p{font-size:13px}
+  main{padding-top:18px}
+  .tools{gap:9px;padding-bottom:12px}
+  .tabs{width:100%;gap:22px}
+  .tabs button{flex:0 0 auto;padding:7px 1px 10px;font-size:13px}
+  input{min-width:0}
+  select{min-width:112px}
+  h2{font-size:26px}
+}
+@media(prefers-reduced-motion:reduce){.tabs button{transition:none}}
 </style></head><body><header><div class="inner"><small>THE PANOPLY</small><h1>The Media Center</h1><p>Movies, television &amp; what to watch next.</p></div></header><main><div class="tools"><div class="tabs"><button id="main" aria-pressed="true">Main Watchlist</button><button id="candidates" aria-pressed="false">Candidates</button></div><input id="search" type="search" placeholder="Search titles…" aria-label="Search titles"><select id="format" aria-label="Filter by format"><option value="All">All formats</option><option value="Movie">Movies</option><option value="TV">Television</option></select></div><div class="count" id="count"></div><section id="results" aria-live="polite"></section></main><footer>Public watchlists only. Private records remain in Google Drive. Poster artwork is added automatically when a verified source is available. IMDb, Metacritic, and Rotten Tomatoes scores appear only when verified and available.</footer><script>
 let lists={main:[],candidates:[]};
 let active='main';
