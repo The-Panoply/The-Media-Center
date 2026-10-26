@@ -758,7 +758,13 @@
         "runtime_minutes": 89,
         "tmdb_rating": 7.5,
         "imdb_id": "tt26915336",
-        "short_summary": "A detective and her android partner uncover a conspiracy on a futuristic Mars."
+        "short_summary": "A detective and her android partner uncover a conspiracy on a futuristic Mars.",
+        "cast": [
+          "Léa Drucker",
+          "Mathieu Amalric",
+          "Daniel Njo Lobé",
+          "Marie Bouvet"
+        ]
       },
       {
         "title": "The Girl with All the Gifts",
