@@ -17,7 +17,13 @@
         ],
         "runtime_minutes": 157,
         "tmdb_rating": 8.6,
-        "imdb_id": "tt12042730"
+        "imdb_id": "tt12042730",
+        "short_summary": "An amnesiac astronaut must solve a cosmic mystery to save Earth.",
+        "cast": [
+          "Ryan Gosling",
+          "Sandra Hüller",
+          "Milana Vayntrub"
+        ]
       },
       {
         "title": "Raised by Wolves",
@@ -33,7 +39,13 @@
         ],
         "runtime_minutes": null,
         "tmdb_rating": 7.5,
-        "imdb_id": null
+        "imdb_id": null,
+        "short_summary": "Two androids attempt to raise human children on a distant planet after Earth's collapse.",
+        "cast": [
+          "Amanda Collin",
+          "Abubakar Salim",
+          "Travis Fimmel"
+        ]
       },
       {
         "title": "Predestination",
@@ -49,7 +61,13 @@
         ],
         "runtime_minutes": 98,
         "tmdb_rating": 7.4,
-        "imdb_id": "tt2397535"
+        "imdb_id": "tt2397535",
+        "short_summary": "A time-traveling agent pursues an elusive criminal on a final assignment.",
+        "cast": [
+          "Ethan Hawke",
+          "Sarah Snook",
+          "Noah Taylor"
+        ]
       },
       {
         "title": "Annihilation",
@@ -65,7 +83,14 @@
         ],
         "runtime_minutes": 115,
         "tmdb_rating": 6.5,
-        "imdb_id": "tt2798920"
+        "imdb_id": "tt2798920",
+        "short_summary": "A biologist joins a dangerous expedition into a mysterious, reality-altering zone.",
+        "cast": [
+          "Natalie Portman",
+          "Jennifer Jason Leigh",
+          "Gina Rodriguez",
+          "Tessa Thompson"
+        ]
       },
       {
         "title": "Sunshine",
@@ -81,8 +106,15 @@
           "Horror"
         ],
         "runtime_minutes": 108,
-        "tmdb_rating": 7.0,
-        "imdb_id": "tt0448134"
+        "tmdb_rating": 7,
+        "imdb_id": "tt0448134",
+        "short_summary": "Astronauts undertake a desperate mission to reignite the dying Sun.",
+        "cast": [
+          "Cillian Murphy",
+          "Rose Byrne",
+          "Chris Evans",
+          "Michelle Yeoh"
+        ]
       },
       {
         "title": "Coherence",
@@ -98,7 +130,13 @@
         ],
         "runtime_minutes": 89,
         "tmdb_rating": 7.2,
-        "imdb_id": "tt2866360"
+        "imdb_id": "tt2866360",
+        "short_summary": "A passing comet turns a dinner party into an unsettling puzzle.",
+        "cast": [
+          "Emily Baldoni",
+          "Maury Sterling",
+          "Nicholas Brendon"
+        ]
       },
       {
         "title": "The Thirteenth Floor",
@@ -115,7 +153,13 @@
         ],
         "runtime_minutes": 100,
         "tmdb_rating": 7.1,
-        "imdb_id": "tt0139809"
+        "imdb_id": "tt0139809",
+        "short_summary": "A man's investigation exposes disturbing secrets about the nature of his reality.",
+        "cast": [
+          "Craig Bierko",
+          "Gretchen Mol",
+          "Armin Mueller-Stahl"
+        ]
       },
       {
         "title": "Equilibrium",
@@ -132,7 +176,13 @@
         ],
         "runtime_minutes": 107,
         "tmdb_rating": 7.1,
-        "imdb_id": "tt0238380"
+        "imdb_id": "tt0238380",
+        "short_summary": "In a society that outlaws emotion, an enforcer begins to question the regime.",
+        "cast": [
+          "Christian Bale",
+          "Emily Watson",
+          "Taye Diggs"
+        ]
       },
       {
         "title": "Mickey 17",
@@ -149,7 +199,14 @@
         ],
         "runtime_minutes": 137,
         "tmdb_rating": 6.8,
-        "imdb_id": "tt12299608"
+        "imdb_id": "tt12299608",
+        "short_summary": "A disposable worker repeatedly dies and is replaced on a distant-world mission.",
+        "cast": [
+          "Robert Pattinson",
+          "Naomi Ackie",
+          "Steven Yeun",
+          "Toni Collette"
+        ]
       },
       {
         "title": "Solaris",
@@ -165,8 +222,14 @@
           "Mystery"
         ],
         "runtime_minutes": 99,
-        "tmdb_rating": 6.0,
-        "imdb_id": "tt0307479"
+        "tmdb_rating": 6,
+        "imdb_id": "tt0307479",
+        "short_summary": "A psychologist confronts strange phenomena aboard a station orbiting a mysterious planet.",
+        "cast": [
+          "George Clooney",
+          "Natascha McElhone",
+          "Viola Davis"
+        ]
       },
       {
         "title": "Source Code",
@@ -183,7 +246,13 @@
         ],
         "runtime_minutes": 93,
         "tmdb_rating": 7.3,
-        "imdb_id": "tt0945513"
+        "imdb_id": "tt0945513",
+        "short_summary": "A soldier relives the final minutes before a train bombing to identify the attacker.",
+        "cast": [
+          "Jake Gyllenhaal",
+          "Michelle Monaghan",
+          "Vera Farmiga"
+        ]
       },
       {
         "title": "Midnight Special",
@@ -200,7 +269,14 @@
         ],
         "runtime_minutes": 112,
         "tmdb_rating": 6.3,
-        "imdb_id": "tt2649554"
+        "imdb_id": "tt2649554",
+        "short_summary": "A father flees with his son, whose extraordinary abilities attract dangerous attention.",
+        "cast": [
+          "Michael Shannon",
+          "Jaeden Martell",
+          "Joel Edgerton",
+          "Kirsten Dunst"
+        ]
       },
       {
         "title": "The Endless",
@@ -217,7 +293,13 @@
         ],
         "runtime_minutes": 112,
         "tmdb_rating": 6.3,
-        "imdb_id": "tt3986820"
+        "imdb_id": "tt3986820",
+        "short_summary": "Two brothers revisit a former cult and encounter inexplicable events.",
+        "cast": [
+          "Justin Benson",
+          "Aaron Moorhead",
+          "Callie Hernandez"
+        ]
       },
       {
         "title": "Prospect",
@@ -232,7 +314,13 @@
         ],
         "runtime_minutes": 98,
         "tmdb_rating": 6.2,
-        "imdb_id": "tt7946422"
+        "imdb_id": "tt7946422",
+        "short_summary": "A father and daughter prospecting on a toxic alien moon face a fight for survival.",
+        "cast": [
+          "Sophie Thatcher",
+          "Pedro Pascal",
+          "Jay Duplass"
+        ]
       },
       {
         "title": "The Vast of Night",
@@ -249,7 +337,12 @@
         ],
         "runtime_minutes": 91,
         "tmdb_rating": 6.6,
-        "imdb_id": "tt6803046"
+        "imdb_id": "tt6803046",
+        "short_summary": "Two young radio enthusiasts discover an eerie signal in a small town.",
+        "cast": [
+          "Sierra McCormick",
+          "Jake Horowitz"
+        ]
       },
       {
         "title": "Bugonia",
@@ -266,7 +359,8 @@
         ],
         "runtime_minutes": 119,
         "tmdb_rating": 7.3,
-        "imdb_id": "tt12300742"
+        "imdb_id": "tt12300742",
+        "short_summary": "Two conspiracy theorists abduct a CEO they believe is an extraterrestrial."
       },
       {
         "title": "Pandorum",
@@ -283,7 +377,13 @@
         ],
         "runtime_minutes": 108,
         "tmdb_rating": 6.6,
-        "imdb_id": "tt1188729"
+        "imdb_id": "tt1188729",
+        "short_summary": "Two astronauts awaken aboard a seemingly abandoned ship with no memory of their mission.",
+        "cast": [
+          "Dennis Quaid",
+          "Ben Foster",
+          "Antje Traue"
+        ]
       },
       {
         "title": "The Artifice Girl",
@@ -300,7 +400,8 @@
         ],
         "runtime_minutes": 93,
         "tmdb_rating": 6.7,
-        "imdb_id": "tt20859464"
+        "imdb_id": "tt20859464",
+        "short_summary": "Investigators discover that a crime-fighting AI is evolving beyond its intended purpose."
       },
       {
         "title": "Ad Astra",
@@ -316,7 +417,13 @@
         ],
         "runtime_minutes": 123,
         "tmdb_rating": 6.1,
-        "imdb_id": "tt2935510"
+        "imdb_id": "tt2935510",
+        "short_summary": "An astronaut journeys across the solar system to investigate a threat tied to his father.",
+        "cast": [
+          "Brad Pitt",
+          "Tommy Lee Jones",
+          "Ruth Negga"
+        ]
       },
       {
         "title": "Solaris",
@@ -333,7 +440,13 @@
         ],
         "runtime_minutes": 167,
         "tmdb_rating": 7.8,
-        "imdb_id": "tt0069293"
+        "imdb_id": "tt0069293",
+        "short_summary": "A psychologist investigates unsettling events aboard a station orbiting an enigmatic planet.",
+        "cast": [
+          "Donatas Banionis",
+          "Natalya Bondarchuk",
+          "Jüri Järvet"
+        ]
       },
       {
         "title": "Timecrimes",
@@ -348,8 +461,9 @@
           "Thriller"
         ],
         "runtime_minutes": 93,
-        "tmdb_rating": 7.0,
-        "imdb_id": "tt0480669"
+        "tmdb_rating": 7,
+        "imdb_id": "tt0480669",
+        "short_summary": "An accidental trip into the recent past sets off a dangerous chain of events."
       },
       {
         "title": "Primer",
@@ -366,7 +480,12 @@
         ],
         "runtime_minutes": 77,
         "tmdb_rating": 6.7,
-        "imdb_id": "tt0390384"
+        "imdb_id": "tt0390384",
+        "short_summary": "Two engineers stumble upon a time-altering invention with increasingly tangled consequences.",
+        "cast": [
+          "Shane Carruth",
+          "David Sullivan"
+        ]
       },
       {
         "title": "Aniara",
@@ -382,22 +501,21 @@
         ],
         "runtime_minutes": 106,
         "tmdb_rating": 6.1,
-        "imdb_id": "tt7589524"
+        "imdb_id": "tt7589524",
+        "short_summary": "A spacecraft carrying settlers to Mars drifts off course, leaving its passengers adrift."
       },
       {
         "title": "Under the Skin",
         "year": 2013,
         "type": "Movie",
         "group": "More Experimental or Uncertain",
-        "poster": "https://image.tmdb.org/t/p/w500/kX41SU4XFBbeXvVzEb0vbzpkGgO.jpg",
-        "tmdb_id": 698232,
-        "synopsis": "Man and Woman are reunited after a long time. Sorrow and desire cannot break the silence. But that's okay: when words don't come, it's the body that speaks.",
-        "genres": [
-          "Drama"
-        ],
-        "runtime_minutes": 19,
-        "tmdb_rating": 6.2,
-        "imdb_id": "tt4698852"
+        "poster": null,
+        "tmdb_id": 97370,
+        "short_summary": "A mysterious woman travels through Scotland, luring unsuspecting men into danger.",
+        "cast": [
+          "Scarlett Johansson",
+          "Jeremy McWilliams"
+        ]
       },
       {
         "title": "High Life",
@@ -414,7 +532,13 @@
         ],
         "runtime_minutes": 113,
         "tmdb_rating": 5.7,
-        "imdb_id": "tt4827558"
+        "imdb_id": "tt4827558",
+        "short_summary": "A father and daughter struggle to survive aboard a doomed deep-space vessel.",
+        "cast": [
+          "Robert Pattinson",
+          "Juliette Binoche",
+          "Mia Goth"
+        ]
       },
       {
         "title": "Upstream Color",
@@ -430,7 +554,8 @@
         ],
         "runtime_minutes": 96,
         "tmdb_rating": 6.3,
-        "imdb_id": "tt2084989"
+        "imdb_id": "tt2084989",
+        "short_summary": "Two strangers struggle to rebuild their identities after a bizarre biological encounter."
       },
       {
         "title": "Fast Color",
@@ -445,8 +570,9 @@
           "Science Fiction"
         ],
         "runtime_minutes": 102,
-        "tmdb_rating": 6.0,
-        "imdb_id": "tt6418778"
+        "tmdb_rating": 6,
+        "imdb_id": "tt6418778",
+        "short_summary": "A woman with unusual powers returns home while evading those pursuing her."
       },
       {
         "title": "Sputnik",
@@ -463,7 +589,8 @@
         ],
         "runtime_minutes": 113,
         "tmdb_rating": 6.5,
-        "imdb_id": "tt11905962"
+        "imdb_id": "tt11905962",
+        "short_summary": "A Soviet cosmonaut returns from space carrying something terrifying."
       },
       {
         "title": "Splice",
@@ -479,7 +606,13 @@
         ],
         "runtime_minutes": 104,
         "tmdb_rating": 5.9,
-        "imdb_id": "tt1017460"
+        "imdb_id": "tt1017460",
+        "short_summary": "Two scientists create a human-animal hybrid whose rapid development defies their control.",
+        "cast": [
+          "Adrien Brody",
+          "Sarah Polley",
+          "Delphine Chanéac"
+        ]
       },
       {
         "title": "Tau",
@@ -496,7 +629,8 @@
         ],
         "runtime_minutes": 97,
         "tmdb_rating": 6.1,
-        "imdb_id": "tt4357394"
+        "imdb_id": "tt4357394",
+        "short_summary": "A captive woman attempts to outwit the AI controlling her high-tech prison."
       },
       {
         "title": "Lockout",
@@ -513,7 +647,13 @@
         ],
         "runtime_minutes": 95,
         "tmdb_rating": 5.9,
-        "imdb_id": "tt1592525"
+        "imdb_id": "tt1592525",
+        "short_summary": "A disgraced agent is sent to rescue the president's daughter from a space prison.",
+        "cast": [
+          "Guy Pearce",
+          "Maggie Grace",
+          "Vincent Regan"
+        ]
       }
     ],
     "candidates": [
@@ -532,7 +672,8 @@
         ],
         "runtime_minutes": 123,
         "tmdb_rating": 7.1,
-        "imdb_id": "tt1536537"
+        "imdb_id": "tt1536537",
+        "short_summary": "Seven identical sisters hide their existence in a one-child society until one disappears."
       },
       {
         "title": "Captive State",
@@ -549,7 +690,8 @@
         ],
         "runtime_minutes": 110,
         "tmdb_rating": 5.7,
-        "imdb_id": "tt5968394"
+        "imdb_id": "tt5968394",
+        "short_summary": "In occupied Chicago, resistance and collaboration collide under alien rule."
       },
       {
         "title": "Mars Express",
@@ -566,7 +708,8 @@
         ],
         "runtime_minutes": 89,
         "tmdb_rating": 7.5,
-        "imdb_id": "tt26915336"
+        "imdb_id": "tt26915336",
+        "short_summary": "A detective and her android partner uncover a conspiracy on a futuristic Mars."
       },
       {
         "title": "The Girl with All the Gifts",
@@ -583,7 +726,8 @@
         ],
         "runtime_minutes": 111,
         "tmdb_rating": 6.6,
-        "imdb_id": "tt4547056"
+        "imdb_id": "tt4547056",
+        "short_summary": "A gifted young girl may hold the key to survival in a world overrun by infection."
       },
       {
         "title": "Automata",
@@ -599,7 +743,8 @@
         ],
         "runtime_minutes": 110,
         "tmdb_rating": 5.9,
-        "imdb_id": "tt1971325"
+        "imdb_id": "tt1971325",
+        "short_summary": "An insurance investigator discovers that robots may be evolving beyond their programming."
       },
       {
         "title": "The Machine",
@@ -615,7 +760,8 @@
         ],
         "runtime_minutes": 92,
         "tmdb_rating": 5.9,
-        "imdb_id": "tt2317225"
+        "imdb_id": "tt2317225",
+        "short_summary": "A defense scientist's experimental AI weapon develops an unexpected identity."
       },
       {
         "title": "Freaks",
@@ -631,7 +777,8 @@
         ],
         "runtime_minutes": 105,
         "tmdb_rating": 6.7,
-        "imdb_id": "tt8781414"
+        "imdb_id": "tt8781414",
+        "short_summary": "A sheltered girl begins questioning her father's warnings about the world outside."
       },
       {
         "title": "The Wandering Earth",
@@ -648,7 +795,8 @@
         ],
         "runtime_minutes": 126,
         "tmdb_rating": 6.6,
-        "imdb_id": "tt7605074"
+        "imdb_id": "tt7605074",
+        "short_summary": "Humanity attempts to move Earth itself to escape the expanding Sun."
       },
       {
         "title": "The Congress",
@@ -665,7 +813,8 @@
         ],
         "runtime_minutes": 123,
         "tmdb_rating": 6.4,
-        "imdb_id": "tt1821641"
+        "imdb_id": "tt1821641",
+        "short_summary": "An actress sells her digital likeness and enters a strange new entertainment industry."
       },
       {
         "title": "The Town",
@@ -682,7 +831,13 @@
         ],
         "runtime_minutes": 125,
         "tmdb_rating": 7.2,
-        "imdb_id": "tt0840361"
+        "imdb_id": "tt0840361",
+        "short_summary": "A bank robber's relationship with a hostage complicates his criminal life.",
+        "cast": [
+          "Ben Affleck",
+          "Rebecca Hall",
+          "Jeremy Renner"
+        ]
       },
       {
         "title": "End of Watch",
@@ -699,7 +854,13 @@
         ],
         "runtime_minutes": 109,
         "tmdb_rating": 7.4,
-        "imdb_id": "tt1855199"
+        "imdb_id": "tt1855199",
+        "short_summary": "Two Los Angeles police officers become targets after a dangerous encounter.",
+        "cast": [
+          "Jake Gyllenhaal",
+          "Michael Peña",
+          "Anna Kendrick"
+        ]
       },
       {
         "title": "Thief",
@@ -716,14 +877,26 @@
         ],
         "runtime_minutes": 123,
         "tmdb_rating": 7.2,
-        "imdb_id": "tt0083190"
+        "imdb_id": "tt0083190",
+        "short_summary": "A skilled safecracker risks his independence for one last lucrative job.",
+        "cast": [
+          "James Caan",
+          "Tuesday Weld",
+          "Robert Prosky"
+        ]
       },
       {
         "title": "12 Monkeys",
         "year": 1995,
         "type": "Movie",
         "group": "Other Movie Candidates",
-        "poster": null
+        "poster": null,
+        "short_summary": "A prisoner travels into the past to investigate the origins of a devastating plague.",
+        "cast": [
+          "Bruce Willis",
+          "Madeleine Stowe",
+          "Brad Pitt"
+        ]
       },
       {
         "title": "Strange Days",
@@ -738,8 +911,9 @@
           "Thriller"
         ],
         "runtime_minutes": 145,
-        "tmdb_rating": 7.0,
-        "imdb_id": "tt0114558"
+        "tmdb_rating": 7,
+        "imdb_id": "tt0114558",
+        "short_summary": "A former cop uncovers a deadly conspiracy involving recorded human memories."
       },
       {
         "title": "The Lives of Others",
@@ -754,8 +928,14 @@
           "Thriller"
         ],
         "runtime_minutes": 137,
-        "tmdb_rating": 8.0,
-        "imdb_id": "tt0405094"
+        "tmdb_rating": 8,
+        "imdb_id": "tt0405094",
+        "short_summary": "An East German surveillance officer becomes entangled in the lives of the artists he monitors.",
+        "cast": [
+          "Ulrich Mühe",
+          "Martina Gedeck",
+          "Sebastian Koch"
+        ]
       },
       {
         "title": "Counterpart",
@@ -771,7 +951,13 @@
         ],
         "runtime_minutes": 56,
         "tmdb_rating": 7.5,
-        "imdb_id": null
+        "imdb_id": null,
+        "short_summary": "A bureaucrat discovers that his agency conceals a passage to a parallel world.",
+        "cast": [
+          "J. K. Simmons",
+          "Olivia Williams",
+          "Harry Lloyd"
+        ]
       },
       {
         "title": "Pantheon",
@@ -787,7 +973,8 @@
         ],
         "runtime_minutes": null,
         "tmdb_rating": 8.2,
-        "imdb_id": null
+        "imdb_id": null,
+        "short_summary": "A teenager learns that her dead father's consciousness may have survived online."
       },
       {
         "title": "Severance",
@@ -804,7 +991,14 @@
         ],
         "runtime_minutes": null,
         "tmdb_rating": 8.4,
-        "imdb_id": null
+        "imdb_id": null,
+        "short_summary": "Employees whose work and personal memories are separated begin questioning their employer.",
+        "cast": [
+          "Adam Scott",
+          "Britt Lower",
+          "Patricia Arquette",
+          "John Turturro"
+        ]
       },
       {
         "title": "Years and Years",
@@ -821,7 +1015,8 @@
         ],
         "runtime_minutes": 60,
         "tmdb_rating": 7.5,
-        "imdb_id": null
+        "imdb_id": null,
+        "short_summary": "One British family's lives unfold amid years of political and technological upheaval."
       },
       {
         "title": "Devs",
@@ -838,7 +1033,13 @@
         ],
         "runtime_minutes": 52,
         "tmdb_rating": 7.3,
-        "imdb_id": null
+        "imdb_id": null,
+        "short_summary": "A software engineer investigates a secretive tech division after her boyfriend disappears.",
+        "cast": [
+          "Sonoya Mizuno",
+          "Nick Offerman",
+          "Jin Ha"
+        ]
       },
       {
         "title": "Dark",
@@ -855,7 +1056,13 @@
         ],
         "runtime_minutes": null,
         "tmdb_rating": 8.4,
-        "imdb_id": null
+        "imdb_id": null,
+        "short_summary": "A missing child draws four families into a mystery spanning generations.",
+        "cast": [
+          "Louis Hofmann",
+          "Lisa Vicari",
+          "Maja Schöne"
+        ]
       },
       {
         "title": "Humans",
@@ -872,7 +1079,13 @@
         ],
         "runtime_minutes": 46,
         "tmdb_rating": 7.5,
-        "imdb_id": null
+        "imdb_id": null,
+        "short_summary": "Humanlike robotic servants transform everyday life in a near-future society.",
+        "cast": [
+          "Gemma Chan",
+          "Katherine Parkinson",
+          "Colin Morgan"
+        ]
       }
     ]
   }
