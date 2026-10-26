@@ -249,7 +249,7 @@ function makeCard(item){
   const metadata=[...(item.genres||[]),item.runtime_minutes?(item.type==='TV'?item.runtime_minutes+' min/episode':item.runtime_minutes+' min'):null].filter(Boolean);
   if(metadata.length)extra.append(node('div','meta',metadata.join(' · ')));
   if(item.watch_us?.checked)extra.append(node('p','','US availability via TMDb · checked '+item.watch_us.checked));
-  const hasImdbId=/^tt\\d+$/.test(item.imdb_id||'');
+  const hasImdbId=/^tt\d+$/.test(item.imdb_id||'');
   const detailsUrl=hasImdbId?'https://www.imdb.com/title/'+item.imdb_id+'/':
     item.tmdb_id?'https://www.themoviedb.org/'+(item.type==='TV'?'tv':'movie')+'/'+item.tmdb_id:null;
   if(detailsUrl){
