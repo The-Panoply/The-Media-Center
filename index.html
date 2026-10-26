@@ -154,7 +154,7 @@ footer{background:#FFFFFF;border-top:1px solid #EDF0F2;color:#87909A;font-size:1
 }
 @media(prefers-reduced-motion:reduce){#results article{transition:none}}
 
-/* Custom cinematic wordmark: genuine Georgia serif C with a small inset antique-gold reel. */
+/* Cinematic wordmark: natural serif letters with a separate, understated gold reel. */
 h1.media-wordmark{
   display:flex;
   align-items:baseline;
@@ -175,15 +175,16 @@ h1.media-wordmark{
   letter-spacing:-.015em;
 }
 .wordmark-title{display:inline-flex;align-items:baseline;gap:.2em}
-.wordmark-center{display:inline;white-space:nowrap}
-.wordmark-c{display:inline-block;position:relative;font:inherit;vertical-align:baseline}
+.wordmark-center{white-space:nowrap}
 .wordmark-reel{
-  position:absolute;
-  width:.28em;
-  height:.28em;
-  left:54%;
-  top:.55em;
-  transform:translate(-50%,-50%);
+  display:inline-block;
+  flex:none;
+  align-self:baseline;
+  width:.46em;
+  height:.46em;
+  margin-left:-.045em;
+  transform:translateY(.055em);
+  filter:drop-shadow(0 1px 1px rgba(72,48,21,.20));
   pointer-events:none;
 }
 @media(max-width:550px){
@@ -191,7 +192,7 @@ h1.media-wordmark{
   .wordmark-title{gap:.15em}
 }
 
-</style></head><body><header><div class="inner"><small>THE PANOPLY</small><h1 class="media-wordmark" aria-label="The Media Center"><span class="wordmark-the" aria-hidden="true">The</span><span class="wordmark-title" aria-hidden="true">Media <span class="wordmark-center"><span class="wordmark-c">C<svg class="wordmark-reel" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg" focusable="false" aria-hidden="true"><circle cx="18" cy="18" r="17" fill="#B18A4C"/><circle cx="18" cy="18" r="3" fill="#FFFFFF"/><circle cx="18" cy="9" r="3.5" fill="#FFFFFF"/><circle cx="9.4" cy="15.2" r="3.5" fill="#FFFFFF"/><circle cx="12.6" cy="25.3" r="3.5" fill="#FFFFFF"/><circle cx="23.4" cy="25.3" r="3.5" fill="#FFFFFF"/><circle cx="26.6" cy="15.2" r="3.5" fill="#FFFFFF"/></svg></span>enter</span></span></h1><p>Movies, television &amp; what to watch next.</p></div></header><main><div class="tools"><div class="tabs"><button id="main" aria-pressed="true">Main Watchlist</button><button id="candidates" aria-pressed="false">Candidates</button></div><input id="search" type="search" placeholder="Search titles…" aria-label="Search titles"><select id="format" aria-label="Filter by format"><option value="All">All formats</option><option value="Movie">Movies</option><option value="TV">Television</option></select></div><div class="count" id="count"></div><section id="results" aria-live="polite"></section></main><footer>Public watchlists only. Private records remain in Google Drive. Poster artwork is added automatically when a verified source is available. IMDb, Metacritic, and Rotten Tomatoes scores appear only when verified and available.</footer><script>
+</style></head><body><header><div class="inner"><small>THE PANOPLY</small><h1 class="media-wordmark" aria-label="The Media Center"><span class="wordmark-the" aria-hidden="true">The</span><span class="wordmark-title" aria-hidden="true"><span>Media</span><span class="wordmark-center">Center</span><svg class="wordmark-reel" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" focusable="false" aria-hidden="true"><defs><linearGradient id="reel-gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F0DAA4"/><stop offset=".28" stop-color="#CBA463"/><stop offset=".57" stop-color="#98703B"/><stop offset=".83" stop-color="#D6B774"/><stop offset="1" stop-color="#9F7840"/></linearGradient><linearGradient id="reel-rim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFEAC0"/><stop offset=".6" stop-color="#B18A4C"/><stop offset="1" stop-color="#78542B"/></linearGradient></defs><circle cx="24" cy="24" r="22" fill="url(#reel-rim)"/><circle cx="24" cy="24" r="19" fill="url(#reel-gold)" stroke="#8E6838" stroke-width=".7"/><circle cx="24" cy="24" r="3.2" fill="#FFF7E6" stroke="#8D6B3D" stroke-width="1"/><g fill="#FFFFFF" stroke="#9F7C48" stroke-width=".6"><circle cx="24" cy="12.5" r="4.1"/><circle cx="13.1" cy="20.4" r="4.1"/><circle cx="17.3" cy="33.2" r="4.1"/><circle cx="30.7" cy="33.2" r="4.1"/><circle cx="34.9" cy="20.4" r="4.1"/></g><path d="M10 15a18 18 0 0 1 25-4" fill="none" stroke="#FFF5D8" stroke-width="1.3" opacity=".7"/></svg></span></h1><p>Movies, television &amp; what to watch next.</p></div></header><main><div class="tools"><div class="tabs"><button id="main" aria-pressed="true">Main Watchlist</button><button id="candidates" aria-pressed="false">Candidates</button></div><input id="search" type="search" placeholder="Search titles…" aria-label="Search titles"><select id="format" aria-label="Filter by format"><option value="All">All formats</option><option value="Movie">Movies</option><option value="TV">Television</option></select></div><div class="count" id="count"></div><section id="results" aria-live="polite"></section></main><footer>Public watchlists only. Private records remain in Google Drive. Poster artwork is added automatically when a verified source is available. IMDb, Metacritic, and Rotten Tomatoes scores appear only when verified and available.</footer><script>
 let lists={main:[],candidates:[]};
 let active='main';
 const get=id=>document.getElementById(id);
