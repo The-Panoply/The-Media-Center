@@ -134,6 +134,25 @@ footer{background:#F7F5F0;border-top:1px solid #E5E0D6;color:#87909A;font-size:1
   h2{font-size:26px}
 }
 @media(prefers-reduced-motion:reduce){.tabs button{transition:none}}
+
+/* Softly defined film entries: warm panels with near-invisible outlines */
+#results{row-gap:14px;column-gap:clamp(18px,3vw,42px)}
+#results h2{margin-bottom:0}
+#results article{
+  background:#F8F6F1;
+  border:1px solid #E9E4DA;
+  border-radius:12px;
+  padding:15px;
+  min-width:0;
+  transition:background-color .16s ease,border-color .16s ease;
+}
+#results article:hover{background:#F5F2EB;border-color:#DED6C8}
+#results article:focus-visible{outline:2px solid var(--gold);outline-offset:3px}
+@media(max-width:550px){
+  #results{row-gap:11px}
+  #results article{padding:12px;border-radius:11px}
+}
+@media(prefers-reduced-motion:reduce){#results article{transition:none}}
 </style></head><body><header><div class="inner"><small>THE PANOPLY</small><h1>The Media Center</h1><p>Movies, television &amp; what to watch next.</p></div></header><main><div class="tools"><div class="tabs"><button id="main" aria-pressed="true">Main Watchlist</button><button id="candidates" aria-pressed="false">Candidates</button></div><input id="search" type="search" placeholder="Search titles…" aria-label="Search titles"><select id="format" aria-label="Filter by format"><option value="All">All formats</option><option value="Movie">Movies</option><option value="TV">Television</option></select></div><div class="count" id="count"></div><section id="results" aria-live="polite"></section></main><footer>Public watchlists only. Private records remain in Google Drive. Poster artwork is added automatically when a verified source is available. IMDb, Metacritic, and Rotten Tomatoes scores appear only when verified and available.</footer><script>
 let lists={main:[],candidates:[]};
 let active='main';
