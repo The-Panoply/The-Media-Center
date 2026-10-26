@@ -360,7 +360,11 @@
         "runtime_minutes": 119,
         "tmdb_rating": 7.3,
         "imdb_id": "tt12300742",
-        "short_summary": "Two conspiracy theorists abduct a CEO they believe is an extraterrestrial."
+        "short_summary": "Two conspiracy theorists abduct a CEO they believe is an extraterrestrial.",
+        "cast": [
+          "Emma Stone",
+          "Jesse Plemons"
+        ]
       },
       {
         "title": "Pandorum",
@@ -401,7 +405,12 @@
         "runtime_minutes": 93,
         "tmdb_rating": 6.7,
         "imdb_id": "tt20859464",
-        "short_summary": "Investigators discover that a crime-fighting AI is evolving beyond its intended purpose."
+        "short_summary": "Investigators discover that a crime-fighting AI is evolving beyond its intended purpose.",
+        "cast": [
+          "Tatum Matthews",
+          "Lance Henriksen",
+          "David Girard"
+        ]
       },
       {
         "title": "Ad Astra",
@@ -463,7 +472,12 @@
         "runtime_minutes": 93,
         "tmdb_rating": 7,
         "imdb_id": "tt0480669",
-        "short_summary": "An accidental trip into the recent past sets off a dangerous chain of events."
+        "short_summary": "An accidental trip into the recent past sets off a dangerous chain of events.",
+        "cast": [
+          "Karra Elejalde",
+          "Candela Fernández",
+          "Bárbara Goenaga"
+        ]
       },
       {
         "title": "Primer",
@@ -502,7 +516,12 @@
         "runtime_minutes": 106,
         "tmdb_rating": 6.1,
         "imdb_id": "tt7589524",
-        "short_summary": "A spacecraft carrying settlers to Mars drifts off course, leaving its passengers adrift."
+        "short_summary": "A spacecraft carrying settlers to Mars drifts off course, leaving its passengers adrift.",
+        "cast": [
+          "Emelie Jonsson",
+          "Bianca Cruzeiro",
+          "Arvin Kananian"
+        ]
       },
       {
         "title": "Under the Skin",
@@ -555,7 +574,12 @@
         "runtime_minutes": 96,
         "tmdb_rating": 6.3,
         "imdb_id": "tt2084989",
-        "short_summary": "Two strangers struggle to rebuild their identities after a bizarre biological encounter."
+        "short_summary": "Two strangers struggle to rebuild their identities after a bizarre biological encounter.",
+        "cast": [
+          "Amy Seimetz",
+          "Shane Carruth",
+          "Andrew Sensenig"
+        ]
       },
       {
         "title": "Fast Color",
@@ -572,7 +596,12 @@
         "runtime_minutes": 102,
         "tmdb_rating": 6,
         "imdb_id": "tt6418778",
-        "short_summary": "A woman with unusual powers returns home while evading those pursuing her."
+        "short_summary": "A woman with unusual powers returns home while evading those pursuing her.",
+        "cast": [
+          "Gugu Mbatha-Raw",
+          "Lorraine Toussaint",
+          "David Strathairn"
+        ]
       },
       {
         "title": "Sputnik",
@@ -590,7 +619,12 @@
         "runtime_minutes": 113,
         "tmdb_rating": 6.5,
         "imdb_id": "tt11905962",
-        "short_summary": "A Soviet cosmonaut returns from space carrying something terrifying."
+        "short_summary": "A Soviet cosmonaut returns from space carrying something terrifying.",
+        "cast": [
+          "Oksana Akinshina",
+          "Pyotr Fyodorov",
+          "Fyodor Bondarchuk"
+        ]
       },
       {
         "title": "Splice",
@@ -630,7 +664,12 @@
         "runtime_minutes": 97,
         "tmdb_rating": 6.1,
         "imdb_id": "tt4357394",
-        "short_summary": "A captive woman attempts to outwit the AI controlling her high-tech prison."
+        "short_summary": "A captive woman attempts to outwit the AI controlling her high-tech prison.",
+        "cast": [
+          "Maika Monroe",
+          "Ed Skrein",
+          "Gary Oldman"
+        ]
       },
       {
         "title": "Lockout",
@@ -673,7 +712,12 @@
         "runtime_minutes": 123,
         "tmdb_rating": 7.1,
         "imdb_id": "tt1536537",
-        "short_summary": "Seven identical sisters hide their existence in a one-child society until one disappears."
+        "short_summary": "Seven identical sisters hide their existence in a one-child society until one disappears.",
+        "cast": [
+          "Noomi Rapace",
+          "Glenn Close",
+          "Willem Dafoe"
+        ]
       },
       {
         "title": "Captive State",
@@ -691,7 +735,12 @@
         "runtime_minutes": 110,
         "tmdb_rating": 5.7,
         "imdb_id": "tt5968394",
-        "short_summary": "In occupied Chicago, resistance and collaboration collide under alien rule."
+        "short_summary": "In occupied Chicago, resistance and collaboration collide under alien rule.",
+        "cast": [
+          "John Goodman",
+          "Ashton Sanders",
+          "Jonathan Majors"
+        ]
       },
       {
         "title": "Mars Express",
@@ -727,7 +776,12 @@
         "runtime_minutes": 111,
         "tmdb_rating": 6.6,
         "imdb_id": "tt4547056",
-        "short_summary": "A gifted young girl may hold the key to survival in a world overrun by infection."
+        "short_summary": "A gifted young girl may hold the key to survival in a world overrun by infection.",
+        "cast": [
+          "Sennia Nanua",
+          "Gemma Arterton",
+          "Glenn Close"
+        ]
       },
       {
         "title": "Automata",
@@ -744,7 +798,12 @@
         "runtime_minutes": 110,
         "tmdb_rating": 5.9,
         "imdb_id": "tt1971325",
-        "short_summary": "An insurance investigator discovers that robots may be evolving beyond their programming."
+        "short_summary": "An insurance investigator discovers that robots may be evolving beyond their programming.",
+        "cast": [
+          "Antonio Banderas",
+          "Birgitte Hjort Sørensen",
+          "Melanie Griffith"
+        ]
       },
       {
         "title": "The Machine",
@@ -761,7 +820,12 @@
         "runtime_minutes": 92,
         "tmdb_rating": 5.9,
         "imdb_id": "tt2317225",
-        "short_summary": "A defense scientist's experimental AI weapon develops an unexpected identity."
+        "short_summary": "A defense scientist's experimental AI weapon develops an unexpected identity.",
+        "cast": [
+          "Caity Lotz",
+          "Toby Stephens",
+          "Denis Lawson"
+        ]
       },
       {
         "title": "Freaks",
@@ -778,7 +842,12 @@
         "runtime_minutes": 105,
         "tmdb_rating": 6.7,
         "imdb_id": "tt8781414",
-        "short_summary": "A sheltered girl begins questioning her father's warnings about the world outside."
+        "short_summary": "A sheltered girl begins questioning her father's warnings about the world outside.",
+        "cast": [
+          "Lexy Kolker",
+          "Emile Hirsch",
+          "Bruce Dern"
+        ]
       },
       {
         "title": "The Wandering Earth",
@@ -796,7 +865,12 @@
         "runtime_minutes": 126,
         "tmdb_rating": 6.6,
         "imdb_id": "tt7605074",
-        "short_summary": "Humanity attempts to move Earth itself to escape the expanding Sun."
+        "short_summary": "Humanity attempts to move Earth itself to escape the expanding Sun.",
+        "cast": [
+          "Qu Chuxiao",
+          "Li Guangjie",
+          "Wu Jing"
+        ]
       },
       {
         "title": "The Congress",
@@ -814,7 +888,12 @@
         "runtime_minutes": 123,
         "tmdb_rating": 6.4,
         "imdb_id": "tt1821641",
-        "short_summary": "An actress sells her digital likeness and enters a strange new entertainment industry."
+        "short_summary": "An actress sells her digital likeness and enters a strange new entertainment industry.",
+        "cast": [
+          "Robin Wright",
+          "Harvey Keitel",
+          "Paul Giamatti"
+        ]
       },
       {
         "title": "The Town",
@@ -913,7 +992,12 @@
         "runtime_minutes": 145,
         "tmdb_rating": 7,
         "imdb_id": "tt0114558",
-        "short_summary": "A former cop uncovers a deadly conspiracy involving recorded human memories."
+        "short_summary": "A former cop uncovers a deadly conspiracy involving recorded human memories.",
+        "cast": [
+          "Ralph Fiennes",
+          "Angela Bassett",
+          "Juliette Lewis"
+        ]
       },
       {
         "title": "The Lives of Others",
@@ -974,7 +1058,12 @@
         "runtime_minutes": null,
         "tmdb_rating": 8.2,
         "imdb_id": null,
-        "short_summary": "A teenager learns that her dead father's consciousness may have survived online."
+        "short_summary": "A teenager learns that her dead father's consciousness may have survived online.",
+        "cast": [
+          "Katie Chang",
+          "Paul Dano",
+          "Aaron Eckhart"
+        ]
       },
       {
         "title": "Severance",
@@ -1016,7 +1105,12 @@
         "runtime_minutes": 60,
         "tmdb_rating": 7.5,
         "imdb_id": null,
-        "short_summary": "One British family's lives unfold amid years of political and technological upheaval."
+        "short_summary": "One British family's lives unfold amid years of political and technological upheaval.",
+        "cast": [
+          "Russell Tovey",
+          "Rory Kinnear",
+          "Emma Thompson"
+        ]
       },
       {
         "title": "Devs",
