@@ -26,6 +26,8 @@ article{display:flex;gap:19px;padding:17px 0 22px;border-bottom:1px solid var(--
 .note{font-size:13px;color:var(--sub);margin:9px 0 5px}.synopsis{font-size:14px;line-height:1.5;color:#435064;margin:11px 0}.meta{font-size:13px;color:var(--sub);margin-top:9px}.ratings{font-size:13px;color:#435064;margin:10px 0 8px;display:flex;gap:10px;flex-wrap:wrap}
 .lookup{color:#805b36;font-size:13px;text-decoration:none}
 .lookup:hover{text-decoration:underline}
+.extra .lookup{display:inline-block;margin:8px 0 3px;font-weight:600;text-decoration:underline;text-underline-offset:3px}
+.extra .lookup:focus-visible{outline:2px solid var(--gold);outline-offset:3px;border-radius:2px}
 footer{border-top:1px solid var(--line);font-size:12px;color:var(--sub)}
 @media(max-width:800px){#results{grid-template-columns:1fr}h2{margin-top:28px}.poster{width:160px;flex-basis:160px}}
 @media(max-width:550px){header .inner,main,footer{padding:22px 17px}.tools .tabs{width:100%}.tabs button{flex:1}.poster{width:124px;flex-basis:124px}article{gap:15px;padding:17px 0}.title{font-size:19px}h2{font-size:26px}.note{margin:8px 0 4px}}
@@ -247,6 +249,19 @@ function makeCard(item){
   const metadata=[...(item.genres||[]),item.runtime_minutes?(item.type==='TV'?item.runtime_minutes+' min/episode':item.runtime_minutes+' min'):null].filter(Boolean);
   if(metadata.length)extra.append(node('div','meta',metadata.join(' · ')));
   if(item.watch_us?.checked)extra.append(node('p','','US availability via TMDb · checked '+item.watch_us.checked));
+  const hasImdbId=/^tt\\d+$/.test(item.imdb_id||'');
+  const detailsUrl=hasImdbId?'https://www.imdb.com/title/'+item.imdb_id+'/':
+    item.tmdb_id?'https://www.themoviedb.org/'+(item.type==='TV'?'tv':'movie')+'/'+item.tmdb_id:null;
+  if(detailsUrl){
+    const site=hasImdbId?'IMDb':'TMDb';
+    const link=node('a','lookup','More about this title on '+site+' ↗');
+    link.href=detailsUrl;
+    link.target='_blank';
+    link.rel='noopener noreferrer';
+    link.setAttribute('aria-label','Read more about '+item.title+' on '+site+' (opens in a new tab)');
+    link.addEventListener('click',event=>event.stopPropagation());
+    extra.append(link);
+  }
   if(!extra.childNodes.length)extra.append(node('p','','No additional details available yet.'));
   info.append(extra);
   const toggle=()=>{
@@ -257,6 +272,7 @@ function makeCard(item){
   };
   card.addEventListener('click',toggle);
   card.addEventListener('keydown',event=>{
+    if(event.target!==card)return;
     if(event.key==='Enter'||event.key===' '){event.preventDefault();toggle()}
   });
   card.append(poster,info);
