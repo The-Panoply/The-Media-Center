@@ -57,6 +57,20 @@ article:focus-visible{outline:2px solid #916b44;outline-offset:4px;border-radius
 .rating-item:first-child .rating-icon{width:27px;height:14px}
 .rating-score{font-variant-numeric:tabular-nums;white-space:nowrap;color:#354150}
 @media(max-width:550px){.ratings{gap:3px 8px;font-size:11px}.rating-icon{width:13px;height:13px}.rating-item:first-child .rating-icon{width:25px;height:13px}}
+
+/* Quiet metadata: miniature rating marks, title-line format, provider icons */
+.ratings{gap:3px 8px;font-size:11px;margin:7px 0 6px;line-height:1.25}
+.rating-item{gap:2px}
+.rating-icon{width:10px;height:10px}
+.rating-item:first-child .rating-icon{width:20px;height:10px}
+.format{font-size:10px;font-weight:500;letter-spacing:.01em;color:#788392;margin-left:8px;vertical-align:baseline;white-space:nowrap}
+.watch{display:flex;flex-direction:column;align-items:flex-start;gap:5px;margin:7px 0 9px}
+.watch-group{display:flex;align-items:center;gap:6px;flex-wrap:wrap}
+.watch-kind{font-size:11px;color:#73808e;min-width:40px}
+.watch-providers{display:flex;align-items:center;gap:4px;flex-wrap:wrap}
+.watch-logo{width:20px;height:20px;border-radius:5px;object-fit:cover;display:block}
+.watch-fallback{font-size:11px;color:#526275}
+@media(max-width:550px){.ratings{gap:3px 6px;font-size:10.5px}.rating-icon{width:10px;height:10px}.rating-item:first-child .rating-icon{width:19px;height:10px}.format{font-size:10px}.watch-logo{width:19px;height:19px}}
 </style></head><body><header><div class="inner"><small>THE PANOPLY</small><h1>The Media Center</h1><p>Movies, television &amp; what to watch next.</p></div></header><main><div class="tools"><div class="tabs"><button id="main" aria-pressed="true">Main Watchlist</button><button id="candidates" aria-pressed="false">Candidates</button></div><input id="search" type="search" placeholder="Search titles…" aria-label="Search titles"><select id="format" aria-label="Filter by format"><option value="All">All formats</option><option value="Movie">Movies</option><option value="TV">Television</option></select></div><div class="count" id="count"></div><section id="results" aria-live="polite"></section></main><footer>Public watchlists only. Private records remain in Google Drive. Poster artwork is added automatically when a verified source is available. IMDb, Metacritic, and Rotten Tomatoes scores appear only when verified and available.</footer><script>
 let lists={main:[],candidates:[]};
 let active='main';
@@ -98,11 +112,36 @@ function ratingRow(item){
 function availability(item){
   const w=item.watch_us;
   if(!w)return null;
-  const parts=[];
-  if(w.stream?.length)parts.push('Stream: '+w.stream.slice(0,3).join(', '));
-  if(w.rent?.length)parts.push('Rent: '+w.rent.slice(0,2).join(', '));
-  if(!parts.length&&w.buy?.length)parts.push('Purchase: '+w.buy.slice(0,2).join(', '));
-  return parts.length?node('div','watch','▢ '+parts.join(' · ')):null;
+  const wrap=node('div','watch');
+  const types=[
+    ['Stream','stream','stream_logos',5],
+    ['Rent','rent','rent_logos',4],
+    ['Buy','buy','buy_logos',4]
+  ];
+  for(const [label,key,logoKey,max] of types){
+    const providers=w[key]||[];
+    if(!providers.length)continue;
+    const row=node('div','watch-group');
+    row.append(node('span','watch-kind',label));
+    const marks=node('div','watch-providers');
+    const icons=(w[logoKey]||[]).filter(p=>p.logo&&p.name).slice(0,max);
+    if(icons.length){
+      for(const p of icons){
+        const logo=node('img','watch-logo');
+        logo.src=p.logo;
+        logo.alt=p.name+' ('+label.toLowerCase()+')';
+        logo.title=p.name+' · '+label;
+        logo.loading='lazy';
+        marks.append(logo);
+      }
+      if((w[logoKey]||[]).length>max)marks.append(node('span','watch-fallback','+'+((w[logoKey]||[]).length-max)));
+    }else{
+      marks.append(node('span','watch-fallback',providers.slice(0,3).join(' · ')));
+    }
+    row.append(marks);
+    wrap.append(row);
+  }
+  return wrap.childNodes.length?wrap:null;
 }
 function makeCard(item){
   const card=node('article');
@@ -113,8 +152,8 @@ function makeCard(item){
   const poster=node('div','poster');
   const info=node('div','info');
   const heading=node('div','title');
-  heading.append(node('span','rank','#'+item.id),node('span','',item.title),node('span','year','('+item.year+')'));
-  info.append(heading,node('span','format',item.type),ratingRow(item));
+  heading.append(node('span','rank','#'+item.id),node('span','',item.title),node('span','year','('+item.year+')'),node('span','format',item.type));
+  info.append(heading,ratingRow(item));
   const watch=availability(item);
   if(watch)info.append(watch);
   const short=item.short_summary||item.synopsis;
