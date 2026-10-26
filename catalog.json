@@ -22,8 +22,36 @@
         "cast": [
           "Ryan Gosling",
           "Sandra Hüller",
-          "Milana Vayntrub"
-        ]
+          "James Ortiz",
+          "Lionel Boyce"
+        ],
+        "watch_us": {
+          "stream": [
+            "Amazon Prime Video",
+            "fuboTV",
+            "MGM+ Amazon Channel",
+            "Philo",
+            "MGM Plus Roku Premium Channel",
+            "MGM Plus",
+            "Amazon Prime Video with Ads"
+          ],
+          "rent": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home",
+            "Plex"
+          ],
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube"
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       },
       {
         "title": "Raised by Wolves",
@@ -42,10 +70,18 @@
         "imdb_id": null,
         "short_summary": "Two androids attempt to raise human children on a distant planet after Earth's collapse.",
         "cast": [
+          "Travis Fimmel",
           "Amanda Collin",
-          "Abubakar Salim",
-          "Travis Fimmel"
-        ]
+          "Winta McGrath",
+          "Abubakar Salim"
+        ],
+        "watch_us": {
+          "stream": [],
+          "rent": [],
+          "buy": [],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       },
       {
         "title": "Predestination",
@@ -66,8 +102,29 @@
         "cast": [
           "Ethan Hawke",
           "Sarah Snook",
-          "Noah Taylor"
-        ]
+          "Noah Taylor",
+          "Christopher Kirby"
+        ],
+        "watch_us": {
+          "stream": [
+            "Sony Pictures Core Amazon Channel"
+          ],
+          "rent": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube"
+          ],
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       },
       {
         "title": "Annihilation",
@@ -90,7 +147,35 @@
           "Jennifer Jason Leigh",
           "Gina Rodriguez",
           "Tessa Thompson"
-        ]
+        ],
+        "watch_us": {
+          "stream": [
+            "fuboTV",
+            "MGM+ Amazon Channel",
+            "Philo",
+            "MGM Plus Roku Premium Channel",
+            "MGM Plus"
+          ],
+          "rent": [
+            "JustWatch TV Store",
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home",
+            "Spectrum On Demand",
+            "Plex"
+          ],
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       },
       {
         "title": "Sunshine",
@@ -106,7 +191,7 @@
           "Horror"
         ],
         "runtime_minutes": 108,
-        "tmdb_rating": 7,
+        "tmdb_rating": 7.0,
         "imdb_id": "tt0448134",
         "short_summary": "Astronauts undertake a desperate mission to reignite the dying Sun.",
         "cast": [
@@ -114,7 +199,27 @@
           "Rose Byrne",
           "Chris Evans",
           "Michelle Yeoh"
-        ]
+        ],
+        "watch_us": {
+          "stream": [
+            "Amazon Prime Video",
+            "Amazon Prime Video with Ads"
+          ],
+          "rent": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube"
+          ],
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube"
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       },
       {
         "title": "Coherence",
@@ -135,8 +240,40 @@
         "cast": [
           "Emily Baldoni",
           "Maury Sterling",
-          "Nicholas Brendon"
-        ]
+          "Nicholas Brendon",
+          "Lauren Maher"
+        ],
+        "watch_us": {
+          "stream": [
+            "Amazon Prime Video",
+            "JustWatch TV Plus",
+            "Peacock Premium",
+            "Philo",
+            "Night Flight Plus",
+            "Fandor Amazon Channel",
+            "Screambox Amazon Channel",
+            "Cineverse",
+            "Amazon Prime Video with Ads",
+            "Peacock Premium Plus",
+            "Cineverse Amazon Channel"
+          ],
+          "rent": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       },
       {
         "title": "The Thirteenth Floor",
@@ -157,9 +294,31 @@
         "short_summary": "A man's investigation exposes disturbing secrets about the nature of his reality.",
         "cast": [
           "Craig Bierko",
+          "Armin Mueller-Stahl",
           "Gretchen Mol",
-          "Armin Mueller-Stahl"
-        ]
+          "Vincent D'Onofrio"
+        ],
+        "watch_us": {
+          "stream": [
+            "Howdy Amazon Channel"
+          ],
+          "rent": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       },
       {
         "title": "Equilibrium",
@@ -181,8 +340,30 @@
         "cast": [
           "Christian Bale",
           "Emily Watson",
-          "Taye Diggs"
-        ]
+          "Taye Diggs",
+          "Angus Macfadyen"
+        ],
+        "watch_us": {
+          "stream": [
+            "Paramount Plus Essential"
+          ],
+          "rent": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       },
       {
         "title": "Mickey 17",
@@ -205,8 +386,33 @@
           "Robert Pattinson",
           "Naomi Ackie",
           "Steven Yeun",
-          "Toni Collette"
-        ]
+          "Mark Ruffalo"
+        ],
+        "watch_us": {
+          "stream": [
+            "HBO Max Amazon Channel",
+            "Cinemax Amazon Channel",
+            "HBO Max",
+            "Cinemax Apple TV channel"
+          ],
+          "rent": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home",
+            "Plex"
+          ],
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       },
       {
         "title": "Solaris",
@@ -222,14 +428,34 @@
           "Mystery"
         ],
         "runtime_minutes": 99,
-        "tmdb_rating": 6,
+        "tmdb_rating": 6.0,
         "imdb_id": "tt0307479",
         "short_summary": "A psychologist confronts strange phenomena aboard a station orbiting a mysterious planet.",
         "cast": [
           "George Clooney",
           "Natascha McElhone",
-          "Viola Davis"
-        ]
+          "Viola Davis",
+          "Jeremy Davies"
+        ],
+        "watch_us": {
+          "stream": [],
+          "rent": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       },
       {
         "title": "Source Code",
@@ -251,8 +477,32 @@
         "cast": [
           "Jake Gyllenhaal",
           "Michelle Monaghan",
-          "Vera Farmiga"
-        ]
+          "Vera Farmiga",
+          "Jeffrey Wright"
+        ],
+        "watch_us": {
+          "stream": [
+            "MovieSphere+ Amazon Channel",
+            "Howdy Amazon Channel"
+          ],
+          "rent": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home",
+            "Spectrum On Demand"
+          ],
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       },
       {
         "title": "Midnight Special",
@@ -276,7 +526,28 @@
           "Jaeden Martell",
           "Joel Edgerton",
           "Kirsten Dunst"
-        ]
+        ],
+        "watch_us": {
+          "stream": [
+            "Howdy Amazon Channel"
+          ],
+          "rent": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       },
       {
         "title": "The Endless",
@@ -296,10 +567,42 @@
         "imdb_id": "tt3986820",
         "short_summary": "Two brothers revisit a former cult and encounter inexplicable events.",
         "cast": [
-          "Justin Benson",
           "Aaron Moorhead",
-          "Callie Hernandez"
-        ]
+          "Justin Benson",
+          "Callie Hernandez",
+          "Tate Ellington"
+        ],
+        "watch_us": {
+          "stream": [
+            "Amazon Prime Video",
+            "Peacock Premium",
+            "AMC+ Amazon Channel",
+            "Shudder",
+            "Fandor Amazon Channel",
+            "Screambox Amazon Channel",
+            "Amazon Prime Video with Ads",
+            "Peacock Premium Plus",
+            "Midnight Pulp Amazon Channel",
+            "Bloodstream",
+            "Cineverse Amazon Channel"
+          ],
+          "rent": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       },
       {
         "title": "Prospect",
@@ -319,8 +622,31 @@
         "cast": [
           "Sophie Thatcher",
           "Pedro Pascal",
-          "Jay Duplass"
-        ]
+          "Jay Duplass",
+          "Andre Royo"
+        ],
+        "watch_us": {
+          "stream": [
+            "Hulu",
+            "Shout! Factory Amazon Channel"
+          ],
+          "rent": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       },
       {
         "title": "The Vast of Night",
@@ -341,8 +667,17 @@
         "short_summary": "Two young radio enthusiasts discover an eerie signal in a small town.",
         "cast": [
           "Sierra McCormick",
-          "Jake Horowitz"
-        ]
+          "Jake Horowitz",
+          "Bruce Davis",
+          "Gail Cronauer"
+        ],
+        "watch_us": {
+          "stream": [],
+          "rent": [],
+          "buy": [],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       },
       {
         "title": "Bugonia",
@@ -363,8 +698,33 @@
         "short_summary": "Two conspiracy theorists abduct a CEO they believe is an extraterrestrial.",
         "cast": [
           "Emma Stone",
-          "Jesse Plemons"
-        ]
+          "Jesse Plemons",
+          "Aidan Delbis",
+          "Stavros Halkias"
+        ],
+        "watch_us": {
+          "stream": [
+            "Netflix",
+            "Netflix Standard with Ads"
+          ],
+          "rent": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home",
+            "FlixFling"
+          ],
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       },
       {
         "title": "Pandorum",
@@ -384,10 +744,33 @@
         "imdb_id": "tt1188729",
         "short_summary": "Two astronauts awaken aboard a seemingly abandoned ship with no memory of their mission.",
         "cast": [
-          "Dennis Quaid",
           "Ben Foster",
+          "Dennis Quaid",
+          "Cam Gigandet",
           "Antje Traue"
-        ]
+        ],
+        "watch_us": {
+          "stream": [
+            "MovieSphere+ Amazon Channel",
+            "Howdy Amazon Channel"
+          ],
+          "rent": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       },
       {
         "title": "The Artifice Girl",
@@ -408,9 +791,30 @@
         "short_summary": "Investigators discover that a crime-fighting AI is evolving beyond its intended purpose.",
         "cast": [
           "Tatum Matthews",
-          "Lance Henriksen",
+          "Franklin Ritch",
+          "Sinda Nichols",
           "David Girard"
-        ]
+        ],
+        "watch_us": {
+          "stream": [],
+          "rent": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home",
+            "Plex"
+          ],
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       },
       {
         "title": "Ad Astra",
@@ -431,8 +835,34 @@
         "cast": [
           "Brad Pitt",
           "Tommy Lee Jones",
+          "Liv Tyler",
           "Ruth Negga"
-        ]
+        ],
+        "watch_us": {
+          "stream": [
+            "Netflix",
+            "fuboTV",
+            "YouTube TV",
+            "FXNow",
+            "Netflix Standard with Ads"
+          ],
+          "rent": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       },
       {
         "title": "Solaris",
@@ -452,10 +882,33 @@
         "imdb_id": "tt0069293",
         "short_summary": "A psychologist investigates unsettling events aboard a station orbiting an enigmatic planet.",
         "cast": [
-          "Donatas Banionis",
           "Natalya Bondarchuk",
-          "Jüri Järvet"
-        ]
+          "Donatas Banionis",
+          "Jüri Järvet",
+          "Vladislav Dvorzhetsky"
+        ],
+        "watch_us": {
+          "stream": [
+            "HBO Max Amazon Channel",
+            "HBO Max"
+          ],
+          "rent": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       },
       {
         "title": "Timecrimes",
@@ -470,14 +923,39 @@
           "Thriller"
         ],
         "runtime_minutes": 93,
-        "tmdb_rating": 7,
+        "tmdb_rating": 7.0,
         "imdb_id": "tt0480669",
         "short_summary": "An accidental trip into the recent past sets off a dangerous chain of events.",
         "cast": [
           "Karra Elejalde",
           "Candela Fernández",
-          "Bárbara Goenaga"
-        ]
+          "Bárbara Goenaga",
+          "Nacho Vigalondo"
+        ],
+        "watch_us": {
+          "stream": [
+            "Magnolia Selects Amazon Channel",
+            "Monsters and Nightmares Amazon Channel"
+          ],
+          "rent": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home",
+            "FlixFling"
+          ],
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home",
+            "FlixFling"
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       },
       {
         "title": "Primer",
@@ -498,8 +976,27 @@
         "short_summary": "Two engineers stumble upon a time-altering invention with increasingly tangled consequences.",
         "cast": [
           "Shane Carruth",
-          "David Sullivan"
-        ]
+          "David Sullivan",
+          "Casey Gooden",
+          "Anand Upadhyaya"
+        ],
+        "watch_us": {
+          "stream": [],
+          "rent": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube"
+          ],
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube"
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       },
       {
         "title": "Aniara",
@@ -518,23 +1015,75 @@
         "imdb_id": "tt7589524",
         "short_summary": "A spacecraft carrying settlers to Mars drifts off course, leaving its passengers adrift.",
         "cast": [
-          "Emelie Jonsson",
+          "Emelie Garbers",
+          "Arvin Kananian",
           "Bianca Cruzeiro",
-          "Arvin Kananian"
-        ]
+          "Anneli Martini"
+        ],
+        "watch_us": {
+          "stream": [],
+          "rent": [
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "buy": [
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       },
       {
         "title": "Under the Skin",
         "year": 2013,
         "type": "Movie",
         "group": "More Experimental or Uncertain",
-        "poster": null,
+        "poster": "https://image.tmdb.org/t/p/w500/55wmcXJIDYITr7JDijJTdvwSaAv.jpg",
         "tmdb_id": 97370,
         "short_summary": "A mysterious woman travels through Scotland, luring unsuspecting men into danger.",
         "cast": [
           "Scarlett Johansson",
-          "Jeremy McWilliams"
-        ]
+          "Jeremy McWilliams",
+          "Lynsey Taylor Mackay",
+          "Dougie McConnell"
+        ],
+        "watch_us": {
+          "stream": [
+            "Netflix",
+            "JustWatch TV Plus",
+            "Netflix Standard with Ads"
+          ],
+          "rent": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "FlixFling"
+          ],
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "FlixFling"
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        },
+        "synopsis": "A seductive stranger prowls the streets of Glasgow in search of prey: unsuspecting men who fall under her spell.",
+        "genres": [
+          "Thriller",
+          "Science Fiction",
+          "Drama"
+        ],
+        "runtime_minutes": 108,
+        "tmdb_rating": 6.1,
+        "imdb_id": "tt1441395"
       },
       {
         "title": "High Life",
@@ -556,8 +1105,32 @@
         "cast": [
           "Robert Pattinson",
           "Juliette Binoche",
-          "Mia Goth"
-        ]
+          "Mia Goth",
+          "André 3000"
+        ],
+        "watch_us": {
+          "stream": [
+            "Amazon Prime Video",
+            "JustWatch TV Plus",
+            "Amazon Prime Video with Ads"
+          ],
+          "rent": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       },
       {
         "title": "Upstream Color",
@@ -578,8 +1151,24 @@
         "cast": [
           "Amy Seimetz",
           "Shane Carruth",
-          "Andrew Sensenig"
-        ]
+          "Andrew Sensenig",
+          "Thiago Martins"
+        ],
+        "watch_us": {
+          "stream": [],
+          "rent": [
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube"
+          ],
+          "buy": [
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube"
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       },
       {
         "title": "Fast Color",
@@ -594,14 +1183,37 @@
           "Science Fiction"
         ],
         "runtime_minutes": 102,
-        "tmdb_rating": 6,
+        "tmdb_rating": 6.0,
         "imdb_id": "tt6418778",
         "short_summary": "A woman with unusual powers returns home while evading those pursuing her.",
         "cast": [
           "Gugu Mbatha-Raw",
+          "Saniyya Sidney",
           "Lorraine Toussaint",
           "David Strathairn"
-        ]
+        ],
+        "watch_us": {
+          "stream": [
+            "MovieSphere+ Amazon Channel",
+            "Howdy Amazon Channel"
+          ],
+          "rent": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       },
       {
         "title": "Sputnik",
@@ -622,9 +1234,38 @@
         "short_summary": "A Soviet cosmonaut returns from space carrying something terrifying.",
         "cast": [
           "Oksana Akinshina",
+          "Fyodor Bondarchuk",
           "Pyotr Fyodorov",
-          "Fyodor Bondarchuk"
-        ]
+          "Anton Vasilyev"
+        ],
+        "watch_us": {
+          "stream": [
+            "Philo",
+            "AMC Plus Apple TV channel",
+            "AMC+ Amazon Channel",
+            "AMC+",
+            "Shudder",
+            "Sundance Now",
+            "Shudder Amazon Channel",
+            "Shudder Apple TV channel"
+          ],
+          "rent": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       },
       {
         "title": "Splice",
@@ -645,8 +1286,22 @@
         "cast": [
           "Adrien Brody",
           "Sarah Polley",
-          "Delphine Chanéac"
-        ]
+          "Delphine Chanéac",
+          "Brandon McGibbon"
+        ],
+        "watch_us": {
+          "stream": [],
+          "rent": [
+            "Google Play Movies",
+            "YouTube"
+          ],
+          "buy": [
+            "Google Play Movies",
+            "YouTube"
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       },
       {
         "title": "Tau",
@@ -668,8 +1323,19 @@
         "cast": [
           "Maika Monroe",
           "Ed Skrein",
-          "Gary Oldman"
-        ]
+          "Gary Oldman",
+          "Fiston Barek"
+        ],
+        "watch_us": {
+          "stream": [
+            "Netflix",
+            "Netflix Standard with Ads"
+          ],
+          "rent": [],
+          "buy": [],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       },
       {
         "title": "Lockout",
@@ -691,8 +1357,31 @@
         "cast": [
           "Guy Pearce",
           "Maggie Grace",
-          "Vincent Regan"
-        ]
+          "Vincent Regan",
+          "Joseph Gilgun"
+        ],
+        "watch_us": {
+          "stream": [
+            "fuboTV"
+          ],
+          "rent": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home",
+            "Plex"
+          ],
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       }
     ],
     "candidates": [
@@ -716,8 +1405,19 @@
         "cast": [
           "Noomi Rapace",
           "Glenn Close",
-          "Willem Dafoe"
-        ]
+          "Willem Dafoe",
+          "Marwan Kenzari"
+        ],
+        "watch_us": {
+          "stream": [
+            "Netflix",
+            "Netflix Standard with Ads"
+          ],
+          "rent": [],
+          "buy": [],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       },
       {
         "title": "Captive State",
@@ -739,8 +1439,28 @@
         "cast": [
           "John Goodman",
           "Ashton Sanders",
-          "Jonathan Majors"
-        ]
+          "Jonathan Majors",
+          "Vera Farmiga"
+        ],
+        "watch_us": {
+          "stream": [],
+          "rent": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       },
       {
         "title": "Mars Express",
@@ -764,7 +1484,27 @@
           "Mathieu Amalric",
           "Daniel Njo Lobé",
           "Marie Bouvet"
-        ]
+        ],
+        "watch_us": {
+          "stream": [],
+          "rent": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home",
+            "Plex"
+          ],
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       },
       {
         "title": "The Girl with All the Gifts",
@@ -786,8 +1526,32 @@
         "cast": [
           "Sennia Nanua",
           "Gemma Arterton",
+          "Paddy Considine",
           "Glenn Close"
-        ]
+        ],
+        "watch_us": {
+          "stream": [
+            "Amazon Prime Video",
+            "Amazon Prime Video with Ads",
+            "MovieSphere+ Amazon Channel"
+          ],
+          "rent": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       },
       {
         "title": "Automata",
@@ -807,9 +1571,34 @@
         "short_summary": "An insurance investigator discovers that robots may be evolving beyond their programming.",
         "cast": [
           "Antonio Banderas",
+          "Melanie Griffith",
           "Birgitte Hjort Sørensen",
-          "Melanie Griffith"
-        ]
+          "Dylan McDermott"
+        ],
+        "watch_us": {
+          "stream": [
+            "Amazon Prime Video",
+            "Amazon Prime Video with Ads",
+            "Shout! Factory Amazon Channel",
+            "Howdy Amazon Channel"
+          ],
+          "rent": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       },
       {
         "title": "The Machine",
@@ -830,8 +1619,30 @@
         "cast": [
           "Caity Lotz",
           "Toby Stephens",
-          "Denis Lawson"
-        ]
+          "Denis Lawson",
+          "Sam Hazeldine"
+        ],
+        "watch_us": {
+          "stream": [
+            "XLTV Amazon Channel "
+          ],
+          "rent": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       },
       {
         "title": "Freaks",
@@ -850,10 +1661,37 @@
         "imdb_id": "tt8781414",
         "short_summary": "A sheltered girl begins questioning her father's warnings about the world outside.",
         "cast": [
-          "Lexy Kolker",
           "Emile Hirsch",
-          "Bruce Dern"
-        ]
+          "Bruce Dern",
+          "Grace Park",
+          "Amanda Crew"
+        ],
+        "watch_us": {
+          "stream": [
+            "Amazon Prime Video",
+            "fuboTV",
+            "Peacock Premium",
+            "Screambox Amazon Channel",
+            "Amazon Prime Video with Ads",
+            "Peacock Premium Plus"
+          ],
+          "rent": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       },
       {
         "title": "The Wandering Earth",
@@ -873,10 +1711,18 @@
         "imdb_id": "tt7605074",
         "short_summary": "Humanity attempts to move Earth itself to escape the expanding Sun.",
         "cast": [
+          "Wu Jing",
           "Qu Chuxiao",
           "Li Guangjie",
-          "Wu Jing"
-        ]
+          "Richard Ng Man-tat"
+        ],
+        "watch_us": {
+          "stream": [],
+          "rent": [],
+          "buy": [],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       },
       {
         "title": "The Congress",
@@ -898,8 +1744,30 @@
         "cast": [
           "Robin Wright",
           "Harvey Keitel",
-          "Paul Giamatti"
-        ]
+          "Jon Hamm",
+          "Kodi Smit-McPhee"
+        ],
+        "watch_us": {
+          "stream": [
+            "Fandor"
+          ],
+          "rent": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       },
       {
         "title": "The Town",
@@ -920,9 +1788,35 @@
         "short_summary": "A bank robber's relationship with a hostage complicates his criminal life.",
         "cast": [
           "Ben Affleck",
+          "Jeremy Renner",
           "Rebecca Hall",
-          "Jeremy Renner"
-        ]
+          "Jon Hamm"
+        ],
+        "watch_us": {
+          "stream": [
+            "HBO Max Amazon Channel",
+            "Cinemax Amazon Channel",
+            "HBO Max",
+            "Cinemax Apple TV channel"
+          ],
+          "rent": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home",
+            "Spectrum On Demand"
+          ],
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       },
       {
         "title": "End of Watch",
@@ -944,8 +1838,31 @@
         "cast": [
           "Jake Gyllenhaal",
           "Michael Peña",
+          "Natalie Martinez",
           "Anna Kendrick"
-        ]
+        ],
+        "watch_us": {
+          "stream": [
+            "Sundance Now",
+            "Shout! Factory Amazon Channel"
+          ],
+          "rent": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       },
       {
         "title": "Thief",
@@ -967,8 +1884,27 @@
         "cast": [
           "James Caan",
           "Tuesday Weld",
-          "Robert Prosky"
-        ]
+          "Robert Prosky",
+          "Willie Nelson"
+        ],
+        "watch_us": {
+          "stream": [
+            "Amazon Prime Video",
+            "Criterion Channel",
+            "Amazon Prime Video with Ads"
+          ],
+          "rent": [
+            "Apple TV Store",
+            "Fandango At Home"
+          ],
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Fandango At Home"
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       },
       {
         "title": "12 Monkeys",
@@ -996,14 +1932,27 @@
           "Thriller"
         ],
         "runtime_minutes": 145,
-        "tmdb_rating": 7,
+        "tmdb_rating": 7.0,
         "imdb_id": "tt0114558",
         "short_summary": "A former cop uncovers a deadly conspiracy involving recorded human memories.",
         "cast": [
           "Ralph Fiennes",
           "Angela Bassett",
-          "Juliette Lewis"
-        ]
+          "Juliette Lewis",
+          "Tom Sizemore"
+        ],
+        "watch_us": {
+          "stream": [
+            "Amazon Prime Video",
+            "Disney Plus",
+            "Hulu",
+            "Amazon Prime Video with Ads"
+          ],
+          "rent": [],
+          "buy": [],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       },
       {
         "title": "The Lives of Others",
@@ -1018,14 +1967,35 @@
           "Thriller"
         ],
         "runtime_minutes": 137,
-        "tmdb_rating": 8,
+        "tmdb_rating": 8.0,
         "imdb_id": "tt0405094",
         "short_summary": "An East German surveillance officer becomes entangled in the lives of the artists he monitors.",
         "cast": [
-          "Ulrich Mühe",
           "Martina Gedeck",
-          "Sebastian Koch"
-        ]
+          "Ulrich Mühe",
+          "Sebastian Koch",
+          "Ulrich Tukur"
+        ],
+        "watch_us": {
+          "stream": [],
+          "rent": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home",
+            "FlixFling"
+          ],
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       },
       {
         "title": "Counterpart",
@@ -1044,10 +2014,20 @@
         "imdb_id": null,
         "short_summary": "A bureaucrat discovers that his agency conceals a passage to a parallel world.",
         "cast": [
-          "J. K. Simmons",
-          "Olivia Williams",
-          "Harry Lloyd"
-        ]
+          "J.K. Simmons",
+          "Nazanin Boniadi",
+          "Harry Lloyd",
+          "Olivia Williams"
+        ],
+        "watch_us": {
+          "stream": [],
+          "rent": [],
+          "buy": [
+            "Google Play Movies"
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       },
       {
         "title": "Pantheon",
@@ -1068,8 +2048,19 @@
         "cast": [
           "Katie Chang",
           "Paul Dano",
-          "Aaron Eckhart"
-        ]
+          "Aaron Eckhart",
+          "Rosemarie DeWitt"
+        ],
+        "watch_us": {
+          "stream": [
+            "Netflix",
+            "Netflix Standard with Ads"
+          ],
+          "rent": [],
+          "buy": [],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       },
       {
         "title": "Severance",
@@ -1091,9 +2082,19 @@
         "cast": [
           "Adam Scott",
           "Britt Lower",
-          "Patricia Arquette",
-          "John Turturro"
-        ]
+          "Tramell Tillman",
+          "Zach Cherry"
+        ],
+        "watch_us": {
+          "stream": [
+            "Apple TV",
+            "Apple TV Amazon Channel"
+          ],
+          "rent": [],
+          "buy": [],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       },
       {
         "title": "Years and Years",
@@ -1113,10 +2114,24 @@
         "imdb_id": null,
         "short_summary": "One British family's lives unfold amid years of political and technological upheaval.",
         "cast": [
-          "Russell Tovey",
+          "Emma Thompson",
+          "Anne Reid",
           "Rory Kinnear",
-          "Emma Thompson"
-        ]
+          "Jessica Hynes"
+        ],
+        "watch_us": {
+          "stream": [
+            "HBO Max Amazon Channel",
+            "HBO Max"
+          ],
+          "rent": [],
+          "buy": [
+            "Amazon Video",
+            "Google Play Movies"
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       },
       {
         "title": "Devs",
@@ -1138,8 +2153,23 @@
         "cast": [
           "Sonoya Mizuno",
           "Nick Offerman",
-          "Jin Ha"
-        ]
+          "Jin Ha",
+          "Cailee Spaeny"
+        ],
+        "watch_us": {
+          "stream": [
+            "Hulu"
+          ],
+          "rent": [],
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "Fandango At Home"
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       },
       {
         "title": "Dark",
@@ -1159,10 +2189,18 @@
         "imdb_id": null,
         "short_summary": "A missing child draws four families into a mystery spanning generations.",
         "cast": [
-          "Louis Hofmann",
-          "Lisa Vicari",
-          "Maja Schöne"
-        ]
+          "Louis Hofmann"
+        ],
+        "watch_us": {
+          "stream": [
+            "Netflix",
+            "Netflix Standard with Ads"
+          ],
+          "rent": [],
+          "buy": [],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       },
       {
         "title": "Humans",
@@ -1182,10 +2220,25 @@
         "imdb_id": null,
         "short_summary": "Humanlike robotic servants transform everyday life in a near-future society.",
         "cast": [
-          "Gemma Chan",
           "Katherine Parkinson",
-          "Colin Morgan"
-        ]
+          "Gemma Chan",
+          "Colin Morgan",
+          "Tom Goodman-Hill"
+        ],
+        "watch_us": {
+          "stream": [
+            "Amazon Prime Video",
+            "Peacock Premium",
+            "Amazon Prime Video with Ads"
+          ],
+          "rent": [],
+          "buy": [
+            "Amazon Video",
+            "Google Play Movies"
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        }
       }
     ]
   }
