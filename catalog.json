@@ -49,6 +49,80 @@
             "Google Play Movies",
             "YouTube"
           ],
+          "stream_logos": [
+            {
+              "name": "Amazon Prime Video",
+              "logo": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "fuboTV",
+              "logo": "https://image.tmdb.org/t/p/w92/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
+            },
+            {
+              "name": "MGM+ Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/gk7O3l9qHttE9F3hgDNnhbhlOs7.png"
+            },
+            {
+              "name": "Philo",
+              "logo": "https://image.tmdb.org/t/p/w92/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png"
+            },
+            {
+              "name": "MGM Plus Roku Premium Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/surh9i8VYeeq9186fKHnUg5Q5dg.png"
+            },
+            {
+              "name": "MGM Plus",
+              "logo": "https://image.tmdb.org/t/p/w92/q63Uzpu7JAs566vA2G23Lk7LcID.png"
+            },
+            {
+              "name": "Amazon Prime Video with Ads",
+              "logo": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+            }
+          ],
+          "rent_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            },
+            {
+              "name": "Plex",
+              "logo": "https://image.tmdb.org/t/p/w92/blAEhvx3XX8sV0fFVFk88FFjubs.png"
+            }
+          ],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            }
+          ],
           "source": "TMDb",
           "checked": "2026-10-26"
         }
@@ -79,6 +153,9 @@
           "stream": [],
           "rent": [],
           "buy": [],
+          "stream_logos": [],
+          "rent_logos": [],
+          "buy_logos": [],
           "source": "TMDb",
           "checked": "2026-10-26"
         }
@@ -121,6 +198,52 @@
             "Google Play Movies",
             "YouTube",
             "Fandango At Home"
+          ],
+          "stream_logos": [
+            {
+              "name": "Sony Pictures Core Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/uNyIRlzYb0Hf7Ix6Q3MKms0ERgA.png"
+            }
+          ],
+          "rent_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            }
+          ],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
@@ -173,6 +296,84 @@
             "YouTube",
             "Fandango At Home"
           ],
+          "stream_logos": [
+            {
+              "name": "fuboTV",
+              "logo": "https://image.tmdb.org/t/p/w92/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
+            },
+            {
+              "name": "MGM+ Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/gk7O3l9qHttE9F3hgDNnhbhlOs7.png"
+            },
+            {
+              "name": "Philo",
+              "logo": "https://image.tmdb.org/t/p/w92/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png"
+            },
+            {
+              "name": "MGM Plus Roku Premium Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/surh9i8VYeeq9186fKHnUg5Q5dg.png"
+            },
+            {
+              "name": "MGM Plus",
+              "logo": "https://image.tmdb.org/t/p/w92/q63Uzpu7JAs566vA2G23Lk7LcID.png"
+            }
+          ],
+          "rent_logos": [
+            {
+              "name": "JustWatch TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/aaFIYn2NGPCo0rpLiWokbvNqNJd.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            },
+            {
+              "name": "Spectrum On Demand",
+              "logo": "https://image.tmdb.org/t/p/w92/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png"
+            },
+            {
+              "name": "Plex",
+              "logo": "https://image.tmdb.org/t/p/w92/blAEhvx3XX8sV0fFVFk88FFjubs.png"
+            }
+          ],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
           "source": "TMDb",
           "checked": "2026-10-26"
         }
@@ -216,6 +417,52 @@
             "Apple TV Store",
             "Google Play Movies",
             "YouTube"
+          ],
+          "stream_logos": [
+            {
+              "name": "Amazon Prime Video",
+              "logo": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Amazon Prime Video with Ads",
+              "logo": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+            }
+          ],
+          "rent_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            }
+          ],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            }
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
@@ -271,6 +518,96 @@
             "YouTube",
             "Fandango At Home"
           ],
+          "stream_logos": [
+            {
+              "name": "Amazon Prime Video",
+              "logo": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "JustWatch TV Plus",
+              "logo": "https://image.tmdb.org/t/p/w92/bSAgNVOaVZcmdts8TZSp0nYxsD3.png"
+            },
+            {
+              "name": "Peacock Premium",
+              "logo": "https://image.tmdb.org/t/p/w92/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png"
+            },
+            {
+              "name": "Philo",
+              "logo": "https://image.tmdb.org/t/p/w92/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png"
+            },
+            {
+              "name": "Night Flight Plus",
+              "logo": "https://image.tmdb.org/t/p/w92/acUxuVlP96MVPbUdxdGu0pUHTht.png"
+            },
+            {
+              "name": "Fandor Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/pqV8nzIxmOKVDsDrQ5wCPYuSM5P.png"
+            },
+            {
+              "name": "Screambox Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/zRn4rBGPYDeZvTeZEBySDdqHzS8.png"
+            },
+            {
+              "name": "Cineverse",
+              "logo": "https://image.tmdb.org/t/p/w92/rqCIpmrCBpnL6oliak6E1mrq5DD.png"
+            },
+            {
+              "name": "Amazon Prime Video with Ads",
+              "logo": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+            },
+            {
+              "name": "Peacock Premium Plus",
+              "logo": "https://image.tmdb.org/t/p/w92/yrEwyMzEKdqAoGhaWUARtIxByol.png"
+            },
+            {
+              "name": "Cineverse Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/mkikn40hHk3K3Xis19dnzyRnHBB.png"
+            }
+          ],
+          "rent_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
           "source": "TMDb",
           "checked": "2026-10-26"
         }
@@ -316,6 +653,56 @@
             "YouTube",
             "Fandango At Home"
           ],
+          "stream_logos": [
+            {
+              "name": "Howdy Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/dI7GHS1st3jWH8eW21x5YnJdUFN.png"
+            }
+          ],
+          "rent_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
           "source": "TMDb",
           "checked": "2026-10-26"
         }
@@ -360,6 +747,56 @@
             "Google Play Movies",
             "YouTube",
             "Fandango At Home"
+          ],
+          "stream_logos": [
+            {
+              "name": "Paramount Plus Essential",
+              "logo": "https://image.tmdb.org/t/p/w92/uPWQPyF4nqwtfPNmGcFcenU57HG.png"
+            }
+          ],
+          "rent_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
@@ -410,6 +847,72 @@
             "YouTube",
             "Fandango At Home"
           ],
+          "stream_logos": [
+            {
+              "name": "HBO Max Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/64fLWeSyZ1KQZhIdvTdy4QHeWty.png"
+            },
+            {
+              "name": "Cinemax Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/vJBXVX2REOqNrWlwgnBuQX4pQK6.png"
+            },
+            {
+              "name": "HBO Max",
+              "logo": "https://image.tmdb.org/t/p/w92/skypuy7SXuugIQeYg0IglmzoKaS.png"
+            },
+            {
+              "name": "Cinemax Apple TV channel",
+              "logo": "https://image.tmdb.org/t/p/w92/eArBCdklkA9DKiESboGkyv3rVQ7.png"
+            }
+          ],
+          "rent_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            },
+            {
+              "name": "Plex",
+              "logo": "https://image.tmdb.org/t/p/w92/blAEhvx3XX8sV0fFVFk88FFjubs.png"
+            }
+          ],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
           "source": "TMDb",
           "checked": "2026-10-26"
         }
@@ -452,6 +955,51 @@
             "Google Play Movies",
             "YouTube",
             "Fandango At Home"
+          ],
+          "stream_logos": [],
+          "rent_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
@@ -500,6 +1048,64 @@
             "YouTube",
             "Fandango At Home"
           ],
+          "stream_logos": [
+            {
+              "name": "MovieSphere+ Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/9GQLqBo5obK0r3nhZl24BadRKPq.png"
+            },
+            {
+              "name": "Howdy Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/dI7GHS1st3jWH8eW21x5YnJdUFN.png"
+            }
+          ],
+          "rent_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            },
+            {
+              "name": "Spectrum On Demand",
+              "logo": "https://image.tmdb.org/t/p/w92/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png"
+            }
+          ],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
           "source": "TMDb",
           "checked": "2026-10-26"
         }
@@ -544,6 +1150,56 @@
             "Google Play Movies",
             "YouTube",
             "Fandango At Home"
+          ],
+          "stream_logos": [
+            {
+              "name": "Howdy Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/dI7GHS1st3jWH8eW21x5YnJdUFN.png"
+            }
+          ],
+          "rent_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
@@ -600,6 +1256,96 @@
             "YouTube",
             "Fandango At Home"
           ],
+          "stream_logos": [
+            {
+              "name": "Amazon Prime Video",
+              "logo": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Peacock Premium",
+              "logo": "https://image.tmdb.org/t/p/w92/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png"
+            },
+            {
+              "name": "AMC+ Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png"
+            },
+            {
+              "name": "Shudder",
+              "logo": "https://image.tmdb.org/t/p/w92/58O6yqUFM6qoOiBNAddJs7xNKc.png"
+            },
+            {
+              "name": "Fandor Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/pqV8nzIxmOKVDsDrQ5wCPYuSM5P.png"
+            },
+            {
+              "name": "Screambox Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/zRn4rBGPYDeZvTeZEBySDdqHzS8.png"
+            },
+            {
+              "name": "Amazon Prime Video with Ads",
+              "logo": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+            },
+            {
+              "name": "Peacock Premium Plus",
+              "logo": "https://image.tmdb.org/t/p/w92/yrEwyMzEKdqAoGhaWUARtIxByol.png"
+            },
+            {
+              "name": "Midnight Pulp Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/uqAgFY1AoqdcsDVLzMCpoQqzJ2u.png"
+            },
+            {
+              "name": "Bloodstream",
+              "logo": "https://image.tmdb.org/t/p/w92/grSWrznc2QaymD5bM0MxMmcdrQl.png"
+            },
+            {
+              "name": "Cineverse Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/mkikn40hHk3K3Xis19dnzyRnHBB.png"
+            }
+          ],
+          "rent_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
           "source": "TMDb",
           "checked": "2026-10-26"
         }
@@ -644,6 +1390,60 @@
             "YouTube",
             "Fandango At Home"
           ],
+          "stream_logos": [
+            {
+              "name": "Hulu",
+              "logo": "https://image.tmdb.org/t/p/w92/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
+            },
+            {
+              "name": "Shout! Factory Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/ydhPmamP2uIMipgq8qIEfmcw2hT.png"
+            }
+          ],
+          "rent_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
           "source": "TMDb",
           "checked": "2026-10-26"
         }
@@ -675,6 +1475,9 @@
           "stream": [],
           "rent": [],
           "buy": [],
+          "stream_logos": [],
+          "rent_logos": [],
+          "buy_logos": [],
           "source": "TMDb",
           "checked": "2026-10-26"
         }
@@ -722,6 +1525,64 @@
             "YouTube",
             "Fandango At Home"
           ],
+          "stream_logos": [
+            {
+              "name": "Netflix",
+              "logo": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Netflix Standard with Ads",
+              "logo": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+            }
+          ],
+          "rent_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            },
+            {
+              "name": "FlixFling",
+              "logo": "https://image.tmdb.org/t/p/w92/hkw2s2Su8EyifB9EbbQP64Fj1xA.png"
+            }
+          ],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
           "source": "TMDb",
           "checked": "2026-10-26"
         }
@@ -768,6 +1629,60 @@
             "YouTube",
             "Fandango At Home"
           ],
+          "stream_logos": [
+            {
+              "name": "MovieSphere+ Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/9GQLqBo5obK0r3nhZl24BadRKPq.png"
+            },
+            {
+              "name": "Howdy Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/dI7GHS1st3jWH8eW21x5YnJdUFN.png"
+            }
+          ],
+          "rent_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
           "source": "TMDb",
           "checked": "2026-10-26"
         }
@@ -811,6 +1726,55 @@
             "Google Play Movies",
             "YouTube",
             "Fandango At Home"
+          ],
+          "stream_logos": [],
+          "rent_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            },
+            {
+              "name": "Plex",
+              "logo": "https://image.tmdb.org/t/p/w92/blAEhvx3XX8sV0fFVFk88FFjubs.png"
+            }
+          ],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
@@ -860,6 +1824,72 @@
             "YouTube",
             "Fandango At Home"
           ],
+          "stream_logos": [
+            {
+              "name": "Netflix",
+              "logo": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "fuboTV",
+              "logo": "https://image.tmdb.org/t/p/w92/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
+            },
+            {
+              "name": "YouTube TV",
+              "logo": "https://image.tmdb.org/t/p/w92/48bVXEIyCLSL9pZUQ7gB9ToyWto.png"
+            },
+            {
+              "name": "FXNow",
+              "logo": "https://image.tmdb.org/t/p/w92/a7ZF6Ng3d6KDMylLUMH1OjAeTqW.png"
+            },
+            {
+              "name": "Netflix Standard with Ads",
+              "logo": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+            }
+          ],
+          "rent_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
           "source": "TMDb",
           "checked": "2026-10-26"
         }
@@ -905,6 +1935,60 @@
             "Google Play Movies",
             "YouTube",
             "Fandango At Home"
+          ],
+          "stream_logos": [
+            {
+              "name": "HBO Max Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/64fLWeSyZ1KQZhIdvTdy4QHeWty.png"
+            },
+            {
+              "name": "HBO Max",
+              "logo": "https://image.tmdb.org/t/p/w92/skypuy7SXuugIQeYg0IglmzoKaS.png"
+            }
+          ],
+          "rent_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
@@ -953,6 +2037,68 @@
             "Fandango At Home",
             "FlixFling"
           ],
+          "stream_logos": [
+            {
+              "name": "Magnolia Selects Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/jGDWtSHBVsAAwJbLONwxR0SquXf.png"
+            },
+            {
+              "name": "Monsters and Nightmares Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/pcSzaYgwXvQaoPYqtrPXu6nrEdW.png"
+            }
+          ],
+          "rent_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            },
+            {
+              "name": "FlixFling",
+              "logo": "https://image.tmdb.org/t/p/w92/hkw2s2Su8EyifB9EbbQP64Fj1xA.png"
+            }
+          ],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            },
+            {
+              "name": "FlixFling",
+              "logo": "https://image.tmdb.org/t/p/w92/hkw2s2Su8EyifB9EbbQP64Fj1xA.png"
+            }
+          ],
           "source": "TMDb",
           "checked": "2026-10-26"
         }
@@ -994,6 +2140,43 @@
             "Google Play Movies",
             "YouTube"
           ],
+          "stream_logos": [],
+          "rent_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            }
+          ],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            }
+          ],
           "source": "TMDb",
           "checked": "2026-10-26"
         }
@@ -1034,6 +2217,43 @@
             "YouTube",
             "Fandango At Home"
           ],
+          "stream_logos": [],
+          "rent_logos": [
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
+          "buy_logos": [
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
           "source": "TMDb",
           "checked": "2026-10-26"
         }
@@ -1071,6 +2291,64 @@
             "Google Play Movies",
             "YouTube",
             "FlixFling"
+          ],
+          "stream_logos": [
+            {
+              "name": "Netflix",
+              "logo": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "JustWatch TV Plus",
+              "logo": "https://image.tmdb.org/t/p/w92/bSAgNVOaVZcmdts8TZSp0nYxsD3.png"
+            },
+            {
+              "name": "Netflix Standard with Ads",
+              "logo": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+            }
+          ],
+          "rent_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "FlixFling",
+              "logo": "https://image.tmdb.org/t/p/w92/hkw2s2Su8EyifB9EbbQP64Fj1xA.png"
+            }
+          ],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "FlixFling",
+              "logo": "https://image.tmdb.org/t/p/w92/hkw2s2Su8EyifB9EbbQP64Fj1xA.png"
+            }
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
@@ -1128,6 +2406,64 @@
             "YouTube",
             "Fandango At Home"
           ],
+          "stream_logos": [
+            {
+              "name": "Amazon Prime Video",
+              "logo": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "JustWatch TV Plus",
+              "logo": "https://image.tmdb.org/t/p/w92/bSAgNVOaVZcmdts8TZSp0nYxsD3.png"
+            },
+            {
+              "name": "Amazon Prime Video with Ads",
+              "logo": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+            }
+          ],
+          "rent_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
           "source": "TMDb",
           "checked": "2026-10-26"
         }
@@ -1165,6 +2501,35 @@
             "Apple TV Store",
             "Google Play Movies",
             "YouTube"
+          ],
+          "stream_logos": [],
+          "rent_logos": [
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            }
+          ],
+          "buy_logos": [
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            }
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
@@ -1210,6 +2575,60 @@
             "Google Play Movies",
             "YouTube",
             "Fandango At Home"
+          ],
+          "stream_logos": [
+            {
+              "name": "MovieSphere+ Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/9GQLqBo5obK0r3nhZl24BadRKPq.png"
+            },
+            {
+              "name": "Howdy Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/dI7GHS1st3jWH8eW21x5YnJdUFN.png"
+            }
+          ],
+          "rent_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
@@ -1263,6 +2682,84 @@
             "YouTube",
             "Fandango At Home"
           ],
+          "stream_logos": [
+            {
+              "name": "Philo",
+              "logo": "https://image.tmdb.org/t/p/w92/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png"
+            },
+            {
+              "name": "AMC Plus Apple TV channel",
+              "logo": "https://image.tmdb.org/t/p/w92/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png"
+            },
+            {
+              "name": "AMC+ Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png"
+            },
+            {
+              "name": "AMC+",
+              "logo": "https://image.tmdb.org/t/p/w92/wsCUflcmL4dCkzBUaGP8cj1cTkh.png"
+            },
+            {
+              "name": "Shudder",
+              "logo": "https://image.tmdb.org/t/p/w92/58O6yqUFM6qoOiBNAddJs7xNKc.png"
+            },
+            {
+              "name": "Sundance Now",
+              "logo": "https://image.tmdb.org/t/p/w92/uSoP5JLrUjHWDFikg9EJKcm7IvQ.png"
+            },
+            {
+              "name": "Shudder Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png"
+            },
+            {
+              "name": "Shudder Apple TV channel",
+              "logo": "https://image.tmdb.org/t/p/w92/56UClPygDruoT7kvuPeIMJC59Zx.png"
+            }
+          ],
+          "rent_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
           "source": "TMDb",
           "checked": "2026-10-26"
         }
@@ -1299,6 +2796,27 @@
             "Google Play Movies",
             "YouTube"
           ],
+          "stream_logos": [],
+          "rent_logos": [
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            }
+          ],
+          "buy_logos": [
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            }
+          ],
           "source": "TMDb",
           "checked": "2026-10-26"
         }
@@ -1333,6 +2851,18 @@
           ],
           "rent": [],
           "buy": [],
+          "stream_logos": [
+            {
+              "name": "Netflix",
+              "logo": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Netflix Standard with Ads",
+              "logo": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+            }
+          ],
+          "rent_logos": [],
+          "buy_logos": [],
           "source": "TMDb",
           "checked": "2026-10-26"
         }
@@ -1379,6 +2909,60 @@
             "YouTube",
             "Fandango At Home"
           ],
+          "stream_logos": [
+            {
+              "name": "fuboTV",
+              "logo": "https://image.tmdb.org/t/p/w92/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
+            }
+          ],
+          "rent_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            },
+            {
+              "name": "Plex",
+              "logo": "https://image.tmdb.org/t/p/w92/blAEhvx3XX8sV0fFVFk88FFjubs.png"
+            }
+          ],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
           "source": "TMDb",
           "checked": "2026-10-26"
         }
@@ -1415,6 +2999,18 @@
           ],
           "rent": [],
           "buy": [],
+          "stream_logos": [
+            {
+              "name": "Netflix",
+              "logo": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Netflix Standard with Ads",
+              "logo": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+            }
+          ],
+          "rent_logos": [],
+          "buy_logos": [],
           "source": "TMDb",
           "checked": "2026-10-26"
         }
@@ -1457,6 +3053,51 @@
             "Google Play Movies",
             "YouTube",
             "Fandango At Home"
+          ],
+          "stream_logos": [],
+          "rent_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
@@ -1501,6 +3142,55 @@
             "Google Play Movies",
             "YouTube",
             "Fandango At Home"
+          ],
+          "stream_logos": [],
+          "rent_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            },
+            {
+              "name": "Plex",
+              "logo": "https://image.tmdb.org/t/p/w92/blAEhvx3XX8sV0fFVFk88FFjubs.png"
+            }
+          ],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
@@ -1549,6 +3239,64 @@
             "YouTube",
             "Fandango At Home"
           ],
+          "stream_logos": [
+            {
+              "name": "Amazon Prime Video",
+              "logo": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Amazon Prime Video with Ads",
+              "logo": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+            },
+            {
+              "name": "MovieSphere+ Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/9GQLqBo5obK0r3nhZl24BadRKPq.png"
+            }
+          ],
+          "rent_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
           "source": "TMDb",
           "checked": "2026-10-26"
         }
@@ -1596,6 +3344,68 @@
             "YouTube",
             "Fandango At Home"
           ],
+          "stream_logos": [
+            {
+              "name": "Amazon Prime Video",
+              "logo": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Amazon Prime Video with Ads",
+              "logo": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+            },
+            {
+              "name": "Shout! Factory Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/ydhPmamP2uIMipgq8qIEfmcw2hT.png"
+            },
+            {
+              "name": "Howdy Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/dI7GHS1st3jWH8eW21x5YnJdUFN.png"
+            }
+          ],
+          "rent_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
           "source": "TMDb",
           "checked": "2026-10-26"
         }
@@ -1639,6 +3449,56 @@
             "Google Play Movies",
             "YouTube",
             "Fandango At Home"
+          ],
+          "stream_logos": [
+            {
+              "name": "XLTV Amazon Channel ",
+              "logo": "https://image.tmdb.org/t/p/w92/fMBOrMu7vdw0ktNmakRp746bf3y.png"
+            }
+          ],
+          "rent_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
@@ -1689,6 +3549,76 @@
             "YouTube",
             "Fandango At Home"
           ],
+          "stream_logos": [
+            {
+              "name": "Amazon Prime Video",
+              "logo": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "fuboTV",
+              "logo": "https://image.tmdb.org/t/p/w92/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
+            },
+            {
+              "name": "Peacock Premium",
+              "logo": "https://image.tmdb.org/t/p/w92/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png"
+            },
+            {
+              "name": "Screambox Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/zRn4rBGPYDeZvTeZEBySDdqHzS8.png"
+            },
+            {
+              "name": "Amazon Prime Video with Ads",
+              "logo": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+            },
+            {
+              "name": "Peacock Premium Plus",
+              "logo": "https://image.tmdb.org/t/p/w92/yrEwyMzEKdqAoGhaWUARtIxByol.png"
+            }
+          ],
+          "rent_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
           "source": "TMDb",
           "checked": "2026-10-26"
         }
@@ -1720,6 +3650,9 @@
           "stream": [],
           "rent": [],
           "buy": [],
+          "stream_logos": [],
+          "rent_logos": [],
+          "buy_logos": [],
           "source": "TMDb",
           "checked": "2026-10-26"
         }
@@ -1764,6 +3697,56 @@
             "Google Play Movies",
             "YouTube",
             "Fandango At Home"
+          ],
+          "stream_logos": [
+            {
+              "name": "Fandor",
+              "logo": "https://image.tmdb.org/t/p/w92/vR0RxwoqbM0ZP10LR3uT6rpuamc.png"
+            }
+          ],
+          "rent_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
@@ -1814,6 +3797,72 @@
             "YouTube",
             "Fandango At Home"
           ],
+          "stream_logos": [
+            {
+              "name": "HBO Max Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/64fLWeSyZ1KQZhIdvTdy4QHeWty.png"
+            },
+            {
+              "name": "Cinemax Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/vJBXVX2REOqNrWlwgnBuQX4pQK6.png"
+            },
+            {
+              "name": "HBO Max",
+              "logo": "https://image.tmdb.org/t/p/w92/skypuy7SXuugIQeYg0IglmzoKaS.png"
+            },
+            {
+              "name": "Cinemax Apple TV channel",
+              "logo": "https://image.tmdb.org/t/p/w92/eArBCdklkA9DKiESboGkyv3rVQ7.png"
+            }
+          ],
+          "rent_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            },
+            {
+              "name": "Spectrum On Demand",
+              "logo": "https://image.tmdb.org/t/p/w92/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png"
+            }
+          ],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
           "source": "TMDb",
           "checked": "2026-10-26"
         }
@@ -1860,6 +3909,60 @@
             "YouTube",
             "Fandango At Home"
           ],
+          "stream_logos": [
+            {
+              "name": "Sundance Now",
+              "logo": "https://image.tmdb.org/t/p/w92/uSoP5JLrUjHWDFikg9EJKcm7IvQ.png"
+            },
+            {
+              "name": "Shout! Factory Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/ydhPmamP2uIMipgq8qIEfmcw2hT.png"
+            }
+          ],
+          "rent_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
           "source": "TMDb",
           "checked": "2026-10-26"
         }
@@ -1901,6 +4004,44 @@
             "Amazon Video",
             "Apple TV Store",
             "Fandango At Home"
+          ],
+          "stream_logos": [
+            {
+              "name": "Amazon Prime Video",
+              "logo": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Criterion Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/32XVilXkVbrwV96O3N5i0rtuyd6.png"
+            },
+            {
+              "name": "Amazon Prime Video with Ads",
+              "logo": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+            }
+          ],
+          "rent_logos": [
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
@@ -1950,6 +4091,26 @@
           ],
           "rent": [],
           "buy": [],
+          "stream_logos": [
+            {
+              "name": "Amazon Prime Video",
+              "logo": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Disney Plus",
+              "logo": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png"
+            },
+            {
+              "name": "Hulu",
+              "logo": "https://image.tmdb.org/t/p/w92/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
+            },
+            {
+              "name": "Amazon Prime Video with Ads",
+              "logo": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+            }
+          ],
+          "rent_logos": [],
+          "buy_logos": [],
           "source": "TMDb",
           "checked": "2026-10-26"
         }
@@ -1993,6 +4154,55 @@
             "YouTube",
             "Fandango At Home"
           ],
+          "stream_logos": [],
+          "rent_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            },
+            {
+              "name": "FlixFling",
+              "logo": "https://image.tmdb.org/t/p/w92/hkw2s2Su8EyifB9EbbQP64Fj1xA.png"
+            }
+          ],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
           "source": "TMDb",
           "checked": "2026-10-26"
         }
@@ -2024,6 +4234,14 @@
           "rent": [],
           "buy": [
             "Google Play Movies"
+          ],
+          "stream_logos": [],
+          "rent_logos": [],
+          "buy_logos": [
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            }
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
@@ -2058,6 +4276,18 @@
           ],
           "rent": [],
           "buy": [],
+          "stream_logos": [
+            {
+              "name": "Netflix",
+              "logo": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Netflix Standard with Ads",
+              "logo": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+            }
+          ],
+          "rent_logos": [],
+          "buy_logos": [],
           "source": "TMDb",
           "checked": "2026-10-26"
         }
@@ -2092,6 +4322,18 @@
           ],
           "rent": [],
           "buy": [],
+          "stream_logos": [
+            {
+              "name": "Apple TV",
+              "logo": "https://image.tmdb.org/t/p/w92/9icYBfYFcwgCbky5VdGUIKJ4C5i.png"
+            },
+            {
+              "name": "Apple TV Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/rerVCu9auZrgxTTiZu1criqrQzg.png"
+            }
+          ],
+          "rent_logos": [],
+          "buy_logos": [],
           "source": "TMDb",
           "checked": "2026-10-26"
         }
@@ -2128,6 +4370,27 @@
           "buy": [
             "Amazon Video",
             "Google Play Movies"
+          ],
+          "stream_logos": [
+            {
+              "name": "HBO Max Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/64fLWeSyZ1KQZhIdvTdy4QHeWty.png"
+            },
+            {
+              "name": "HBO Max",
+              "logo": "https://image.tmdb.org/t/p/w92/skypuy7SXuugIQeYg0IglmzoKaS.png"
+            }
+          ],
+          "rent_logos": [],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            }
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
@@ -2167,6 +4430,31 @@
             "Google Play Movies",
             "Fandango At Home"
           ],
+          "stream_logos": [
+            {
+              "name": "Hulu",
+              "logo": "https://image.tmdb.org/t/p/w92/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
+            }
+          ],
+          "rent_logos": [],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
           "source": "TMDb",
           "checked": "2026-10-26"
         }
@@ -2198,6 +4486,18 @@
           ],
           "rent": [],
           "buy": [],
+          "stream_logos": [
+            {
+              "name": "Netflix",
+              "logo": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Netflix Standard with Ads",
+              "logo": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+            }
+          ],
+          "rent_logos": [],
+          "buy_logos": [],
           "source": "TMDb",
           "checked": "2026-10-26"
         }
@@ -2235,6 +4535,31 @@
           "buy": [
             "Amazon Video",
             "Google Play Movies"
+          ],
+          "stream_logos": [
+            {
+              "name": "Amazon Prime Video",
+              "logo": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Peacock Premium",
+              "logo": "https://image.tmdb.org/t/p/w92/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png"
+            },
+            {
+              "name": "Amazon Prime Video with Ads",
+              "logo": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+            }
+          ],
+          "rent_logos": [],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            }
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
