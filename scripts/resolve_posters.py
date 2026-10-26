@@ -51,7 +51,15 @@ def details(item):
     runtimes = data.get("episode_run_time", []) if kind == "tv" else [data.get("runtime")]
     runtime = next((v for v in runtimes if isinstance(v, int) and v > 0), None)
     rating = data.get("vote_average")
+    credits = api(kind + "/" + str(item["tmdb_id"]) + "/credits", {"language": "en-US"})
+    providers = api(kind + "/" + str(item["tmdb_id"]) + "/watch/providers", {})
+    us = providers.get("results", {}).get("US", {})
+    streaming = [p["provider_name"] for p in us.get("flatrate", []) if p.get("provider_name")]
+    rent = [p["provider_name"] for p in us.get("rent", []) if p.get("provider_name")]
+    buy = [p["provider_name"] for p in us.get("buy", []) if p.get("provider_name")]
     return {
+        "cast": [p["name"] for p in credits.get("cast", []) if p.get("name")][:4],
+        "watch_us": {"stream": list(dict.fromkeys(streaming)), "rent": list(dict.fromkeys(rent)), "buy": list(dict.fromkeys(buy)), "source": "TMDb", "checked": time.strftime("%Y-%m-%d")},
         "synopsis": data.get("overview") or None,
         "genres": [g["name"] for g in data.get("genres", []) if g.get("name")][:3],
         "runtime_minutes": runtime,
@@ -63,7 +71,7 @@ changed = 0
 unresolved = []
 for section, items in catalog["lists"].items():
     for item in items:
-        if item.get("tmdb_id") and item.get("synopsis") and "genres" in item and "tmdb_rating" in item:
+        if item.get("tmdb_id") and item.get("synopsis") and "genres" in item and "tmdb_rating" in item and "cast" in item and "watch_us" in item:
             continue
         try:
             match = None if item.get("tmdb_id") else resolve(item)
