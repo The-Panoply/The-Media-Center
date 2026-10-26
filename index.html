@@ -129,12 +129,12 @@ function makeCard(item){
   heading.append(node('span','rank','#'+item.id),node('span','',item.title),node('span','year','('+item.year+')'),node('span','format',item.type));
   info.append(heading,ratingRow(item));
   const watch=availability(item);
-  if(watch)info.append(watch);
   const short=item.short_summary||item.synopsis;
   if(short)info.append(node('p','short-summary',short));
   if(item.cast?.length)info.append(node('p','cast','Cast: '+item.cast.join(' · ')));
   const extra=node('div','extra');
   extra.hidden=true;
+  if(watch)extra.append(watch);
   if(item.synopsis&&item.synopsis!==short)extra.append(node('p','',item.synopsis));
   const metadata=[...(item.genres||[]),item.runtime_minutes?(item.type==='TV'?item.runtime_minutes+' min/episode':item.runtime_minutes+' min'):null].filter(Boolean);
   if(metadata.length)extra.append(node('div','meta',metadata.join(' · ')));
