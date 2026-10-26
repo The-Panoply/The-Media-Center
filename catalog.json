@@ -610,7 +610,10 @@
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
-        }
+        },
+        "viewing_status": "watched",
+        "user_imdb_rating": 6,
+        "user_reaction": "Decent"
       },
       {
         "title": "The Thirteenth Floor",
