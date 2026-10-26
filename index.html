@@ -153,7 +153,43 @@ footer{background:#FFFFFF;border-top:1px solid #EDF0F2;color:#87909A;font-size:1
   #results article{padding:12px;border-radius:11px}
 }
 @media(prefers-reduced-motion:reduce){#results article{transition:none}}
-</style></head><body><header><div class="inner"><small>THE PANOPLY</small><h1>The Media Center</h1><p>Movies, television &amp; what to watch next.</p></div></header><main><div class="tools"><div class="tabs"><button id="main" aria-pressed="true">Main Watchlist</button><button id="candidates" aria-pressed="false">Candidates</button></div><input id="search" type="search" placeholder="Search titles…" aria-label="Search titles"><select id="format" aria-label="Filter by format"><option value="All">All formats</option><option value="Movie">Movies</option><option value="TV">Television</option></select></div><div class="count" id="count"></div><section id="results" aria-live="polite"></section></main><footer>Public watchlists only. Private records remain in Google Drive. Poster artwork is added automatically when a verified source is available. IMDb, Metacritic, and Rotten Tomatoes scores appear only when verified and available.</footer><script>
+
+/* Custom cinematic wordmark: the antique-gold reel is the C in Center. */
+h1.media-wordmark{
+  display:flex;
+  align-items:baseline;
+  gap:.16em;
+  margin:3px 0 3px;
+  font:400 clamp(38px,5.3vw,64px)/1.12 Georgia,"Times New Roman",serif;
+  letter-spacing:-.045em;
+  color:#1C3247;
+  white-space:nowrap;
+}
+.wordmark-the{
+  flex:none;
+  align-self:flex-start;
+  margin-top:.10em;
+  font-size:.38em;
+  font-style:italic;
+  line-height:1.1;
+  letter-spacing:-.015em;
+}
+.wordmark-title{display:inline-flex;align-items:baseline;gap:.2em}
+.wordmark-center{display:inline-flex;align-items:baseline;white-space:nowrap}
+.wordmark-reel{
+  width:.77em;
+  height:.91em;
+  flex:none;
+  position:relative;
+  top:.105em;
+  margin-right:-.055em;
+  overflow:visible;
+}
+@media(max-width:550px){
+  h1.media-wordmark{font-size:clamp(29px,8.65vw,44px);gap:.14em}
+  .wordmark-title{gap:.15em}
+}
+</style></head><body><header><div class="inner"><small>THE PANOPLY</small><h1 class="media-wordmark" aria-label="The Media Center"><span class="wordmark-the" aria-hidden="true">The</span><span class="wordmark-title" aria-hidden="true">Media <span class="wordmark-center"><svg class="wordmark-reel" viewBox="0 0 78 90" xmlns="http://www.w3.org/2000/svg" focusable="false" aria-hidden="true"><path d="M66 27 A32 32 0 1 0 66 63" fill="none" stroke="#203448" stroke-width="7" stroke-linecap="round"/><circle cx="39" cy="45" r="21.5" fill="#B18A4C"/><circle cx="39" cy="45" r="4.1" fill="#FFFFFF"/><circle cx="39" cy="32.5" r="4.7" fill="#FFFFFF"/><circle cx="27.1" cy="41.1" r="4.7" fill="#FFFFFF"/><circle cx="31.7" cy="55.1" r="4.7" fill="#FFFFFF"/><circle cx="46.3" cy="55.1" r="4.7" fill="#FFFFFF"/><circle cx="50.9" cy="41.1" r="4.7" fill="#FFFFFF"/></svg>enter</span></span></h1><p>Movies, television &amp; what to watch next.</p></div></header><main><div class="tools"><div class="tabs"><button id="main" aria-pressed="true">Main Watchlist</button><button id="candidates" aria-pressed="false">Candidates</button></div><input id="search" type="search" placeholder="Search titles…" aria-label="Search titles"><select id="format" aria-label="Filter by format"><option value="All">All formats</option><option value="Movie">Movies</option><option value="TV">Television</option></select></div><div class="count" id="count"></div><section id="results" aria-live="polite"></section></main><footer>Public watchlists only. Private records remain in Google Drive. Poster artwork is added automatically when a verified source is available. IMDb, Metacritic, and Rotten Tomatoes scores appear only when verified and available.</footer><script>
 let lists={main:[],candidates:[]};
 let active='main';
 const get=id=>document.getElementById(id);
