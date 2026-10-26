@@ -49,6 +49,14 @@ article:focus-visible{outline:2px solid #916b44;outline-offset:4px;border-radius
 .extra .meta{margin:8px 0}
 .format{display:inline-block}
 @media(max-width:550px){.ratings{gap:5px 9px}.rating-item{font-size:11px}.rating-icon{width:13px;height:13px}.rating-item:first-child .rating-icon{width:15px;height:15px}}
+
+/* Compact, vertically stacked rating services with aligned scores */
+.ratings{display:grid;grid-template-columns:max-content minmax(0,1fr);column-gap:10px;row-gap:4px;align-items:center;justify-content:start;width:max-content;max-width:100%;font-size:12px;margin:9px 0 8px}
+.rating-item{display:contents}
+.rating-icon{width:15px;height:15px;object-fit:contain;display:block}
+.rating-item:first-child .rating-icon{width:29px;height:15px}
+.rating-score{font-variant-numeric:tabular-nums;white-space:nowrap;text-align:left;color:#435064}
+@media(max-width:550px){.ratings{font-size:12px;column-gap:8px;row-gap:3px}.rating-icon{width:14px;height:14px}.rating-item:first-child .rating-icon{width:27px;height:14px}}
 </style></head><body><header><div class="inner"><small>THE PANOPLY</small><h1>The Media Center</h1><p>Movies, television &amp; what to watch next.</p></div></header><main><div class="tools"><div class="tabs"><button id="main" aria-pressed="true">Main Watchlist</button><button id="candidates" aria-pressed="false">Candidates</button></div><input id="search" type="search" placeholder="Search titles…" aria-label="Search titles"><select id="format" aria-label="Filter by format"><option value="All">All formats</option><option value="Movie">Movies</option><option value="TV">Television</option></select></div><div class="count" id="count"></div><section id="results" aria-live="polite"></section></main><footer>Public watchlists only. Private records remain in Google Drive. Poster artwork is added automatically when a verified source is available. IMDb, Metacritic, and Rotten Tomatoes scores appear only when verified and available.</footer><script>
 let lists={main:[],candidates:[]};
 let active='main';
@@ -82,7 +90,7 @@ function ratingRow(item){
     logo.src='./assets/ratings/'+filename;
     logo.alt=name;
     logo.title=name;
-    cell.append(logo,document.createTextNode(item[key]!=null?' '+item[key]+suffix:' —'));
+    cell.append(logo,node('span','rating-score',item[key]!=null?item[key]+suffix:'—'));
     ratings.append(cell);
   }
   return ratings;
