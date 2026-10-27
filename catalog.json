@@ -139,7 +139,7 @@
           "Sci-Fi & Fantasy",
           "Drama"
         ],
-        "runtime_minutes": null,
+        "runtime_minutes": 50,
         "tmdb_rating": 7.5,
         "imdb_id": null,
         "short_summary": "Two androids attempt to raise human children on a distant planet after Earth's collapse.",
@@ -158,7 +158,8 @@
           "buy_logos": [],
           "source": "TMDb",
           "checked": "2026-10-26"
-        }
+        },
+        "runtime_source": "https://www.thetvdb.com/series/raised-by-wolves-2020/seasons/absolute/1"
       },
       {
         "title": "Predestination",
@@ -3915,7 +3916,9 @@
           "Madeleine Stowe",
           "Brad Pitt"
         ],
-        "imdb_id": "tt0114746"
+        "imdb_id": "tt0114746",
+        "runtime_minutes": 129,
+        "runtime_source": "https://www.imdb.com/title/tt0114746/technical/"
       },
       {
         "title": "Strange Days",
@@ -4116,7 +4119,7 @@
           "Animation",
           "Sci-Fi & Fantasy"
         ],
-        "runtime_minutes": null,
+        "runtime_minutes": 41,
         "tmdb_rating": 8.2,
         "imdb_id": null,
         "short_summary": "A teenager learns that her dead father's consciousness may have survived online.",
@@ -4147,7 +4150,8 @@
           "buy_logos": [],
           "source": "TMDb",
           "checked": "2026-10-26"
-        }
+        },
+        "runtime_source": "https://thetvdb.com/index.php/series/pantheon/seasons/official/1"
       },
       {
         "title": "Severance",
@@ -4162,7 +4166,7 @@
           "Mystery",
           "Sci-Fi & Fantasy"
         ],
-        "runtime_minutes": null,
+        "runtime_minutes": 49,
         "tmdb_rating": 8.4,
         "imdb_id": null,
         "short_summary": "Employees whose work and personal memories are separated begin questioning their employer.",
@@ -4193,7 +4197,8 @@
           "buy_logos": [],
           "source": "TMDb",
           "checked": "2026-10-26"
-        }
+        },
+        "runtime_source": "https://www.tvmaze.com/shows/44933/severance"
       },
       {
         "title": "Years and Years",
@@ -4329,7 +4334,7 @@
           "Drama",
           "Sci-Fi & Fantasy"
         ],
-        "runtime_minutes": null,
+        "runtime_minutes": 56,
         "tmdb_rating": 8.4,
         "imdb_id": null,
         "short_summary": "A missing child draws four families into a mystery spanning generations.",
@@ -4357,7 +4362,8 @@
           "buy_logos": [],
           "source": "TMDb",
           "checked": "2026-10-26"
-        }
+        },
+        "runtime_source": "https://www.tvmaze.com/shows/17861/dark"
       },
       {
         "title": "Humans",
