@@ -195,6 +195,11 @@ h1.media-wordmark{
 }
 #results .poster{grid-column:1;grid-row:1;width:100%;height:auto;flex:auto;aspect-ratio:2/3}
 #results .info{grid-column:2;grid-row:1;padding-top:2px}
+#results article{background:#f8f9fa;border-color:#e5e9ed}
+#results article:hover{background:#f6f7f9;border-color:#dce2e7}
+#results .title{background:#f1f3f5;border-radius:7px;padding:7px 9px;margin:-2px 0 4px -9px}
+#results .ratings .rating-score{display:inline-block;min-width:6ch;font-variant-numeric:tabular-nums}
+#results .ratings .rating-score-rotten_tomatoes_score{min-width:4ch}
 #results .title-link{color:inherit;text-decoration:none;text-underline-offset:3px}
 #results .title-link:hover{text-decoration:underline;text-decoration-color:#b18a4c}
 #results .title-link:focus-visible{outline:2px solid #b18a4c;outline-offset:3px;border-radius:2px}
@@ -204,9 +209,11 @@ h1.media-wordmark{
 #results .card-facts{
   grid-column:1/-1;
   grid-row:2;
-  margin-top:12px;
-  padding-top:10px;
-  border-top:1px solid #edf0f2;
+  margin:12px -15px -15px;
+  padding:11px 15px 13px;
+  background:#f1f3f5;
+  border-top:1px solid #e8ecef;
+  border-radius:0 0 11px 11px;
   display:grid;
   grid-template-columns:minmax(90px,.32fr) minmax(0,1fr) auto;
   column-gap:12px;
@@ -233,18 +240,18 @@ h1.media-wordmark{
 #results .card-kind{
   grid-column:3;
   justify-self:end;
-  align-self:start;
+  align-self:end;
   font-size:9px;
   line-height:1.2;
   font-weight:500;
-  color:#b1bac2;
+  color:#bdc5cd;
   letter-spacing:.02em;
   white-space:nowrap;
 }
 @media(max-width:800px){#results article{grid-template-columns:160px minmax(0,1fr)}}
 @media(max-width:550px){
   #results article{grid-template-columns:124px minmax(0,1fr);column-gap:15px}
-  #results .card-facts{grid-template-columns:minmax(84px,.32fr) minmax(0,1fr) auto;column-gap:8px;padding-top:9px}
+  #results .card-facts{grid-template-columns:minmax(84px,.32fr) minmax(0,1fr) auto;column-gap:8px;margin:11px -12px -12px;padding:10px 12px 12px;border-radius:0 0 10px 10px}
   #results .fact-label,#results .card-kind{font-size:8px}
   #results .fact-value{font-size:11px}
   #results .stream-chip{font-size:9px;padding:3px 5px}
@@ -286,7 +293,9 @@ function ratingRow(item){
     logo.src='./assets/ratings/'+filename;
     logo.alt=name;
     logo.title=name;
-    cell.append(logo,node('span','rating-score',item[key]!=null?item[key]+suffix:'—'));
+    const score=node('span','rating-score rating-score-'+key,item[key]!=null?item[key]+suffix:'');
+    if(item[key]==null)score.setAttribute('aria-label',name+' rating unavailable');
+    cell.append(logo,score);
     ratings.append(cell);
   }
   return ratings;
