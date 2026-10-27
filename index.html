@@ -177,16 +177,13 @@ h1.media-wordmark{
 }
 .wordmark-title{display:inline-flex;align-items:baseline;gap:.2em}
 .wordmark-center{white-space:nowrap}
-.runtime{display:inline-block;margin-left:8px;color:#60707e;font-size:11px;font-weight:500;letter-spacing:0;white-space:nowrap;vertical-align:baseline}
-@media(max-width:550px){.runtime{font-size:10px;margin-left:6px}}
-
 @media(max-width:550px){
   h1.media-wordmark{font-size:clamp(29px,8.65vw,44px);gap:.14em}
   .wordmark-title{gap:.15em}
 }
 
 
-/* Unified, fully visible watchlist cards: fixed-position time and streaming. */
+/* Compact, consistent details: fixed footer, quiet streaming, accessible title links. */
 #results article{
   display:grid;
   grid-template-columns:clamp(140px,13vw,174px) minmax(0,1fr);
@@ -198,56 +195,65 @@ h1.media-wordmark{
 }
 #results .poster{grid-column:1;grid-row:1;width:100%;height:auto;flex:auto;aspect-ratio:2/3}
 #results .info{grid-column:2;grid-row:1;padding-top:2px}
+#results .title-link{color:inherit;text-decoration:none;text-underline-offset:3px}
+#results .title-link:hover{text-decoration:underline;text-decoration-color:#b18a4c}
+#results .title-link:focus-visible{outline:2px solid #b18a4c;outline-offset:3px;border-radius:2px}
 #results .short-summary{margin:9px 0 6px}
 #results .cast{font-size:12px;line-height:1.45;margin:8px 0 0}
 #results .genres{font-size:11px;line-height:1.45;color:#8994a0;margin:6px 0 0}
-#results .card-link{display:inline-block;margin-top:9px;font-size:12px;font-weight:600;text-decoration:none}
-#results .card-link:hover{text-decoration:underline}
 #results .card-facts{
   grid-column:1/-1;
   grid-row:2;
-  margin-top:14px;
-  padding-top:12px;
-  border-top:1px solid #e9ecef;
+  margin-top:12px;
+  padding-top:10px;
+  border-top:1px solid #edf0f2;
   display:grid;
-  grid-template-columns:minmax(102px,.34fr) minmax(0,1fr);
-  gap:15px;
+  grid-template-columns:minmax(90px,.32fr) minmax(0,1fr) auto;
+  column-gap:12px;
   align-items:start;
 }
-#results .fact{display:flex;flex-direction:column;align-items:flex-start;gap:7px;min-width:0}
-#results .fact-label{display:block;font-size:10px;line-height:1.15;font-weight:750;letter-spacing:.12em;color:#8a949d}
-#results .fact-value{display:block;font-size:13px;line-height:1.4;font-weight:650;color:#243c50;font-variant-numeric:tabular-nums;white-space:nowrap}
-#results .stream-services{display:flex;gap:5px;flex-wrap:wrap;align-items:center;min-width:0}
+#results .fact{display:flex;flex-direction:column;align-items:flex-start;gap:5px;min-width:0}
+#results .fact-label{display:block;font-size:9px;line-height:1.15;font-weight:650;letter-spacing:.1em;color:#a5aeb7}
+#results .fact-value{display:block;font-size:12px;line-height:1.35;font-weight:500;color:#778591;font-variant-numeric:tabular-nums;white-space:nowrap}
+#results .stream-services{display:flex;gap:4px;flex-wrap:wrap;align-items:center;min-width:0}
 #results .stream-chip{
   display:inline-flex;
   align-items:center;
-  border:1px solid #e6e9ec;
+  border:1px solid #edf0f2;
   border-radius:5px;
-  padding:4px 7px;
-  background:#f8f9fa;
-  color:#34495c;
-  font-size:11px;
-  font-weight:600;
+  padding:3px 6px;
+  background:#fafbfc;
+  color:#76838f;
+  font-size:10px;
+  font-weight:500;
   line-height:1.25;
   white-space:nowrap;
 }
-#results .stream-addon{font-weight:500;color:#697782;background:#fff;border-style:dashed}
-#results .stream-empty{font-size:13px;font-weight:650;color:#8793a0;line-height:1.45}
-@media(max-width:800px){
-  #results article{grid-template-columns:160px minmax(0,1fr)}
+#results .stream-empty{font-size:11px;font-weight:500;color:#a1abb4;line-height:1.35}
+#results .card-kind{
+  grid-column:3;
+  justify-self:end;
+  align-self:start;
+  font-size:9px;
+  line-height:1.2;
+  font-weight:500;
+  color:#b1bac2;
+  letter-spacing:.02em;
+  white-space:nowrap;
 }
+@media(max-width:800px){#results article{grid-template-columns:160px minmax(0,1fr)}}
 @media(max-width:550px){
   #results article{grid-template-columns:124px minmax(0,1fr);column-gap:15px}
-  #results .card-facts{grid-template-columns:minmax(90px,.32fr) minmax(0,1fr);gap:11px;padding-top:11px}
-  #results .fact-label{font-size:9px}
-  #results .fact-value{font-size:12px}
-  #results .stream-chip{font-size:10px;padding:4px 6px}
+  #results .card-facts{grid-template-columns:minmax(84px,.32fr) minmax(0,1fr) auto;column-gap:8px;padding-top:9px}
+  #results .fact-label,#results .card-kind{font-size:8px}
+  #results .fact-value{font-size:11px}
+  #results .stream-chip{font-size:9px;padding:3px 5px}
 }
 @media(max-width:360px){
   #results article{grid-template-columns:108px minmax(0,1fr);column-gap:12px}
-  #results .card-facts{grid-template-columns:minmax(80px,.32fr) minmax(0,1fr);gap:8px}
+  #results .card-facts{grid-template-columns:minmax(79px,.3fr) minmax(0,1fr) auto;column-gap:7px}
 }
-</style></head><body><header><div class="inner"><small>THE PANOPLY</small><h1 class="media-wordmark" aria-label="The Media Center"><span class="wordmark-the" aria-hidden="true">The</span><span class="wordmark-title" aria-hidden="true"><span>Media</span><span class="wordmark-center">Center</span></span></h1></div></header><main><div class="tools"><div class="tabs"><button id="main" aria-pressed="true">Main Watchlist</button><button id="candidates" aria-pressed="false">Candidates</button></div><input id="search" type="search" placeholder="Search titles…" aria-label="Search titles"><select id="format" aria-label="Filter by format"><option value="All">All formats</option><option value="Movie">Movies</option><option value="TV">Television</option></select></div><div class="count" id="count"></div><section id="results" aria-live="polite"></section></main><footer>Public watchlists only. Private records remain in Google Drive. Poster artwork is added automatically when a verified source is available. IMDb, Metacritic, and Rotten Tomatoes scores appear only when verified and available. Streaming reflects catalog listings; add-on channels require separate subscriptions. N/A means no streaming option is listed, not necessarily that none exists.</footer><script>
+</style></head><body><header><div class="inner"><small>THE PANOPLY</small><h1 class="media-wordmark" aria-label="The Media Center"><span class="wordmark-the" aria-hidden="true">The</span><span class="wordmark-title" aria-hidden="true"><span>Media</span><span class="wordmark-center">Center</span></span></h1></div></header><main><div class="tools"><div class="tabs"><button id="main" aria-pressed="true">Main Watchlist</button><button id="candidates" aria-pressed="false">Candidates</button></div><input id="search" type="search" placeholder="Search titles…" aria-label="Search titles"><select id="format" aria-label="Filter by format"><option value="All">All formats</option><option value="Movie">Movies</option><option value="TV">Television</option></select></div><div class="count" id="count"></div><section id="results" aria-live="polite"></section></main><footer>Public watchlists only. Private records remain in Google Drive. Poster artwork is added automatically when a verified source is available. IMDb, Metacritic, and Rotten Tomatoes scores appear only when verified and available. Streaming reflects catalog listings; add-on channels are excluded. N/A means no direct streaming service is listed, not necessarily that none exists.</footer><script>
 let lists={main:[],candidates:[]};
 let active='main';
 const get=id=>document.getElementById(id);
@@ -286,8 +292,7 @@ function ratingRow(item){
   return ratings;
 }
 function streamingServices(item){
-  // Collapse ad-supported tiers and alternative channel routes, without
-  // treating Amazon add-on channels as included with Prime Video.
+  // Direct streaming platforms only; paid channel add-ons are excluded.
   const aliases={
     'Amazon Prime Video':'Prime Video',
     'Amazon Prime Video with Ads':'Prime Video',
@@ -295,27 +300,19 @@ function streamingServices(item){
     'Peacock Premium':'Peacock',
     'Peacock Premium Plus':'Peacock',
     'Paramount Plus Essential':'Paramount+',
-    'MGM Plus':'MGM+',
-    'MGM Plus Roku Premium Channel':'MGM+',
-    'MGM+ Amazon Channel':'MGM+',
-    'AMC Plus Apple TV channel':'AMC+',
-    'Apple TV Amazon Channel':'Apple TV',
-    'HBO Max Amazon Channel':'HBO Max'
+    'MGM Plus':'MGM+'
   };
-  const services=new Map();
+  const services=new Set();
   for(const raw of item.watch_us?.stream||[]){
-    if(typeof raw!=='string'||!raw.trim())continue;
+    if(typeof raw!=='string')continue;
     const cleaned=raw.trim();
-    let addOn=/ Amazon Channel$| Apple TV channel$/i.test(cleaned);
-    let name=aliases[cleaned]||cleaned.replace(/ Amazon Channel$| Apple TV channel$/i,'');
-    if(name==='MGM+'||name==='Apple TV'||name==='HBO Max'||name==='AMC+')addOn=false;
-    const existing=services.get(name);
-    if(!existing||(!addOn&&existing.addOn))services.set(name,{name,addOn});
+    if(!cleaned||/ Amazon Channel$| Apple TV channel$| Roku Premium Channel$/i.test(cleaned))continue;
+    services.add(aliases[cleaned]||cleaned);
   }
   const order=['Prime Video','Netflix','Hulu','Apple TV','HBO Max','Disney Plus','Peacock','Paramount+','MGM+','AMC+','Shudder'];
-  return [...services.values()].sort((a,b)=>{
-    const ai=order.indexOf(a.name),bi=order.indexOf(b.name);
-    return (ai<0?100:ai)-(bi<0?100:bi)||a.name.localeCompare(b.name);
+  return [...services].sort((a,b)=>{
+    const ai=order.indexOf(a),bi=order.indexOf(b);
+    return (ai<0?100:ai)-(bi<0?100:bi)||a.localeCompare(b);
   });
 }
 function runtimeText(item){
@@ -323,13 +320,13 @@ function runtimeText(item){
   if(!Number.isFinite(minutes)||minutes<=0)return 'N/A';
   const n=Math.round(minutes);
   return item.type==='TV'
-    ?'≈'+n+' min/episode'
+    ?n+' min/episode'
     :n>=60?Math.floor(n/60)+'h'+(n%60?' '+(n%60)+'m':''):n+'m';
 }
 function createFacts(item){
   const strip=node('div','card-facts');
   const duration=node('div','fact');
-  duration.append(node('span','fact-label',item.type==='TV'?'EPISODE LENGTH':'RUNTIME'));
+  duration.append(node('span','fact-label','RUNTIME'));
   duration.append(node('span','fact-value',runtimeText(item)));
   const stream=node('div','fact');
   stream.append(node('span','fact-label','STREAMING'));
@@ -341,13 +338,13 @@ function createFacts(item){
     providers.append(fallback);
   }else{
     for(const service of services){
-      const chip=node('span','stream-chip'+(service.addOn?' stream-addon':''),service.name+(service.addOn?' · add-on':''));
-      chip.title=service.addOn?'Requires a separate channel/add-on subscription':service.name;
+      const chip=node('span','stream-chip',service);
+      chip.title=service;
       providers.append(chip);
     }
   }
   stream.append(providers);
-  strip.append(duration,stream);
+  strip.append(duration,stream,node('span','card-kind',item.type==='TV'?'TV':'Movie'));
   return strip;
 }
 function makeCard(item){
@@ -355,24 +352,21 @@ function makeCard(item){
   const poster=node('div','poster');
   const info=node('div','info');
   const heading=node('div','title');
-  heading.append(node('span','rank','#'+item.id),node('span','',item.title),node('span','year','('+item.year+')'),node('span','format',item.type));
+  const hasImdbId=/^tt\d+$/.test(item.imdb_id||'');
+  const detailsUrl=hasImdbId
+    ?'https://www.imdb.com/title/'+item.imdb_id+'/'
+    :'https://www.imdb.com/find/?q='+encodeURIComponent(item.title+' '+item.year)+'&s=tt';
+  const titleLink=node('a','title-link',item.title);
+  titleLink.href=detailsUrl;
+  titleLink.target='_blank';
+  titleLink.rel='noopener noreferrer';
+  titleLink.setAttribute('aria-label','Look up '+item.title+' on IMDb (opens in a new tab)');
+  heading.append(node('span','rank','#'+item.id),titleLink,node('span','year','('+item.year+')'));
   info.append(heading,ratingRow(item));
   const short=item.short_summary||item.synopsis;
   if(short)info.append(node('p','short-summary',short));
   if(item.cast?.length)info.append(node('p','cast','Cast: '+item.cast.join(' · ')));
   if(item.genres?.length)info.append(node('p','genres',item.genres.join(' · ')));
-  const hasImdbId=/^tt\d+$/.test(item.imdb_id||'');
-  const detailsUrl=hasImdbId?'https://www.imdb.com/title/'+item.imdb_id+'/':
-    item.tmdb_id?'https://www.themoviedb.org/'+(item.type==='TV'?'tv':'movie')+'/'+item.tmdb_id:null;
-  if(detailsUrl){
-    const site=hasImdbId?'IMDb':'TMDb';
-    const link=node('a','lookup card-link','More on '+site+' ↗');
-    link.href=detailsUrl;
-    link.target='_blank';
-    link.rel='noopener noreferrer';
-    link.setAttribute('aria-label','Read more about '+item.title+' on '+site+' (opens in a new tab)');
-    info.append(link);
-  }
   card.append(poster,info,createFacts(item));
   loadPoster(item,poster);
   return card;
