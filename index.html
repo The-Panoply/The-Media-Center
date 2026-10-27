@@ -1,4 +1,4 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#ffffff"><title>The Media Center — Panoply</title><link rel="icon" type="image/png" sizes="32x32" href="./favicon-32.png"><link rel="apple-touch-icon" sizes="180x180" href="./apple-touch-icon.png"><style>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#ffffff"><title>The Media Center — Panoply</title><link rel="icon" type="image/png" sizes="32x32" href="./favicon-32.png?v=4"><link rel="icon" type="image/svg+xml" sizes="any" href="./favicon.svg?v=4"><link rel="shortcut icon" type="image/x-icon" href="./favicon.ico?v=4"><link rel="apple-touch-icon" sizes="180x180" href="./apple-touch-icon.png?v=4"><style>
 :root{color-scheme:light;--bg:#fff;--ink:#1d2733;--sub:#667383;--line:#e7e9ed;--accent:#916b44}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
@@ -317,7 +317,23 @@ main{padding-top:19px}
   #results .section-label{font-size:13px;padding:5px 9px}
   #results .section-count{font-size:10px}
 }
-</style></head><body><header><div class="inner"><small>THE PANOPLY</small><h1 class="media-wordmark" aria-label="The Media Center"><span class="wordmark-the" aria-hidden="true">The</span><span class="wordmark-title" aria-hidden="true"><span>Media</span><span class="wordmark-center">Center</span></span></h1></div><div class="header-controls"><div class="tools"><div class="tabs"><button id="main" aria-pressed="true">Main Watchlist</button><button id="candidates" aria-pressed="false">Candidates</button></div><input id="search" type="search" placeholder="Search titles…" aria-label="Search titles"><select id="format" aria-label="Filter by format"><option value="All">All formats</option><option value="Movie">Movies</option><option value="TV">Television</option></select></div></div></header><main><section id="results" aria-live="polite"></section></main><footer>Public watchlists only. Private records remain in Google Drive. Poster artwork is added automatically when a verified source is available. IMDb, Metacritic, and Rotten Tomatoes scores appear only when verified and available. Streaming reflects catalog listings; add-on channels are excluded. N/A means no direct streaming service is listed, not necessarily that none exists.</footer><script>
+/* Search stays compact until requested, on mobile and desktop. */
+.search-control{display:flex;align-items:center;gap:8px;margin-left:auto;min-width:0}
+.search-control .search-toggle{width:42px;height:42px;flex:none;display:grid;place-items:center;padding:9px;border-radius:10px;border:1px solid #e1e5e9;background:#fff;color:#526477}
+.search-control .search-toggle:hover{background:#f1f4f6}
+.search-control .search-toggle:focus-visible{outline:2px solid #916b44;outline-offset:2px}
+.search-control svg{display:block;width:19px;height:19px}
+.search-control .search-cross{display:none}
+.search-control.open .search-cross{display:block}
+.search-control.open .search-glass{display:none}
+.search-control input[hidden]{display:none!important}
+.search-control input{flex:0 1 270px;min-width:0;width:clamp(120px,23vw,270px);max-width:100%;padding:9px 12px;border-radius:9px;font-size:14px;line-height:1.4}
+@media(max-width:550px){
+ .search-control.open{flex:1 1 100%;order:3;margin-left:0}
+ .search-control.open input{flex:1 1 auto;width:100%}
+ .search-control:not(.open){margin-left:auto}
+}
+</style></head><body><header><div class="inner"><small>THE PANOPLY</small><h1 class="media-wordmark" aria-label="The Media Center"><span class="wordmark-the" aria-hidden="true">The</span><span class="wordmark-title" aria-hidden="true"><span>Media</span><span class="wordmark-center">Center</span></span></h1></div><div class="header-controls"><div class="tools"><div class="tabs"><button id="main" aria-pressed="true">Main Watchlist</button><button id="candidates" aria-pressed="false">Candidates</button></div><div class="search-control" id="search-control"><button type="button" id="search-toggle" class="search-toggle" aria-label="Open title search" aria-controls="search" aria-expanded="false" title="Search titles"><svg class="search-glass" viewBox="0 0 24 24" fill="none" aria-hidden="true" focusable="false" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="10.7" cy="10.7" r="6.5"/><path d="m15.5 15.5 5 5"/></svg><svg class="search-cross" viewBox="0 0 24 24" fill="none" aria-hidden="true" focusable="false" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M5 5l14 14M19 5L5 19"/></svg></button><input id="search" type="search" placeholder="Search titles…" aria-label="Search titles" autocomplete="off" hidden></div><select id="format" aria-label="Filter by format"><option value="All">All formats</option><option value="Movie">Movies</option><option value="TV">Television</option></select></div></div></header><main><section id="results" aria-live="polite"></section></main><footer>Public watchlists only. Private records remain in Google Drive. Poster artwork is added automatically when a verified source is available. IMDb, Metacritic, and Rotten Tomatoes scores appear only when verified and available. Streaming reflects catalog listings; add-on channels are excluded. N/A means no direct streaming service is listed, not necessarily that none exists.</footer><script>
 let lists={main:[],candidates:[]};
 let active='main';
 const get=id=>document.getElementById(id);
@@ -477,7 +493,26 @@ async function loadCatalog(){
 }
 get('main').onclick=()=>{active='main';render()};
 get('candidates').onclick=()=>{active='candidates';render()};
-get('search').oninput=render;
+const searchInput=get('search');
+const searchControl=get('search-control');
+const searchToggle=get('search-toggle');
+function setSearchOpen(open){
+  searchControl.classList.toggle('open',open);
+  searchInput.hidden=!open;
+  searchToggle.setAttribute('aria-expanded',String(open));
+  searchToggle.setAttribute('aria-label',open?'Close title search':'Open title search');
+  searchToggle.title=open?'Close search':'Search titles';
+  if(open)searchInput.focus();
+  else{
+    if(searchInput.value){searchInput.value='';render();}
+    searchToggle.focus();
+  }
+}
+searchToggle.onclick=()=>setSearchOpen(searchInput.hidden);
+searchInput.addEventListener('keydown',event=>{
+  if(event.key==='Escape'){event.preventDefault();setSearchOpen(false);}
+});
+searchInput.oninput=render;
 get('format').onchange=render;
 loadCatalog();
 </script></body></html>
