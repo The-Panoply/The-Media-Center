@@ -177,6 +177,8 @@ h1.media-wordmark{
 }
 .wordmark-title{display:inline-flex;align-items:baseline;gap:.2em}
 .wordmark-center{white-space:nowrap}
+.runtime{display:inline-block;margin-left:8px;color:#60707e;font-size:11px;font-weight:500;letter-spacing:0;white-space:nowrap;vertical-align:baseline}
+@media(max-width:550px){.runtime{font-size:10px;margin-left:6px}}
 
 @media(max-width:550px){
   h1.media-wordmark{font-size:clamp(29px,8.65vw,44px);gap:.14em}
@@ -237,6 +239,15 @@ function makeCard(item){
   const info=node('div','info');
   const heading=node('div','title');
   heading.append(node('span','rank','#'+item.id),node('span','',item.title),node('span','year','('+item.year+')'),node('span','format',item.type));
+  // Always show the viewing time without opening the card.
+  const minutes=Number(item.runtime_minutes);
+  if(Number.isFinite(minutes)&&minutes>0){
+    const n=Math.round(minutes);
+    const duration=item.type==='TV'
+      ?'≈'+n+' min/episode'
+      :n>=60?Math.floor(n/60)+'h'+(n%60?' '+(n%60)+'m':''):n+'m';
+    heading.append(node('span','runtime',duration));
+  }
   info.append(heading,ratingRow(item));
   const watch=availability(item);
   const short=item.short_summary||item.synopsis;
@@ -246,7 +257,7 @@ function makeCard(item){
   extra.hidden=true;
   if(watch)extra.append(watch);
   if(item.synopsis&&item.synopsis!==short)extra.append(node('p','',item.synopsis));
-  const metadata=[...(item.genres||[]),item.runtime_minutes?(item.type==='TV'?item.runtime_minutes+' min/episode':item.runtime_minutes+' min'):null].filter(Boolean);
+  const metadata=[...(item.genres||[])].filter(Boolean);
   if(metadata.length)extra.append(node('div','meta',metadata.join(' · ')));
   if(item.watch_us?.checked)extra.append(node('p','','US availability via TMDb · checked '+item.watch_us.checked));
   const hasImdbId=/^tt\d+$/.test(item.imdb_id||'');
