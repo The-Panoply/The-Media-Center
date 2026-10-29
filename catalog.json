@@ -1,7 +1,16 @@
 {
-  "schema": 1,
+  "schema": 2,
+  "metadata": {
+    "updated": "2026-10-29",
+    "previous_schema": 1,
+    "previous_counts": {
+      "main": 30,
+      "candidates": 22
+    },
+    "description": "Combined formerly approved Main and Candidate entries by genre, and assembled animation recommendations. Provenance records prior list, original index, and feedback. Sci-fi remains separate and first. No titles were deleted."
+  },
   "lists": {
-    "main": [
+    "scifi": [
       {
         "title": "Project Hail Mary",
         "year": 2026,
@@ -125,6 +134,13 @@
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
+        },
+        "provenance": {
+          "source": "Former Main Watchlist",
+          "original_position": 1,
+          "original_group": "Highest Priority",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
         }
       },
       {
@@ -159,7 +175,14 @@
           "source": "TMDb",
           "checked": "2026-10-26"
         },
-        "runtime_source": "https://www.thetvdb.com/series/raised-by-wolves-2020/seasons/absolute/1"
+        "runtime_source": "https://www.thetvdb.com/series/raised-by-wolves-2020/seasons/absolute/1",
+        "provenance": {
+          "source": "Former Main Watchlist",
+          "original_position": 2,
+          "original_group": "Highest Priority",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
+        }
       },
       {
         "title": "Predestination",
@@ -248,6 +271,13 @@
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
+        },
+        "provenance": {
+          "source": "Former Main Watchlist",
+          "original_position": 3,
+          "original_group": "Highest Priority",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
         }
       },
       {
@@ -377,6 +407,13 @@
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
+        },
+        "provenance": {
+          "source": "Former Main Watchlist",
+          "original_position": 4,
+          "original_group": "Highest Priority",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
         }
       },
       {
@@ -467,6 +504,13 @@
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
+        },
+        "provenance": {
+          "source": "Former Main Watchlist",
+          "original_position": 5,
+          "original_group": "Highest Priority",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
         }
       },
       {
@@ -562,6 +606,13 @@
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
+        },
+        "provenance": {
+          "source": "Former Main Watchlist",
+          "original_position": 6,
+          "original_group": "Highest Priority",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
         }
       },
       {
@@ -657,6 +708,13 @@
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
+        },
+        "provenance": {
+          "source": "Former Main Watchlist",
+          "original_position": 7,
+          "original_group": "Highest Priority",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
         }
       },
       {
@@ -772,6 +830,13 @@
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
+        },
+        "provenance": {
+          "source": "Former Main Watchlist",
+          "original_position": 8,
+          "original_group": "Highest Priority",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
         }
       },
       {
@@ -860,6 +925,13 @@
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
+        },
+        "provenance": {
+          "source": "Former Main Watchlist",
+          "original_position": 9,
+          "original_group": "Highest Priority",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
         }
       },
       {
@@ -965,6 +1037,13 @@
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
+        },
+        "provenance": {
+          "source": "Former Main Watchlist",
+          "original_position": 10,
+          "original_group": "Strong Possibilities",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
         }
       },
       {
@@ -1060,6 +1139,13 @@
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
+        },
+        "provenance": {
+          "source": "Former Main Watchlist",
+          "original_position": 11,
+          "original_group": "Strong Possibilities",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
         }
       },
       {
@@ -1205,6 +1291,13 @@
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
+        },
+        "provenance": {
+          "source": "Former Main Watchlist",
+          "original_position": 12,
+          "original_group": "Strong Possibilities",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
         }
       },
       {
@@ -1303,6 +1396,13 @@
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
+        },
+        "provenance": {
+          "source": "Former Main Watchlist",
+          "original_position": 13,
+          "original_group": "Strong Possibilities",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
         }
       },
       {
@@ -1337,6 +1437,13 @@
           "buy_logos": [],
           "source": "TMDb",
           "checked": "2026-10-26"
+        },
+        "provenance": {
+          "source": "Former Main Watchlist",
+          "original_position": 14,
+          "original_group": "Strong Possibilities",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
         }
       },
       {
@@ -1442,6 +1549,13 @@
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
+        },
+        "provenance": {
+          "source": "Former Main Watchlist",
+          "original_position": 15,
+          "original_group": "Strong Possibilities",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
         }
       },
       {
@@ -1542,6 +1656,13 @@
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
+        },
+        "provenance": {
+          "source": "Former Main Watchlist",
+          "original_position": 16,
+          "original_group": "Strong Possibilities",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
         }
       },
       {
@@ -1635,6 +1756,13 @@
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
+        },
+        "provenance": {
+          "source": "Former Main Watchlist",
+          "original_position": 17,
+          "original_group": "Strong Possibilities",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
         }
       },
       {
@@ -1749,6 +1877,13 @@
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
+        },
+        "provenance": {
+          "source": "Former Main Watchlist",
+          "original_position": 18,
+          "original_group": "Strong Possibilities",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
         }
       },
       {
@@ -1849,6 +1984,13 @@
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
+        },
+        "provenance": {
+          "source": "Former Main Watchlist",
+          "original_position": 19,
+          "original_group": "Strong Possibilities",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
         }
       },
       {
@@ -1958,6 +2100,13 @@
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
+        },
+        "provenance": {
+          "source": "Former Main Watchlist",
+          "original_position": 20,
+          "original_group": "Strong Possibilities",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
         }
       },
       {
@@ -2036,6 +2185,13 @@
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
+        },
+        "provenance": {
+          "source": "Former Main Watchlist",
+          "original_position": 21,
+          "original_group": "More Experimental or Uncertain",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
         }
       },
       {
@@ -2113,6 +2269,13 @@
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
+        },
+        "provenance": {
+          "source": "Former Main Watchlist",
+          "original_position": 22,
+          "original_group": "More Experimental or Uncertain",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
         }
       },
       {
@@ -2218,7 +2381,14 @@
         ],
         "runtime_minutes": 108,
         "tmdb_rating": 6.1,
-        "imdb_id": "tt1441395"
+        "imdb_id": "tt1441395",
+        "provenance": {
+          "source": "Former Main Watchlist",
+          "original_position": 23,
+          "original_group": "More Experimental or Uncertain",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
+        }
       },
       {
         "title": "High Life",
@@ -2323,6 +2493,13 @@
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
+        },
+        "provenance": {
+          "source": "Former Main Watchlist",
+          "original_position": 24,
+          "original_group": "More Experimental or Uncertain",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
         }
       },
       {
@@ -2390,6 +2567,13 @@
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
+        },
+        "provenance": {
+          "source": "Former Main Watchlist",
+          "original_position": 25,
+          "original_group": "More Experimental or Uncertain",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
         }
       },
       {
@@ -2489,6 +2673,13 @@
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
+        },
+        "provenance": {
+          "source": "Former Main Watchlist",
+          "original_position": 26,
+          "original_group": "More Experimental or Uncertain",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
         }
       },
       {
@@ -2619,6 +2810,13 @@
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
+        },
+        "provenance": {
+          "source": "Former Main Watchlist",
+          "original_position": 27,
+          "original_group": "More Experimental or Uncertain",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
         }
       },
       {
@@ -2676,6 +2874,13 @@
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
+        },
+        "provenance": {
+          "source": "Former Main Watchlist",
+          "original_position": 28,
+          "original_group": "More Experimental or Uncertain",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
         }
       },
       {
@@ -2722,6 +2927,13 @@
           "buy_logos": [],
           "source": "TMDb",
           "checked": "2026-10-26"
+        },
+        "provenance": {
+          "source": "Former Main Watchlist",
+          "original_position": 29,
+          "original_group": "More Experimental or Uncertain",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
         }
       },
       {
@@ -2822,15 +3034,20 @@
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
+        },
+        "provenance": {
+          "source": "Former Main Watchlist",
+          "original_position": 30,
+          "original_group": "More Experimental or Uncertain",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
         }
-      }
-    ],
-    "candidates": [
+      },
       {
         "title": "What Happened to Monday",
         "year": 2017,
         "type": "Movie",
-        "group": "Science Fiction & Dystopian Movies",
+        "group": "Additional Sci-Fi Candidates",
         "poster": "https://image.tmdb.org/t/p/w500/atOgZMJpMrTdpqvPiHVPfBhR61l.jpg",
         "tmdb_id": 406990,
         "synopsis": "In a world where families are limited to one child due to overpopulation, a set of identical septuplets must avoid being put to a long sleep by the government and dangerous infighting while investigating the disappearance of one of their own.",
@@ -2870,13 +3087,20 @@
           "buy_logos": [],
           "source": "TMDb",
           "checked": "2026-10-26"
+        },
+        "provenance": {
+          "source": "Former Candidate Watchlist",
+          "original_position": 1,
+          "original_group": "Science Fiction & Dystopian Movies",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
         }
       },
       {
         "title": "Captive State",
         "year": 2019,
         "type": "Movie",
-        "group": "Science Fiction & Dystopian Movies",
+        "group": "Additional Sci-Fi Candidates",
         "poster": "https://image.tmdb.org/t/p/w500/u2ccL7X3osXwn3txIuXENRHmYQ5.jpg",
         "tmdb_id": 429471,
         "synopsis": "Nearly a decade after occupation by an extraterrestrial force, the lives of a Chicago neighborhood on both sides of the conflict are explored. In a working-class Chicago neighborhood occupied by an alien force for nine years, increased surveillance and the restriction of civil rights have given rise to an authoritarian system -- and dissent among the populace.",
@@ -2958,13 +3182,20 @@
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
+        },
+        "provenance": {
+          "source": "Former Candidate Watchlist",
+          "original_position": 2,
+          "original_group": "Science Fiction & Dystopian Movies",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
         }
       },
       {
         "title": "Mars Express",
         "year": 2023,
         "type": "Movie",
-        "group": "Science Fiction & Dystopian Movies",
+        "group": "Additional Sci-Fi Candidates",
         "poster": "https://image.tmdb.org/t/p/w500/g8rUn0khoYB3G4gPPGTF1Xv9Olu.jpg",
         "tmdb_id": 586810,
         "synopsis": "In 2200, private detective Aline Ruby and her android partner Carlos Rivera are hired by a wealthy businessman to track down a notorious hacker. On Mars, they descend deep into the underbelly of the planet's capital city where they uncover a darker story of brain farms, political corruption, and a missing girl who holds a secret about the robots that threatens to change the face of the universe.",
@@ -3051,13 +3282,20 @@
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
+        },
+        "provenance": {
+          "source": "Former Candidate Watchlist",
+          "original_position": 3,
+          "original_group": "Science Fiction & Dystopian Movies",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
         }
       },
       {
         "title": "The Girl with All the Gifts",
         "year": 2016,
         "type": "Movie",
-        "group": "Science Fiction & Dystopian Movies",
+        "group": "Additional Sci-Fi Candidates",
         "poster": "https://image.tmdb.org/t/p/w500/vdCD8z55a4RNmHQDPIpuMFqoY2B.jpg",
         "tmdb_id": 375366,
         "synopsis": "In the future, a strange fungus has changed nearly everyone into thoughtless, flesh-eating monsters. When a scientist and a teacher find a girl who seems to be immune to the fungus, they all begin a journey to save humanity.",
@@ -3156,13 +3394,20 @@
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
+        },
+        "provenance": {
+          "source": "Former Candidate Watchlist",
+          "original_position": 4,
+          "original_group": "Science Fiction & Dystopian Movies",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
         }
       },
       {
         "title": "Automata",
         "year": 2014,
         "type": "Movie",
-        "group": "Science Fiction & Dystopian Movies",
+        "group": "Additional Sci-Fi Candidates",
         "poster": "https://image.tmdb.org/t/p/w500/h7SEtIWOfLsuCWhQgflev7ppRPq.jpg",
         "tmdb_id": 262543,
         "synopsis": "Jacq Vaucan, an insurance agent of ROC robotics corporation, routinely investigates the case of manipulating a robot. What he discovers will have profound consequences for the future of humanity.",
@@ -3265,13 +3510,20 @@
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
+        },
+        "provenance": {
+          "source": "Former Candidate Watchlist",
+          "original_position": 5,
+          "original_group": "Science Fiction & Dystopian Movies",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
         }
       },
       {
         "title": "The Machine",
         "year": 2013,
         "type": "Movie",
-        "group": "Science Fiction & Dystopian Movies",
+        "group": "Additional Sci-Fi Candidates",
         "poster": "https://image.tmdb.org/t/p/w500/nNHAZaTrFVOjwLhkMYm4syUjNw8.jpg",
         "tmdb_id": 174675,
         "synopsis": "Already deep into a second Cold War, Britain’s Ministry of Defense seeks a game-changing weapon. Programmer Vincent McCarthy unwittingly provides an answer in The Machine, a super-strong human cyborg. When a programming bug causes the prototype to decimate his lab, McCarthy takes his obsessive efforts underground, far away from inquisitive eyes.",
@@ -3359,13 +3611,20 @@
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
+        },
+        "provenance": {
+          "source": "Former Candidate Watchlist",
+          "original_position": 6,
+          "original_group": "Science Fiction & Dystopian Movies",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
         }
       },
       {
         "title": "Freaks",
         "year": 2018,
         "type": "Movie",
-        "group": "Science Fiction & Dystopian Movies",
+        "group": "Additional Sci-Fi Candidates",
         "poster": "https://image.tmdb.org/t/p/w500/kc2cvuqESIiRX5QoZOoMTBq18kQ.jpg",
         "tmdb_id": 539892,
         "synopsis": "Kept locked inside the house by her father, 7-year-old Chloe lives in fear and fascination of the outside world, where Abnormals create a constant threat—or so she believes. When a mysterious stranger offers her a glimpse of what's really happening outside, Chloe soon finds that while the truth isn't so simple, the danger is very real.",
@@ -3478,13 +3737,20 @@
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
+        },
+        "provenance": {
+          "source": "Former Candidate Watchlist",
+          "original_position": 7,
+          "original_group": "Science Fiction & Dystopian Movies",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
         }
       },
       {
         "title": "The Wandering Earth",
         "year": 2019,
         "type": "Movie",
-        "group": "Science Fiction & Dystopian Movies",
+        "group": "Additional Sci-Fi Candidates",
         "poster": "https://image.tmdb.org/t/p/w500/z3MXFdFjrYmoxOEFgE1wuphwo2a.jpg",
         "tmdb_id": 535167,
         "synopsis": "When the Sun begins to expand in such a way that it will inevitably engulf and destroy the Earth in a hundred years, united mankind finds a way to avoid extinction by propelling the planet out of the Solar System using gigantic engines, moving it to a new home located four light years away, an epic journey that will last thousands of years.",
@@ -3512,13 +3778,20 @@
           "buy_logos": [],
           "source": "TMDb",
           "checked": "2026-10-26"
+        },
+        "provenance": {
+          "source": "Former Candidate Watchlist",
+          "original_position": 8,
+          "original_group": "Science Fiction & Dystopian Movies",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
         }
       },
       {
         "title": "The Congress",
         "year": 2013,
         "type": "Movie",
-        "group": "Science Fiction & Dystopian Movies",
+        "group": "Additional Sci-Fi Candidates",
         "poster": "https://image.tmdb.org/t/p/w500/oeT9rwfCBayxgVoUn1yZGmkZlUq.jpg",
         "tmdb_id": 152795,
         "synopsis": "An aging, out-of-work actress accepts one last job, though the consequences of her decision affect her in ways she didn't consider.",
@@ -3607,8 +3880,512 @@
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
+        },
+        "provenance": {
+          "source": "Former Candidate Watchlist",
+          "original_position": 9,
+          "original_group": "Science Fiction & Dystopian Movies",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
         }
       },
+      {
+        "title": "12 Monkeys",
+        "year": 1995,
+        "type": "Movie",
+        "group": "Additional Sci-Fi Candidates",
+        "poster": null,
+        "short_summary": "A prisoner travels into the past to investigate the origins of a devastating plague.",
+        "cast": [
+          "Bruce Willis",
+          "Madeleine Stowe",
+          "Brad Pitt"
+        ],
+        "imdb_id": "tt0114746",
+        "runtime_minutes": 129,
+        "runtime_source": "https://www.imdb.com/title/tt0114746/technical/",
+        "provenance": {
+          "source": "Former Candidate Watchlist",
+          "original_position": 13,
+          "original_group": "Other Movie Candidates",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
+        }
+      },
+      {
+        "title": "Strange Days",
+        "year": 1995,
+        "type": "Movie",
+        "group": "Additional Sci-Fi Candidates",
+        "poster": "https://image.tmdb.org/t/p/w500/rY5BrDRcYAKE0BYmmT66YG6Uy5Q.jpg",
+        "tmdb_id": 281,
+        "synopsis": "In the last days of 1999, ex-cop turned street hustler Lenny Nero receives a disc which contains the memories of the murder of a prostitute. With the help of bodyguard Mace, he starts to investigate and is pulled deeper and deeper in a whirl of murder, blackmail and intrigue.",
+        "genres": [
+          "Science Fiction",
+          "Thriller"
+        ],
+        "runtime_minutes": 145,
+        "tmdb_rating": 7,
+        "imdb_id": "tt0114558",
+        "short_summary": "A former cop uncovers a deadly conspiracy involving recorded human memories.",
+        "cast": [
+          "Ralph Fiennes",
+          "Angela Bassett",
+          "Juliette Lewis",
+          "Tom Sizemore"
+        ],
+        "watch_us": {
+          "stream": [
+            "Amazon Prime Video",
+            "Disney Plus",
+            "Hulu",
+            "Amazon Prime Video with Ads"
+          ],
+          "rent": [],
+          "buy": [],
+          "stream_logos": [
+            {
+              "name": "Amazon Prime Video",
+              "logo": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Disney Plus",
+              "logo": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png"
+            },
+            {
+              "name": "Hulu",
+              "logo": "https://image.tmdb.org/t/p/w92/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
+            },
+            {
+              "name": "Amazon Prime Video with Ads",
+              "logo": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+            }
+          ],
+          "rent_logos": [],
+          "buy_logos": [],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        },
+        "provenance": {
+          "source": "Former Candidate Watchlist",
+          "original_position": 14,
+          "original_group": "Other Movie Candidates",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
+        }
+      },
+      {
+        "title": "Counterpart",
+        "year": 2017,
+        "type": "TV",
+        "group": "Additional Sci-Fi Candidates",
+        "poster": "https://image.tmdb.org/t/p/w500/fVTpkoTkl7LJSoVCnuoHRPJvS4o.jpg",
+        "tmdb_id": 63646,
+        "synopsis": "Howard Silk is a lowly cog in a bureaucratic UN agency who is turning the last corner of a life filled with regret when he discovers the agency he works for is guarding a secret: a crossing to a parallel dimension.",
+        "genres": [
+          "Sci-Fi & Fantasy",
+          "Drama"
+        ],
+        "runtime_minutes": 56,
+        "tmdb_rating": 7.5,
+        "imdb_id": null,
+        "short_summary": "A bureaucrat discovers that his agency conceals a passage to a parallel world.",
+        "cast": [
+          "J.K. Simmons",
+          "Nazanin Boniadi",
+          "Harry Lloyd",
+          "Olivia Williams"
+        ],
+        "watch_us": {
+          "stream": [],
+          "rent": [],
+          "buy": [
+            "Google Play Movies"
+          ],
+          "stream_logos": [],
+          "rent_logos": [],
+          "buy_logos": [
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            }
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        },
+        "provenance": {
+          "source": "Former Candidate Watchlist",
+          "original_position": 16,
+          "original_group": "Television Series",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
+        }
+      },
+      {
+        "title": "Pantheon",
+        "year": 2022,
+        "type": "TV",
+        "group": "Additional Sci-Fi Candidates",
+        "poster": "https://image.tmdb.org/t/p/w500/28xQt18ryWRcx9tBkK0MBsNNRw5.jpg",
+        "tmdb_id": 195339,
+        "synopsis": "A bullied teen receives mysterious help from someone online: a stranger soon revealed to be her recently deceased father, David, whose consciousness has been uploaded to the Cloud following an experimental destructive brain scan. David is the first of a new kind of being – an “Uploaded Intelligence” or “UI” – but he will not be the last, as a global conspiracy unfolds that threatens to trigger a new kind of world war.",
+        "genres": [
+          "Animation",
+          "Sci-Fi & Fantasy"
+        ],
+        "runtime_minutes": 41,
+        "tmdb_rating": 8.2,
+        "imdb_id": null,
+        "short_summary": "A teenager learns that her dead father's consciousness may have survived online.",
+        "cast": [
+          "Katie Chang",
+          "Paul Dano",
+          "Aaron Eckhart",
+          "Rosemarie DeWitt"
+        ],
+        "watch_us": {
+          "stream": [
+            "Netflix",
+            "Netflix Standard with Ads"
+          ],
+          "rent": [],
+          "buy": [],
+          "stream_logos": [
+            {
+              "name": "Netflix",
+              "logo": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Netflix Standard with Ads",
+              "logo": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+            }
+          ],
+          "rent_logos": [],
+          "buy_logos": [],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        },
+        "runtime_source": "https://thetvdb.com/index.php/series/pantheon/seasons/official/1",
+        "provenance": {
+          "source": "Former Candidate Watchlist",
+          "original_position": 17,
+          "original_group": "Television Series",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
+        }
+      },
+      {
+        "title": "Severance",
+        "year": 2022,
+        "type": "TV",
+        "group": "Additional Sci-Fi Candidates",
+        "poster": "https://image.tmdb.org/t/p/w500/pPHpeI2X1qEd1CS1SeyrdhZ4qnT.jpg",
+        "tmdb_id": 95396,
+        "synopsis": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Sci-Fi & Fantasy"
+        ],
+        "runtime_minutes": 49,
+        "tmdb_rating": 8.4,
+        "imdb_id": null,
+        "short_summary": "Employees whose work and personal memories are separated begin questioning their employer.",
+        "cast": [
+          "Adam Scott",
+          "Britt Lower",
+          "Tramell Tillman",
+          "Zach Cherry"
+        ],
+        "watch_us": {
+          "stream": [
+            "Apple TV",
+            "Apple TV Amazon Channel"
+          ],
+          "rent": [],
+          "buy": [],
+          "stream_logos": [
+            {
+              "name": "Apple TV",
+              "logo": "https://image.tmdb.org/t/p/w92/9icYBfYFcwgCbky5VdGUIKJ4C5i.png"
+            },
+            {
+              "name": "Apple TV Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/rerVCu9auZrgxTTiZu1criqrQzg.png"
+            }
+          ],
+          "rent_logos": [],
+          "buy_logos": [],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        },
+        "runtime_source": "https://www.tvmaze.com/shows/44933/severance",
+        "provenance": {
+          "source": "Former Candidate Watchlist",
+          "original_position": 18,
+          "original_group": "Television Series",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
+        }
+      },
+      {
+        "title": "Years and Years",
+        "year": 2019,
+        "type": "TV",
+        "group": "Additional Sci-Fi Candidates",
+        "poster": "https://image.tmdb.org/t/p/w500/u1FBsyMH9Tx7K5yzMnJsYRvNEKQ.jpg",
+        "tmdb_id": 87104,
+        "synopsis": "As Britain is rocked by unstable political, economic and technological advances, members of the Lyons family converge on one crucial night in 2019. Over the next 15 years, the twists and turns of their everyday lives are explored as we find out if this ordinary family could change the world.",
+        "genres": [
+          "Drama",
+          "War & Politics",
+          "Sci-Fi & Fantasy"
+        ],
+        "runtime_minutes": 60,
+        "tmdb_rating": 7.5,
+        "imdb_id": null,
+        "short_summary": "One British family's lives unfold amid years of political and technological upheaval.",
+        "cast": [
+          "Emma Thompson",
+          "Anne Reid",
+          "Rory Kinnear",
+          "Jessica Hynes"
+        ],
+        "watch_us": {
+          "stream": [
+            "HBO Max Amazon Channel",
+            "HBO Max"
+          ],
+          "rent": [],
+          "buy": [
+            "Amazon Video",
+            "Google Play Movies"
+          ],
+          "stream_logos": [
+            {
+              "name": "HBO Max Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/64fLWeSyZ1KQZhIdvTdy4QHeWty.png"
+            },
+            {
+              "name": "HBO Max",
+              "logo": "https://image.tmdb.org/t/p/w92/skypuy7SXuugIQeYg0IglmzoKaS.png"
+            }
+          ],
+          "rent_logos": [],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            }
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        },
+        "provenance": {
+          "source": "Former Candidate Watchlist",
+          "original_position": 19,
+          "original_group": "Television Series",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
+        }
+      },
+      {
+        "title": "Devs",
+        "year": 2020,
+        "type": "TV",
+        "group": "Additional Sci-Fi Candidates",
+        "poster": "https://image.tmdb.org/t/p/w500/uv63iNWOh69bSJYJQZjiX6n8B3m.jpg",
+        "tmdb_id": 81349,
+        "synopsis": "Young computer engineer Lily Chan investigates the secretive development division of her employer, a cutting-edge tech company based in San Francisco, which she believes is behind the murder of her boyfriend.",
+        "genres": [
+          "Sci-Fi & Fantasy",
+          "Drama",
+          "Mystery"
+        ],
+        "runtime_minutes": 52,
+        "tmdb_rating": 7.3,
+        "imdb_id": null,
+        "short_summary": "A software engineer investigates a secretive tech division after her boyfriend disappears.",
+        "cast": [
+          "Sonoya Mizuno",
+          "Nick Offerman",
+          "Jin Ha",
+          "Cailee Spaeny"
+        ],
+        "watch_us": {
+          "stream": [
+            "Hulu"
+          ],
+          "rent": [],
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "Fandango At Home"
+          ],
+          "stream_logos": [
+            {
+              "name": "Hulu",
+              "logo": "https://image.tmdb.org/t/p/w92/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
+            }
+          ],
+          "rent_logos": [],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        },
+        "provenance": {
+          "source": "Former Candidate Watchlist",
+          "original_position": 20,
+          "original_group": "Television Series",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
+        }
+      },
+      {
+        "title": "Dark",
+        "year": 2017,
+        "type": "TV",
+        "group": "Additional Sci-Fi Candidates",
+        "poster": "https://image.tmdb.org/t/p/w500/wiiyc3m6HKaQhFBYeuM7ySCNQsG.jpg",
+        "tmdb_id": 70523,
+        "synopsis": "A missing child sets four families on a frantic hunt for answers as they unearth a mind-bending mystery that spans three generations.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Sci-Fi & Fantasy"
+        ],
+        "runtime_minutes": 56,
+        "tmdb_rating": 8.4,
+        "imdb_id": null,
+        "short_summary": "A missing child draws four families into a mystery spanning generations.",
+        "cast": [
+          "Louis Hofmann"
+        ],
+        "watch_us": {
+          "stream": [
+            "Netflix",
+            "Netflix Standard with Ads"
+          ],
+          "rent": [],
+          "buy": [],
+          "stream_logos": [
+            {
+              "name": "Netflix",
+              "logo": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Netflix Standard with Ads",
+              "logo": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+            }
+          ],
+          "rent_logos": [],
+          "buy_logos": [],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        },
+        "runtime_source": "https://www.tvmaze.com/shows/17861/dark",
+        "provenance": {
+          "source": "Former Candidate Watchlist",
+          "original_position": 21,
+          "original_group": "Television Series",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
+        }
+      },
+      {
+        "title": "Humans",
+        "year": 2015,
+        "type": "TV",
+        "group": "Additional Sci-Fi Candidates",
+        "poster": "https://image.tmdb.org/t/p/w500/iBjjSGgnjAQBSQGO9pYIh7Gp2PO.jpg",
+        "tmdb_id": 62822,
+        "synopsis": "In a parallel present where the latest must-have gadget for any busy family is a 'Synth' - a highly-developed robotic servant that's so similar to a real human it's transforming the way we live.",
+        "genres": [
+          "Sci-Fi & Fantasy",
+          "Drama",
+          "Mystery"
+        ],
+        "runtime_minutes": 46,
+        "tmdb_rating": 7.5,
+        "imdb_id": null,
+        "short_summary": "Humanlike robotic servants transform everyday life in a near-future society.",
+        "cast": [
+          "Katherine Parkinson",
+          "Gemma Chan",
+          "Colin Morgan",
+          "Tom Goodman-Hill"
+        ],
+        "watch_us": {
+          "stream": [
+            "Amazon Prime Video",
+            "Peacock Premium",
+            "Amazon Prime Video with Ads"
+          ],
+          "rent": [],
+          "buy": [
+            "Amazon Video",
+            "Google Play Movies"
+          ],
+          "stream_logos": [
+            {
+              "name": "Amazon Prime Video",
+              "logo": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Peacock Premium",
+              "logo": "https://image.tmdb.org/t/p/w92/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png"
+            },
+            {
+              "name": "Amazon Prime Video with Ads",
+              "logo": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+            }
+          ],
+          "rent_logos": [],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            }
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-26"
+        },
+        "provenance": {
+          "source": "Former Candidate Watchlist",
+          "original_position": 22,
+          "original_group": "Television Series",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
+        }
+      }
+    ],
+    "other": [
       {
         "title": "The Town",
         "year": 2010,
@@ -3722,6 +4499,13 @@
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
+        },
+        "provenance": {
+          "source": "Former Candidate Watchlist",
+          "original_position": 10,
+          "original_group": "Character-Driven Thrillers",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
         }
       },
       {
@@ -3822,6 +4606,13 @@
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
+        },
+        "provenance": {
+          "source": "Former Candidate Watchlist",
+          "original_position": 11,
+          "original_group": "Character-Driven Thrillers",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
         }
       },
       {
@@ -3902,84 +4693,20 @@
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
-        }
-      },
-      {
-        "title": "12 Monkeys",
-        "year": 1995,
-        "type": "Movie",
-        "group": "Other Movie Candidates",
-        "poster": null,
-        "short_summary": "A prisoner travels into the past to investigate the origins of a devastating plague.",
-        "cast": [
-          "Bruce Willis",
-          "Madeleine Stowe",
-          "Brad Pitt"
-        ],
-        "imdb_id": "tt0114746",
-        "runtime_minutes": 129,
-        "runtime_source": "https://www.imdb.com/title/tt0114746/technical/"
-      },
-      {
-        "title": "Strange Days",
-        "year": 1995,
-        "type": "Movie",
-        "group": "Other Movie Candidates",
-        "poster": "https://image.tmdb.org/t/p/w500/rY5BrDRcYAKE0BYmmT66YG6Uy5Q.jpg",
-        "tmdb_id": 281,
-        "synopsis": "In the last days of 1999, ex-cop turned street hustler Lenny Nero receives a disc which contains the memories of the murder of a prostitute. With the help of bodyguard Mace, he starts to investigate and is pulled deeper and deeper in a whirl of murder, blackmail and intrigue.",
-        "genres": [
-          "Science Fiction",
-          "Thriller"
-        ],
-        "runtime_minutes": 145,
-        "tmdb_rating": 7,
-        "imdb_id": "tt0114558",
-        "short_summary": "A former cop uncovers a deadly conspiracy involving recorded human memories.",
-        "cast": [
-          "Ralph Fiennes",
-          "Angela Bassett",
-          "Juliette Lewis",
-          "Tom Sizemore"
-        ],
-        "watch_us": {
-          "stream": [
-            "Amazon Prime Video",
-            "Disney Plus",
-            "Hulu",
-            "Amazon Prime Video with Ads"
-          ],
-          "rent": [],
-          "buy": [],
-          "stream_logos": [
-            {
-              "name": "Amazon Prime Video",
-              "logo": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
-            },
-            {
-              "name": "Disney Plus",
-              "logo": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png"
-            },
-            {
-              "name": "Hulu",
-              "logo": "https://image.tmdb.org/t/p/w92/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
-            },
-            {
-              "name": "Amazon Prime Video with Ads",
-              "logo": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
-            }
-          ],
-          "rent_logos": [],
-          "buy_logos": [],
-          "source": "TMDb",
-          "checked": "2026-10-26"
+        },
+        "provenance": {
+          "source": "Former Candidate Watchlist",
+          "original_position": 12,
+          "original_group": "Character-Driven Thrillers",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
         }
       },
       {
         "title": "The Lives of Others",
         "year": 2006,
         "type": "Movie",
-        "group": "Other Movie Candidates",
+        "group": "Political & Historical Drama",
         "poster": "https://image.tmdb.org/t/p/w500/cVUDMnskSc01rdbyH0tLATTJUdP.jpg",
         "tmdb_id": 582,
         "synopsis": "In 1984 East Berlin, dedicated Stasi officer Gerd Wiesler begins spying on a famous playwright and his actress-lover Christa-Maria. Wiesler becomes unexpectedly sympathetic to the couple, and faces conflicting loyalties when his superior takes a liking to Christa-Maria.",
@@ -4065,367 +4792,493 @@
           ],
           "source": "TMDb",
           "checked": "2026-10-26"
+        },
+        "provenance": {
+          "source": "Former Candidate Watchlist",
+          "original_position": 15,
+          "original_group": "Other Movie Candidates",
+          "integrated_on": "2026-10-29",
+          "user_approval": "Prior catalog entry; this update only changes placement."
         }
-      },
+      }
+    ],
+    "animation": [
       {
-        "title": "Counterpart",
-        "year": 2017,
+        "title": "Strip Law",
+        "year": 2026,
         "type": "TV",
-        "group": "Television Series",
-        "poster": "https://image.tmdb.org/t/p/w500/fVTpkoTkl7LJSoVCnuoHRPJvS4o.jpg",
-        "tmdb_id": 63646,
-        "synopsis": "Howard Silk is a lowly cog in a bureaucratic UN agency who is turning the last corner of a life filled with regret when he discovers the agency he works for is guarding a secret: a crossing to a parallel dimension.",
-        "genres": [
-          "Sci-Fi & Fantasy",
-          "Drama"
-        ],
-        "runtime_minutes": 56,
-        "tmdb_rating": 7.5,
-        "imdb_id": null,
-        "short_summary": "A bureaucrat discovers that his agency conceals a passage to a parallel world.",
-        "cast": [
-          "J.K. Simmons",
-          "Nazanin Boniadi",
-          "Harry Lloyd",
-          "Olivia Williams"
-        ],
-        "watch_us": {
-          "stream": [],
-          "rent": [],
-          "buy": [
-            "Google Play Movies"
-          ],
-          "stream_logos": [],
-          "rent_logos": [],
-          "buy_logos": [
-            {
-              "name": "Google Play Movies",
-              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
-            }
-          ],
-          "source": "TMDb",
-          "checked": "2026-10-26"
-        }
-      },
-      {
-        "title": "Pantheon",
-        "year": 2022,
-        "type": "TV",
-        "group": "Television Series",
-        "poster": "https://image.tmdb.org/t/p/w500/28xQt18ryWRcx9tBkK0MBsNNRw5.jpg",
-        "tmdb_id": 195339,
-        "synopsis": "A bullied teen receives mysterious help from someone online: a stranger soon revealed to be her recently deceased father, David, whose consciousness has been uploaded to the Cloud following an experimental destructive brain scan. David is the first of a new kind of being – an “Uploaded Intelligence” or “UI” – but he will not be the last, as a global conspiracy unfolds that threatens to trigger a new kind of world war.",
+        "group": "Next to Try",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDIyMDBkMGUtZDZiOC00NDU1LThjNDQtMzRkYzVlZTE0NGM5XkEyXkFqcGc%40._V1_.jpg",
+        "short_summary": "An uptight Vegas attorney partners with an outrageous magician to tackle absurd legal cases.",
         "genres": [
           "Animation",
-          "Sci-Fi & Fantasy"
+          "Comedy"
         ],
-        "runtime_minutes": 41,
-        "tmdb_rating": 8.2,
-        "imdb_id": null,
-        "short_summary": "A teenager learns that her dead father's consciousness may have survived online.",
-        "cast": [
-          "Katie Chang",
-          "Paul Dano",
-          "Aaron Eckhart",
-          "Rosemarie DeWitt"
-        ],
-        "watch_us": {
-          "stream": [
-            "Netflix",
-            "Netflix Standard with Ads"
-          ],
-          "rent": [],
-          "buy": [],
-          "stream_logos": [
-            {
-              "name": "Netflix",
-              "logo": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-            },
-            {
-              "name": "Netflix Standard with Ads",
-              "logo": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-            }
-          ],
-          "rent_logos": [],
-          "buy_logos": [],
-          "source": "TMDb",
-          "checked": "2026-10-26"
-        },
-        "runtime_source": "https://thetvdb.com/index.php/series/pantheon/seasons/official/1"
-      },
-      {
-        "title": "Severance",
-        "year": 2022,
-        "type": "TV",
-        "group": "Television Series",
-        "poster": "https://image.tmdb.org/t/p/w500/pPHpeI2X1qEd1CS1SeyrdhZ4qnT.jpg",
-        "tmdb_id": 95396,
-        "synopsis": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.",
-        "genres": [
-          "Drama",
-          "Mystery",
-          "Sci-Fi & Fantasy"
-        ],
-        "runtime_minutes": 49,
-        "tmdb_rating": 8.4,
-        "imdb_id": null,
-        "short_summary": "Employees whose work and personal memories are separated begin questioning their employer.",
+        "runtime_minutes": 26,
         "cast": [
           "Adam Scott",
-          "Britt Lower",
-          "Tramell Tillman",
-          "Zach Cherry"
+          "Janelle James",
+          "Stephen Root"
         ],
+        "imdb_id": "tt37937030",
         "watch_us": {
           "stream": [
-            "Apple TV",
-            "Apple TV Amazon Channel"
+            "Netflix"
           ],
           "rent": [],
-          "buy": [],
-          "stream_logos": [
-            {
-              "name": "Apple TV",
-              "logo": "https://image.tmdb.org/t/p/w92/9icYBfYFcwgCbky5VdGUIKJ4C5i.png"
-            },
-            {
-              "name": "Apple TV Amazon Channel",
-              "logo": "https://image.tmdb.org/t/p/w92/rerVCu9auZrgxTTiZu1criqrQzg.png"
-            }
-          ],
-          "rent_logos": [],
-          "buy_logos": [],
-          "source": "TMDb",
-          "checked": "2026-10-26"
+          "buy": []
         },
-        "runtime_source": "https://www.tvmaze.com/shows/44933/severance"
-      },
-      {
-        "title": "Years and Years",
-        "year": 2019,
-        "type": "TV",
-        "group": "Television Series",
-        "poster": "https://image.tmdb.org/t/p/w500/u1FBsyMH9Tx7K5yzMnJsYRvNEKQ.jpg",
-        "tmdb_id": 87104,
-        "synopsis": "As Britain is rocked by unstable political, economic and technological advances, members of the Lyons family converge on one crucial night in 2019. Over the next 15 years, the twists and turns of their everyday lives are explored as we find out if this ordinary family could change the world.",
-        "genres": [
-          "Drama",
-          "War & Politics",
-          "Sci-Fi & Fantasy"
-        ],
-        "runtime_minutes": 60,
-        "tmdb_rating": 7.5,
-        "imdb_id": null,
-        "short_summary": "One British family's lives unfold amid years of political and technological upheaval.",
-        "cast": [
-          "Emma Thompson",
-          "Anne Reid",
-          "Rory Kinnear",
-          "Jessica Hynes"
-        ],
-        "watch_us": {
-          "stream": [
-            "HBO Max Amazon Channel",
-            "HBO Max"
-          ],
-          "rent": [],
-          "buy": [
-            "Amazon Video",
-            "Google Play Movies"
-          ],
-          "stream_logos": [
-            {
-              "name": "HBO Max Amazon Channel",
-              "logo": "https://image.tmdb.org/t/p/w92/64fLWeSyZ1KQZhIdvTdy4QHeWty.png"
-            },
-            {
-              "name": "HBO Max",
-              "logo": "https://image.tmdb.org/t/p/w92/skypuy7SXuugIQeYg0IglmzoKaS.png"
-            }
-          ],
-          "rent_logos": [],
-          "buy_logos": [
-            {
-              "name": "Amazon Video",
-              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
-            },
-            {
-              "name": "Google Play Movies",
-              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
-            }
-          ],
-          "source": "TMDb",
-          "checked": "2026-10-26"
+        "provenance": {
+          "source": "October 2026 recommendation shortlist",
+          "recommendation_date": "2026-10-28",
+          "user_feedback": "User particularly attracted to the premise and presentation; not yet watched."
         }
       },
       {
-        "title": "Devs",
-        "year": 2020,
+        "title": "Universal Basic Guys",
+        "year": 2024,
         "type": "TV",
-        "group": "Television Series",
-        "poster": "https://image.tmdb.org/t/p/w500/uv63iNWOh69bSJYJQZjiX6n8B3m.jpg",
-        "tmdb_id": 81349,
-        "synopsis": "Young computer engineer Lily Chan investigates the secretive development division of her employer, a cutting-edge tech company based in San Francisco, which she believes is behind the murder of her boyfriend.",
+        "group": "Next to Try",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOWRjMjkxZTItOTZhOC00MTVkLTk4Y2UtYTNiZmFiODkxMjBhXkEyXkFqcGc%40._V1_.jpg",
+        "short_summary": "After losing their factory jobs to automation, two brothers use basic-income checks to finance increasingly ridiculous adventures.",
         "genres": [
-          "Sci-Fi & Fantasy",
-          "Drama",
-          "Mystery"
+          "Animation",
+          "Comedy"
         ],
-        "runtime_minutes": 52,
-        "tmdb_rating": 7.3,
-        "imdb_id": null,
-        "short_summary": "A software engineer investigates a secretive tech division after her boyfriend disappears.",
+        "runtime_minutes": 22,
         "cast": [
-          "Sonoya Mizuno",
-          "Nick Offerman",
-          "Jin Ha",
-          "Cailee Spaeny"
+          "Adam Malamut",
+          "Talia Genevieve",
+          "Fred Armisen"
         ],
+        "imdb_id": "tt23469464",
         "watch_us": {
           "stream": [
             "Hulu"
           ],
           "rent": [],
-          "buy": [
-            "Amazon Video",
-            "Apple TV Store",
-            "Google Play Movies",
-            "Fandango At Home"
-          ],
-          "stream_logos": [
-            {
-              "name": "Hulu",
-              "logo": "https://image.tmdb.org/t/p/w92/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
-            }
-          ],
-          "rent_logos": [],
-          "buy_logos": [
-            {
-              "name": "Amazon Video",
-              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
-            },
-            {
-              "name": "Apple TV Store",
-              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
-            },
-            {
-              "name": "Google Play Movies",
-              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
-            },
-            {
-              "name": "Fandango At Home",
-              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
-            }
-          ],
-          "source": "TMDb",
-          "checked": "2026-10-26"
+          "buy": []
+        },
+        "provenance": {
+          "source": "October 2026 recommendation shortlist",
+          "recommendation_date": "2026-10-28",
+          "user_feedback": "User particularly attracted to the premise and presentation; not yet watched."
         }
       },
       {
-        "title": "Dark",
-        "year": 2017,
+        "title": "Haunted Hotel",
+        "year": 2025,
         "type": "TV",
-        "group": "Television Series",
-        "poster": "https://image.tmdb.org/t/p/w500/wiiyc3m6HKaQhFBYeuM7ySCNQsG.jpg",
-        "tmdb_id": 70523,
-        "synopsis": "A missing child sets four families on a frantic hunt for answers as they unearth a mind-bending mystery that spans three generations.",
+        "group": "More to Explore",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNWZhNzJlZGEtYTY4My00NTgxLWJiNmUtZWI3NWJlNWE0YjMzXkEyXkFqcGc%40._V1_.jpg",
+        "short_summary": "A family attempts to run a hotel occupied by ghosts, monsters, and dysfunction.",
         "genres": [
-          "Crime",
-          "Drama",
-          "Sci-Fi & Fantasy"
+          "Animation",
+          "Comedy"
         ],
-        "runtime_minutes": 56,
-        "tmdb_rating": 8.4,
-        "imdb_id": null,
-        "short_summary": "A missing child draws four families into a mystery spanning generations.",
+        "runtime_minutes": 25,
         "cast": [
-          "Louis Hofmann"
+          "Will Forte",
+          "Eliza Coupe",
+          "Jimmi Simpson"
         ],
+        "imdb_id": "tt32499579",
         "watch_us": {
           "stream": [
-            "Netflix",
-            "Netflix Standard with Ads"
+            "Netflix"
           ],
           "rent": [],
-          "buy": [],
-          "stream_logos": [
-            {
-              "name": "Netflix",
-              "logo": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-            },
-            {
-              "name": "Netflix Standard with Ads",
-              "logo": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-            }
-          ],
-          "rent_logos": [],
-          "buy_logos": [],
-          "source": "TMDb",
-          "checked": "2026-10-26"
+          "buy": []
         },
-        "runtime_source": "https://www.tvmaze.com/shows/17861/dark"
+        "provenance": {
+          "source": "October 2026 recommendation shortlist",
+          "recommendation_date": "2026-10-28",
+          "user_feedback": "Previously ranked first, now below Strip Law and Universal Basic Guys; not yet watched."
+        }
       },
       {
-        "title": "Humans",
-        "year": 2015,
+        "title": "Agent Elvis",
+        "year": 2023,
         "type": "TV",
-        "group": "Television Series",
-        "poster": "https://image.tmdb.org/t/p/w500/iBjjSGgnjAQBSQGO9pYIh7Gp2PO.jpg",
-        "tmdb_id": 62822,
-        "synopsis": "In a parallel present where the latest must-have gadget for any busy family is a 'Synth' - a highly-developed robotic servant that's so similar to a real human it's transforming the way we live.",
+        "group": "More to Explore",
+        "poster": "https://i.iplsc.com/000GQ25LSNT8NL1C-C125-F4.webp",
+        "short_summary": "Elvis becomes a secret agent while his eccentric spy team creates chaos.",
         "genres": [
-          "Sci-Fi & Fantasy",
-          "Drama",
-          "Mystery"
+          "Animation",
+          "Comedy"
         ],
-        "runtime_minutes": 46,
-        "tmdb_rating": 7.5,
-        "imdb_id": null,
-        "short_summary": "Humanlike robotic servants transform everyday life in a near-future society.",
+        "runtime_minutes": 25,
         "cast": [
-          "Katherine Parkinson",
-          "Gemma Chan",
-          "Colin Morgan",
-          "Tom Goodman-Hill"
+          "Matthew McConaughey"
         ],
+        "imdb_id": "",
         "watch_us": {
           "stream": [
-            "Amazon Prime Video",
-            "Peacock Premium",
-            "Amazon Prime Video with Ads"
+            "Netflix"
           ],
           "rent": [],
-          "buy": [
-            "Amazon Video",
-            "Google Play Movies"
+          "buy": []
+        },
+        "provenance": {
+          "source": "October 2026 recommendation shortlist",
+          "recommendation_date": "2026-10-28",
+          "user_feedback": "No viewing feedback recorded"
+        }
+      },
+      {
+        "title": "Digman!",
+        "year": 2023,
+        "type": "TV",
+        "group": "More to Explore",
+        "poster": "https://resizing.flixster.com/qlelH90AzmHKhrxDZYLhJ7s3qas%3D/ems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvNGMyOTg3ZjYtMDg4Zi00ODNjLWJmMmUtMDQzYTBkMWMyNjRiLmpwZw%3D%3D",
+        "short_summary": "A vain celebrity archaeologist and his oddball crew seek treasure and fame.",
+        "genres": [
+          "Animation",
+          "Comedy"
+        ],
+        "runtime_minutes": 22,
+        "cast": [
+          "Andy Samberg"
+        ],
+        "imdb_id": "",
+        "watch_us": {
+          "stream": [],
+          "rent": [],
+          "buy": []
+        },
+        "provenance": {
+          "source": "October 2026 recommendation shortlist",
+          "recommendation_date": "2026-10-28",
+          "user_feedback": "No viewing feedback recorded"
+        }
+      },
+      {
+        "title": "Haha, You Clowns",
+        "year": 2025,
+        "type": "TV",
+        "group": "More to Explore",
+        "poster": "",
+        "short_summary": "A father and his sons approach everyday situations with strikingly sincere and unconventional humor.",
+        "genres": [
+          "Animation",
+          "Comedy"
+        ],
+        "runtime_minutes": 11,
+        "cast": [],
+        "imdb_id": "",
+        "watch_us": {
+          "stream": [],
+          "rent": [],
+          "buy": []
+        },
+        "provenance": {
+          "source": "October 2026 recommendation shortlist",
+          "recommendation_date": "2026-10-28",
+          "user_feedback": "Highly tentative given user's mixed reaction to absurdist Adult Swim comedy."
+        }
+      },
+      {
+        "title": "Fired on Mars",
+        "year": 2023,
+        "type": "TV",
+        "group": "Earlier Recommendations",
+        "poster": "https://resizing.flixster.com/W0hclxXmwP7sYDD-XfZPmAuhAjo%3D/ems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vMDQ3N2Y0NWYtMDhhMS00OTRiLTg3NjEtMWRhN2Y0MmVmOGU0LmpwZw%3D%3D",
+        "short_summary": "A graphic designer is laid off while living in an isolated company colony on Mars.",
+        "genres": [
+          "Animation",
+          "Comedy"
+        ],
+        "runtime_minutes": 25,
+        "cast": [
+          "Luke Wilson"
+        ],
+        "imdb_id": "",
+        "watch_us": {
+          "stream": [],
+          "rent": [],
+          "buy": []
+        },
+        "provenance": {
+          "source": "Previously recommended in Media conversation",
+          "recommendation_date": "2026-10-28",
+          "user_feedback": "No viewing feedback recorded"
+        }
+      },
+      {
+        "title": "Mike Tyson Mysteries",
+        "year": 2014,
+        "type": "TV",
+        "group": "Earlier Recommendations",
+        "poster": "https://artworks.thetvdb.com/banners/v4/series/277954/posters/67381a91bece8.jpg",
+        "short_summary": "Mike Tyson and an improbable team investigate strange mysteries.",
+        "genres": [
+          "Animation",
+          "Comedy"
+        ],
+        "runtime_minutes": 11,
+        "cast": [],
+        "imdb_id": "",
+        "watch_us": {
+          "stream": [],
+          "rent": [],
+          "buy": []
+        },
+        "provenance": {
+          "source": "Previously recommended in Media conversation",
+          "recommendation_date": "2026-10-28",
+          "user_feedback": "Previously recommended first; US streaming availability was a blocker."
+        }
+      },
+      {
+        "title": "Gary and His Demons",
+        "year": 2018,
+        "type": "TV",
+        "group": "Earlier Recommendations",
+        "poster": "",
+        "short_summary": "An exhausted middle-aged demon slayer resents being the world's last line of defense.",
+        "genres": [
+          "Animation",
+          "Comedy"
+        ],
+        "runtime_minutes": 11,
+        "cast": [],
+        "imdb_id": "",
+        "watch_us": {
+          "stream": [],
+          "rent": [],
+          "buy": []
+        },
+        "provenance": {
+          "source": "Previously recommended in Media conversation",
+          "recommendation_date": "2026-10-28",
+          "user_feedback": "No viewing feedback recorded"
+        }
+      },
+      {
+        "title": "Ugly Americans",
+        "year": 2010,
+        "type": "TV",
+        "group": "Earlier Recommendations",
+        "poster": "",
+        "short_summary": "A New York social worker navigates a city inhabited by humans and monsters.",
+        "genres": [
+          "Animation",
+          "Comedy"
+        ],
+        "runtime_minutes": 22,
+        "cast": [],
+        "imdb_id": "",
+        "watch_us": {
+          "stream": [],
+          "rent": [],
+          "buy": []
+        },
+        "provenance": {
+          "source": "Previously recommended in Media conversation",
+          "recommendation_date": "2026-10-28",
+          "user_feedback": "No viewing feedback recorded"
+        }
+      },
+      {
+        "title": "Harvey Birdman, Attorney at Law",
+        "year": 2000,
+        "type": "TV",
+        "group": "Earlier Recommendations",
+        "poster": "",
+        "short_summary": "An ex-superhero litigates surreal cases for classic cartoon characters.",
+        "genres": [
+          "Animation",
+          "Comedy"
+        ],
+        "runtime_minutes": 11,
+        "cast": [],
+        "imdb_id": "",
+        "watch_us": {
+          "stream": [],
+          "rent": [],
+          "buy": []
+        },
+        "provenance": {
+          "source": "Previously recommended in Media conversation",
+          "recommendation_date": "2026-10-28",
+          "user_feedback": "Deprioritized in favor of more contemporary character comedy."
+        }
+      },
+      {
+        "title": "Drawn Together",
+        "year": 2004,
+        "type": "TV",
+        "group": "Earlier Recommendations",
+        "poster": "",
+        "short_summary": "A group of radically different cartoon characters live together in a reality-show house.",
+        "genres": [
+          "Animation",
+          "Comedy"
+        ],
+        "runtime_minutes": 22,
+        "cast": [],
+        "imdb_id": "",
+        "watch_us": {
+          "stream": [],
+          "rent": [],
+          "buy": []
+        },
+        "provenance": {
+          "source": "Previously recommended in Media conversation",
+          "recommendation_date": "2026-10-28",
+          "user_feedback": "Older cult comedy; not currently prioritized."
+        }
+      },
+      {
+        "title": "The Xtacles",
+        "year": 2008,
+        "type": "TV",
+        "group": "Earlier Recommendations",
+        "poster": "",
+        "short_summary": "Inept crime-fighting heroes stumble through missions in a Frisky Dingo spinoff.",
+        "genres": [
+          "Animation",
+          "Comedy"
+        ],
+        "runtime_minutes": 11,
+        "cast": [],
+        "imdb_id": "",
+        "watch_us": {
+          "stream": [],
+          "rent": [],
+          "buy": []
+        },
+        "provenance": {
+          "source": "Previously recommended in Media conversation",
+          "recommendation_date": "2026-10-28",
+          "user_feedback": "Older cult animated comedy; not currently prioritized."
+        }
+      },
+      {
+        "title": "Animals.",
+        "year": 2016,
+        "type": "TV",
+        "group": "Earlier Recommendations",
+        "poster": "",
+        "short_summary": "Animals in New York act out all-too-human workplace and relationship problems.",
+        "genres": [
+          "Animation",
+          "Comedy"
+        ],
+        "runtime_minutes": 22,
+        "cast": [],
+        "imdb_id": "",
+        "watch_us": {
+          "stream": [],
+          "rent": [],
+          "buy": []
+        },
+        "provenance": {
+          "source": "Previously recommended in Media conversation",
+          "recommendation_date": "2026-10-28",
+          "user_feedback": "No viewing feedback recorded"
+        }
+      },
+      {
+        "title": "Rick and Morty",
+        "year": 2013,
+        "type": "TV",
+        "group": "Earlier Recommendations",
+        "poster": "",
+        "short_summary": "A reckless genius and his grandson embark on absurd, often dangerous adventures.",
+        "genres": [
+          "Animation",
+          "Comedy"
+        ],
+        "runtime_minutes": 22,
+        "cast": [],
+        "imdb_id": "",
+        "watch_us": {
+          "stream": [],
+          "rent": [],
+          "buy": []
+        },
+        "provenance": {
+          "source": "Previously recommended in Media conversation",
+          "recommendation_date": "2026-10-28",
+          "user_feedback": "Previously raised as a tentative possibility; user was not initially drawn to it."
+        }
+      },
+      {
+        "title": "Smiling Friends",
+        "year": 2020,
+        "type": "TV",
+        "group": "Tried or On Hold",
+        "poster": "https://fr.web.img4.acsta.net/pictures/22/01/13/15/38/4066426.jpg",
+        "short_summary": "Employees of a business dedicated to spreading happiness encounter bizarre people and situations.",
+        "genres": [
+          "Animation",
+          "Comedy"
+        ],
+        "runtime_minutes": 11,
+        "cast": [],
+        "imdb_id": "",
+        "watch_us": {
+          "stream": [
+            "HBO Max"
           ],
-          "stream_logos": [
-            {
-              "name": "Amazon Prime Video",
-              "logo": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
-            },
-            {
-              "name": "Peacock Premium",
-              "logo": "https://image.tmdb.org/t/p/w92/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png"
-            },
-            {
-              "name": "Amazon Prime Video with Ads",
-              "logo": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
-            }
-          ],
-          "rent_logos": [],
-          "buy_logos": [
-            {
-              "name": "Amazon Video",
-              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
-            },
-            {
-              "name": "Google Play Movies",
-              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
-            }
-          ],
-          "source": "TMDb",
-          "checked": "2026-10-26"
+          "rent": [],
+          "buy": []
+        },
+        "provenance": {
+          "source": "October 2026 recommendation shortlist",
+          "recommendation_date": "2026-10-28",
+          "user_feedback": "User watched and described it as 'kinda meh' on 2026-10-29."
+        }
+      },
+      {
+        "title": "Sealab 2021",
+        "year": 2000,
+        "type": "TV",
+        "group": "Tried or On Hold",
+        "poster": "",
+        "short_summary": "An incompetent crew runs an underwater research station.",
+        "genres": [
+          "Animation",
+          "Comedy"
+        ],
+        "runtime_minutes": 11,
+        "cast": [],
+        "imdb_id": "",
+        "watch_us": {
+          "stream": [],
+          "rent": [],
+          "buy": []
+        },
+        "provenance": {
+          "source": "Previously recommended in Media conversation",
+          "recommendation_date": "2026-10-28",
+          "user_feedback": "User sampled one episode and did not find it funny."
+        }
+      },
+      {
+        "title": "Common Side Effects",
+        "year": 2025,
+        "type": "TV",
+        "group": "Tried or On Hold",
+        "poster": "",
+        "short_summary": "Two former classmates discover an extraordinary biological secret that threatens powerful interests.",
+        "genres": [
+          "Animation",
+          "Comedy"
+        ],
+        "runtime_minutes": 22,
+        "cast": [],
+        "imdb_id": "",
+        "watch_us": {
+          "stream": [],
+          "rent": [],
+          "buy": []
+        },
+        "provenance": {
+          "source": "Previously recommended in Media conversation",
+          "recommendation_date": "2026-10-28",
+          "user_feedback": "User had previously tried it, and it did not stick."
         }
       }
     ]
