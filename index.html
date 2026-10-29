@@ -345,7 +345,117 @@ main{padding-top:19px}
 /* Slightly more air between the Panoply subtitle and browse navigation. */
 header .inner{padding-bottom:40px}
 @media(max-width:550px){header .inner{padding-bottom:31px}.section-jumps{gap:7px;margin-bottom:17px}.section-jumps .jump-link{padding:6px 9px;font-size:10px}}
-</style></head><body><header><div class="inner"><h1 class="media-wordmark" aria-label="The Media Center"><span class="wordmark-the" aria-hidden="true">The</span><span class="wordmark-title" aria-hidden="true"><span>Media</span><span class="wordmark-center">Center</span></span></h1><span class="masthead-rule" aria-hidden="true"></span><small class="panoply-label">Part of The Panoply</small></div><div class="header-controls"><div class="tools"><div class="tabs"><button id="scifi" aria-pressed="true">Sci-Fi</button><button id="other" aria-pressed="false">Beyond Sci-Fi</button><button id="animation" aria-pressed="false">Animation</button></div><div class="search-control" id="search-control"><button type="button" id="search-toggle" class="search-toggle" aria-label="Open title search" aria-controls="search" aria-expanded="false" title="Search titles"><svg class="search-glass" viewBox="0 0 24 24" fill="none" aria-hidden="true" focusable="false" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="10.7" cy="10.7" r="6.5"/><path d="m15.5 15.5 5 5"/></svg><svg class="search-cross" viewBox="0 0 24 24" fill="none" aria-hidden="true" focusable="false" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M5 5l14 14M19 5L5 19"/></svg></button><input id="search" type="search" placeholder="Search titles…" aria-label="Search titles" autocomplete="off" hidden></div><select id="format" aria-label="Filter by format"><option value="All">All formats</option><option value="Movie">Movies</option><option value="TV">Television</option></select></div></div></header><main><nav class="section-jumps" id="section-jumps" aria-label="Jump to section"></nav><section id="results" aria-live="polite"></section></main><footer class="panoply-footer"><div class="panoply-footer-brand"><span>The Panoply</span></div></footer><script>
+
+/* Distinct hierarchy: three button tabs, slim in-page links, unboxed editorial headings. */
+.header-controls{
+  max-width:none;
+  border-top:1px solid #e5e9ed;
+  border-bottom:1px solid #e5e9ed;
+  padding:11px clamp(18px,4vw,54px);
+}
+.header-controls .tools{max-width:1212px;margin:0 auto;display:flex;align-items:center;gap:16px;flex-wrap:nowrap}
+.header-controls .tabs{display:flex;align-items:center;gap:9px;min-width:0}
+.header-controls .tabs button{
+  border:1px solid #d8e0e6;
+  border-radius:7px;
+  background:#fff;
+  color:#4c6172;
+  box-shadow:none;
+  padding:10px 16px;
+  font-size:12px;
+  line-height:1.3;
+  letter-spacing:.01em;
+  font-weight:600;
+  transition:background-color .15s,color .15s,border-color .15s;
+}
+.header-controls .tabs button:hover{background:#f2f5f7;border-color:#b8c8d4}
+.header-controls .tabs button[aria-pressed=true]{
+  background:#243f59;
+  border-color:#243f59;
+  color:#fff;
+  box-shadow:inset 0 -2px 0 #b69a62;
+  font-weight:700;
+}
+.header-controls .search-control{margin-left:auto;flex:0 0 auto}
+.header-controls .search-control.open{flex:0 1 340px}
+.section-jumps{
+  display:flex;
+  align-items:center;
+  flex-wrap:wrap;
+  gap:6px 0;
+  border-bottom:1px solid #edf0f2;
+  padding:0 0 17px;
+  margin:4px 0 36px;
+}
+.section-jumps .jump-caption{
+  font:650 10px/1.4 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+  color:#9aa5af;
+  letter-spacing:.1em;
+  margin-right:15px;
+}
+.section-jumps .jump-link{
+  padding:3px 0;
+  border:0;
+  border-radius:0;
+  background:transparent;
+  color:#637787;
+  text-decoration:none;
+  font:500 12px/1.45 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+  letter-spacing:0;
+  transition:color .15s;
+}
+.section-jumps .jump-link:not(:last-child){margin-right:13px;padding-right:13px;border-right:1px solid #dfe5e8}
+.section-jumps .jump-link:hover{color:#a18148;background:transparent;text-decoration:underline;text-underline-offset:3px}
+.section-jumps .jump-link:focus-visible{outline:2px solid #a18148;outline-offset:3px;border-radius:2px}
+#results .section-heading{
+  border:0;
+  padding:0;
+  margin:36px 0 3px;
+  gap:0;
+  align-items:center;
+  scroll-margin-top:25px;
+}
+#results .section-heading:first-child{margin-top:0}
+#results .section-heading::after{
+  content:"";
+  order:1;
+  height:1px;
+  flex:1 1 auto;
+  background:#e5e9ed;
+  margin-left:16px;
+}
+#results .section-label{
+  border:0;
+  border-radius:0;
+  background:transparent;
+  padding:0;
+  margin:0;
+  color:#687b8a;
+  font:400 17px/1.4 Georgia,"Times New Roman",serif;
+  letter-spacing:0;
+}
+#results .section-count{
+  order:2;
+  margin-left:14px;
+  color:#9ba6af;
+  font-size:10px;
+}
+@media(max-width:550px){
+  .header-controls{padding:10px 17px}
+  .header-controls .tools{gap:8px;flex-wrap:nowrap}
+  .header-controls .tabs{width:auto;flex:1 1 auto;gap:5px}
+  .header-controls .tabs button{flex:1 1 auto;min-width:0;padding:10px 5px;font-size:11px;letter-spacing:0}
+  .header-controls .search-control .search-toggle{height:38px;width:38px;padding:7px}
+  .header-controls .search-control.open{flex:1 1 auto;min-width:0}
+  .section-jumps{margin:3px 0 29px;padding-bottom:15px;row-gap:8px}
+  .section-jumps .jump-caption{font-size:9px;margin-right:11px}
+  .section-jumps .jump-link{font-size:11px}
+  .section-jumps .jump-link:not(:last-child){margin-right:9px;padding-right:9px}
+  #results .section-heading{margin-top:30px}
+  #results .section-label{font-size:15px}
+}
+@media(prefers-reduced-motion:reduce){.header-controls .tabs button,.section-jumps .jump-link{transition:none}}
+</style></head><body><header><div class="inner"><h1 class="media-wordmark" aria-label="The Media Center"><span class="wordmark-the" aria-hidden="true">The</span><span class="wordmark-title" aria-hidden="true"><span>Media</span><span class="wordmark-center">Center</span></span></h1><span class="masthead-rule" aria-hidden="true"></span><small class="panoply-label">Part of The Panoply</small></div><div class="header-controls"><div class="tools"><div class="tabs"><button id="scifi" aria-pressed="true">Sci-Fi</button><button id="other" aria-pressed="false">Beyond Sci-Fi</button><button id="animation" aria-pressed="false">Animation</button></div><div class="search-control" id="search-control"><button type="button" id="search-toggle" class="search-toggle" aria-label="Open title search" aria-controls="search" aria-expanded="false" title="Search titles"><svg class="search-glass" viewBox="0 0 24 24" fill="none" aria-hidden="true" focusable="false" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="10.7" cy="10.7" r="6.5"/><path d="m15.5 15.5 5 5"/></svg><svg class="search-cross" viewBox="0 0 24 24" fill="none" aria-hidden="true" focusable="false" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M5 5l14 14M19 5L5 19"/></svg></button><input id="search" type="search" placeholder="Search titles…" aria-label="Search titles" autocomplete="off" hidden></div></div></div></header><main><nav class="section-jumps" id="section-jumps" aria-label="Jump to section"></nav><section id="results" aria-live="polite"></section></main><footer class="panoply-footer"><div class="panoply-footer-brand"><span>The Panoply</span></div></footer><script>
 let lists={scifi:[],other:[],animation:[]};
 let active='scifi';
 const get=id=>document.getElementById(id);
@@ -468,9 +578,8 @@ function makeCard(item){
 function render(){
   for(const tab of ['scifi','other','animation'])get(tab).setAttribute('aria-pressed',String(active===tab));
   const query=get('search').value.toLowerCase().trim();
-  const format=get('format').value;
   const all=lists[active];
-  const shown=all.filter(x=>x.title.toLowerCase().includes(query)&&(format==='All'||x.type===format));
+  const shown=all.filter(x=>x.title.toLowerCase().includes(query));
   const root=get('results');
   root.replaceChildren();
   // The total is part of the first section heading, and stays accurate
@@ -480,6 +589,7 @@ function render(){
   const jumps=get('section-jumps');
   jumps.replaceChildren();
   if(shown.length){
+    jumps.append(node('span','jump-caption','JUMP TO'));
     groups.forEach((group,index)=>{
       const jump=node('button','jump-link',group);
       jump.type='button';
@@ -522,7 +632,6 @@ async function loadCatalog(){
 function chooseTab(tab){
   active=tab;
   get('search').value='';
-  get('format').value='All';
   render();
   window.scrollTo({top:0,behavior:'instant'});
 }
@@ -547,6 +656,5 @@ searchInput.addEventListener('keydown',event=>{
   if(event.key==='Escape'){event.preventDefault();setSearchOpen(false);}
 });
 searchInput.oninput=render;
-get('format').onchange=render;
 loadCatalog();
 </script></body></html>
