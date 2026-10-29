@@ -15,10 +15,76 @@
       "beyond_scifi_ranked": true,
       "film_credits_or_ratings_not_refreshed": true,
       "watchlist_removed": []
+    },
+    "apple_tv_import": {
+      "date": "2026-10-29",
+      "source": "User-submitted list of 15 selected titles from eight Apple TV Home > Continue Watching screenshots",
+      "selected": 15,
+      "added": 15,
+      "duplicates": 0,
+      "scifi_added": 13,
+      "beyond_scifi_added": 2,
+      "animation_added": 0,
+      "notes": "Apple TV screenshot labels are preserved as seen, not inferred user viewing status. No Apple TV changes were made. Existing list provenance and prior titles retained. New entries have verified source summaries but some public ratings/streaming fields remain unavailable; these are not imputed."
     }
   },
   "lists": {
     "scifi": [
+      {
+        "title": "Battlestar Galactica",
+        "year": 2004,
+        "type": "TV",
+        "group": "Top Picks",
+        "poster": "https://images.justwatch.com/poster/71839228/s718/battlestar-galactica.jpg",
+        "tmdb_id": null,
+        "imdb_id": "tt0407362",
+        "short_summary": "After an attack by humanity's robotic creations, a battered fleet battles for survival while its military and political leaders struggle to hold society together.",
+        "synopsis": "After an attack by humanity's robotic creations, a battered fleet battles for survival while its military and political leaders struggle to hold society together.",
+        "genres": [
+          "Sci-Fi & Fantasy",
+          "Drama",
+          "Action"
+        ],
+        "runtime_minutes": 45,
+        "cast": [
+          "Edward James Olmos",
+          "Mary McDonnell",
+          "Katee Sackhoff",
+          "James Callis"
+        ],
+        "tmdb_rating": null,
+        "imdb_rating": null,
+        "rotten_tomatoes_score": null,
+        "metacritic_score": null,
+        "watch_us": {
+          "stream": [],
+          "rent": [],
+          "buy": [],
+          "source": "Not verified",
+          "checked": null
+        },
+        "provenance": {
+          "source": "User-selected Apple TV screenshots",
+          "origin": "Apple TV Home > Continue Watching screenshot inventory supplied by user on 2026-10-29",
+          "screenshot": "IMG_3302.jpeg",
+          "apple_tv_label": "In Watchlist",
+          "user_explicitly_selected_for_media_center": true,
+          "added_on": "2026-10-29",
+          "original_snapshot": "Media-Apple-TV-Screenshot-Inventory-v1-2026-10-29.md",
+          "viewed_status": "Unconfirmed beyond the Apple TV screenshot label"
+        },
+        "editorial": {
+          "tier": "Top Picks",
+          "ranked_at": "2026-10-29",
+          "basis": "Rare direct match for societal collapse, political power struggles, artificial intelligence, and tense personalities; parallels multiple 9–10 rated favorites.",
+          "reservation": "Lengthy series with shifting tone and mythology.",
+          "source_neutral": true,
+          "rank": 1
+        },
+        "source_evidence": [
+          "https://tv.apple.com/us/boxset/battlestar-galactica-reboot-the-complete-series/umc.cmr.its.se.3sy5s03oldp1la39318pspzzq?showId=umc.cmc.5yjjly03omplqewo2v28t03x"
+        ]
+      },
       {
         "title": "Counterpart",
         "year": 2017,
@@ -66,7 +132,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 1,
+          "rank": 2,
           "tier": "Top Picks",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -127,13 +193,71 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 2,
+          "rank": 3,
           "tier": "Top Picks",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
           "source_neutral": true,
           "original_group": "Science Fiction & Dystopian Movies"
         }
+      },
+      {
+        "title": "Station Eleven",
+        "year": 2021,
+        "type": "TV",
+        "group": "Top Picks",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjBjZjZjNWMtMTJhZi00OTZkLTkyZWQtNGVmOTE5ZmY3ODJhXkEyXkFqcGc%40._V1_.jpg",
+        "tmdb_id": null,
+        "imdb_id": "tt10574236",
+        "short_summary": "Survivors of a devastating pandemic rebuild their lives and culture across intertwined timelines.",
+        "synopsis": "Survivors of a devastating pandemic rebuild their lives and culture across intertwined timelines.",
+        "genres": [
+          "Science Fiction",
+          "Drama",
+          "Post-Apocalyptic"
+        ],
+        "runtime_minutes": 51,
+        "cast": [
+          "Mackenzie Davis",
+          "Himesh Patel",
+          "Matilda Lawler",
+          "David Wilmot"
+        ],
+        "tmdb_rating": null,
+        "imdb_rating": null,
+        "rotten_tomatoes_score": null,
+        "metacritic_score": null,
+        "watch_us": {
+          "stream": [
+            "HBO Max"
+          ],
+          "rent": [],
+          "buy": [],
+          "source": "Confirmed source recorded in evidence field",
+          "checked": "2026-10-29"
+        },
+        "provenance": {
+          "source": "User-selected Apple TV screenshots",
+          "origin": "Apple TV Home > Continue Watching screenshot inventory supplied by user on 2026-10-29",
+          "screenshot": "IMG_3305.jpeg",
+          "apple_tv_label": "In Watchlist",
+          "user_explicitly_selected_for_media_center": true,
+          "added_on": "2026-10-29",
+          "original_snapshot": "Media-Apple-TV-Screenshot-Inventory-v1-2026-10-29.md",
+          "viewed_status": "Unconfirmed beyond the Apple TV screenshot label"
+        },
+        "editorial": {
+          "tier": "Top Picks",
+          "ranked_at": "2026-10-29",
+          "basis": "Social collapse and the people living through it align with Children of Men, Silo, and broader societal-decay interests.",
+          "reservation": "Lyrical, nonlinear, and less action-focused than some favorites.",
+          "source_neutral": true,
+          "rank": 4
+        },
+        "source_evidence": [
+          "https://paramountglobalcontent.com/title/station-eleven",
+          "https://static.rottentomatoes.com/tv/station_eleven"
+        ]
       },
       {
         "title": "Predestination",
@@ -231,7 +355,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 3,
+          "rank": 5,
           "tier": "Top Picks",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -341,7 +465,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 4,
+          "rank": 6,
           "tier": "Top Picks",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -414,7 +538,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 5,
+          "rank": 7,
           "tier": "Top Picks",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -554,13 +678,68 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 6,
+          "rank": 8,
           "tier": "Top Picks",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
           "source_neutral": true,
           "original_group": "Highest Priority"
         }
+      },
+      {
+        "title": "Disclosure Day",
+        "year": 2026,
+        "type": "Movie",
+        "group": "Top Picks",
+        "poster": "https://prod3.agileticketing.net/images/user/fsc_2553/disclosure-day-teaser-poster-emily-1080x1600.jpg",
+        "tmdb_id": null,
+        "imdb_id": null,
+        "short_summary": "The revelation of nonhuman intelligence forces people around the world to confront the extraordinary truth.",
+        "synopsis": "The revelation of nonhuman intelligence forces people around the world to confront the extraordinary truth.",
+        "genres": [
+          "Science Fiction",
+          "Thriller",
+          "Drama"
+        ],
+        "runtime_minutes": 145,
+        "cast": [
+          "Emily Blunt",
+          "Josh O'Connor",
+          "Colin Firth",
+          "Eve Hewson"
+        ],
+        "tmdb_rating": null,
+        "imdb_rating": null,
+        "rotten_tomatoes_score": 79,
+        "metacritic_score": null,
+        "watch_us": {
+          "stream": [],
+          "rent": [],
+          "buy": [],
+          "source": "Not verified",
+          "checked": null
+        },
+        "provenance": {
+          "source": "User-selected Apple TV screenshots",
+          "origin": "Apple TV Home > Continue Watching screenshot inventory supplied by user on 2026-10-29",
+          "screenshot": "IMG_3302.jpeg",
+          "apple_tv_label": "In Watchlist",
+          "user_explicitly_selected_for_media_center": true,
+          "added_on": "2026-10-29",
+          "original_snapshot": "Media-Apple-TV-Screenshot-Inventory-v1-2026-10-29.md",
+          "viewed_status": "Unconfirmed beyond the Apple TV screenshot label"
+        },
+        "editorial": {
+          "tier": "Top Picks",
+          "ranked_at": "2026-10-29",
+          "basis": "Massive societal stakes and Spielberg's human perspective fit Interstellar/Black Mirror interest; grounded extraordinary-event premise.",
+          "reservation": "Prior Spielberg War of the Worlds received 7/10, so director and premise are not guarantees.",
+          "source_neutral": true,
+          "rank": 9
+        },
+        "source_evidence": [
+          "https://www.universalpicturesathome.com/press-release/disclosure-day-fact-sheet"
+        ]
       },
       {
         "title": "Strange Days",
@@ -624,7 +803,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 7,
+          "rank": 10,
           "tier": "Top Picks",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -685,7 +864,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 8,
+          "rank": 11,
           "tier": "Top Picks",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -805,13 +984,68 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 9,
+          "rank": 12,
           "tier": "Top Picks",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
           "source_neutral": true,
           "original_group": "Strong Possibilities"
         }
+      },
+      {
+        "title": "Good Luck, Have Fun, Don't Die",
+        "year": 2026,
+        "type": "Movie",
+        "group": "Top Picks",
+        "poster": "https://dx35vtwkllhj9.cloudfront.net/briarcliffentertainment/good-luck-have-fun-dont-die/images/regions/us/updates2/onesheet.jpg",
+        "tmdb_id": null,
+        "imdb_id": null,
+        "short_summary": "A man claiming to be from the future recruits unlikely diner patrons to stop a rogue AI from destroying the world.",
+        "synopsis": "A man claiming to be from the future recruits unlikely diner patrons to stop a rogue AI from destroying the world.",
+        "genres": [
+          "Science Fiction",
+          "Action",
+          "Comedy"
+        ],
+        "runtime_minutes": 134,
+        "cast": [
+          "Sam Rockwell",
+          "Haley Lu Richardson",
+          "Juno Temple",
+          "Michael Peña"
+        ],
+        "tmdb_rating": null,
+        "imdb_rating": null,
+        "rotten_tomatoes_score": 82,
+        "metacritic_score": null,
+        "watch_us": {
+          "stream": [],
+          "rent": [],
+          "buy": [],
+          "source": "Not verified",
+          "checked": null
+        },
+        "provenance": {
+          "source": "User-selected Apple TV screenshots",
+          "origin": "Apple TV Home > Continue Watching screenshot inventory supplied by user on 2026-10-29",
+          "screenshot": "IMG_3302.jpeg",
+          "apple_tv_label": "Runtime shown",
+          "user_explicitly_selected_for_media_center": true,
+          "added_on": "2026-10-29",
+          "original_snapshot": "Media-Apple-TV-Screenshot-Inventory-v1-2026-10-29.md",
+          "viewed_status": "Unconfirmed beyond the Apple TV screenshot label"
+        },
+        "editorial": {
+          "tier": "Top Picks",
+          "ranked_at": "2026-10-29",
+          "basis": "High-energy AI catastrophe with sharp, eccentric personalities and recognizable human setting; more grounded in character than abstract philosophy.",
+          "reservation": "Deliberately chaotic tone may be uneven for this user's tastes.",
+          "source_neutral": true,
+          "rank": 13
+        },
+        "source_evidence": [
+          "https://tv.apple.com/us/movie/good-luck-have-fun-dont-die/umc.cmc.7jtkucfs19f2zz383s5n0katk"
+        ]
       },
       {
         "title": "Raised by Wolves",
@@ -854,7 +1088,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 10,
+          "rank": 14,
           "tier": "Top Picks",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -964,7 +1198,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 11,
+          "rank": 15,
           "tier": "Top Picks",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -1069,7 +1303,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 12,
+          "rank": 16,
           "tier": "Top Picks",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -1147,7 +1381,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 13,
+          "rank": 17,
           "tier": "Top Picks",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -1209,7 +1443,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 14,
+          "rank": 18,
           "tier": "Top Picks",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -1343,7 +1577,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 15,
+          "rank": 19,
           "tier": "Top Picks",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -1473,13 +1707,68 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 16,
+          "rank": 20,
           "tier": "Strong Prospects",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
           "source_neutral": true,
           "original_group": "Highest Priority"
         }
+      },
+      {
+        "title": "Alita: Battle Angel",
+        "year": 2019,
+        "type": "Movie",
+        "group": "Strong Prospects",
+        "poster": "https://d-tv.ppstatic.pl/images/tv-tv/59/2d/prg55136706_831508441_large.jpg",
+        "tmdb_id": null,
+        "imdb_id": null,
+        "short_summary": "A discarded cyborg awakens with no memory and uncovers exceptional abilities in a ruthless futuristic city.",
+        "synopsis": "A discarded cyborg awakens with no memory and uncovers exceptional abilities in a ruthless futuristic city.",
+        "genres": [
+          "Science Fiction",
+          "Action",
+          "Adventure"
+        ],
+        "runtime_minutes": 122,
+        "cast": [
+          "Rosa Salazar",
+          "Christoph Waltz",
+          "Jennifer Connelly",
+          "Mahershala Ali"
+        ],
+        "tmdb_rating": null,
+        "imdb_rating": null,
+        "rotten_tomatoes_score": null,
+        "metacritic_score": null,
+        "watch_us": {
+          "stream": [],
+          "rent": [],
+          "buy": [],
+          "source": "Not verified",
+          "checked": null
+        },
+        "provenance": {
+          "source": "User-selected Apple TV screenshots",
+          "origin": "Apple TV Home > Continue Watching screenshot inventory supplied by user on 2026-10-29",
+          "screenshot": "IMG_3303.jpeg",
+          "apple_tv_label": "Runtime shown",
+          "user_explicitly_selected_for_media_center": true,
+          "added_on": "2026-10-29",
+          "original_snapshot": "Media-Apple-TV-Screenshot-Inventory-v1-2026-10-29.md",
+          "viewed_status": "Unconfirmed beyond the Apple TV screenshot label"
+        },
+        "editorial": {
+          "tier": "Strong Prospects",
+          "ranked_at": "2026-10-29",
+          "basis": "Cyberpunk society and sympathetic, capable protagonist fit Altered Carbon and Tron: Legacy.",
+          "reservation": "More YA/action-franchise stylization than the user's most grounded favorites.",
+          "source_neutral": true,
+          "rank": 21
+        },
+        "source_evidence": [
+          "https://www.impawards.com/2019/alita_battle_angel.html"
+        ]
       },
       {
         "title": "The Girl with All the Gifts",
@@ -1593,13 +1882,68 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 17,
+          "rank": 22,
           "tier": "Strong Prospects",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
           "source_neutral": true,
           "original_group": "Science Fiction & Dystopian Movies"
         }
+      },
+      {
+        "title": "Greenland 2: Migration",
+        "year": 2026,
+        "type": "Movie",
+        "group": "Strong Prospects",
+        "poster": "https://images.squarespace-cdn.com/content/v1/60d93ff47168967b5f3ce2bb/1767978459844-3REHP9FPEWR4SE493WEE/greenland-2-migration-GRNLND2_2025x3000_ONLINE_1SHT_TSR_V3_rgb.jpg",
+        "tmdb_id": null,
+        "imdb_id": null,
+        "short_summary": "The Garrity family leaves its bunker and crosses a shattered Europe to find a new home after a global catastrophe.",
+        "synopsis": "The Garrity family leaves its bunker and crosses a shattered Europe to find a new home after a global catastrophe.",
+        "genres": [
+          "Science Fiction",
+          "Adventure",
+          "Thriller"
+        ],
+        "runtime_minutes": 98,
+        "cast": [
+          "Gerard Butler",
+          "Morena Baccarin",
+          "Roman Griffin Davis",
+          "Amber Rose Revah"
+        ],
+        "tmdb_rating": null,
+        "imdb_rating": null,
+        "rotten_tomatoes_score": 48,
+        "metacritic_score": null,
+        "watch_us": {
+          "stream": [],
+          "rent": [],
+          "buy": [],
+          "source": "Not verified",
+          "checked": null
+        },
+        "provenance": {
+          "source": "User-selected Apple TV screenshots",
+          "origin": "Apple TV Home > Continue Watching screenshot inventory supplied by user on 2026-10-29",
+          "screenshot": "IMG_3302.jpeg",
+          "apple_tv_label": "Runtime shown",
+          "user_explicitly_selected_for_media_center": true,
+          "added_on": "2026-10-29",
+          "original_snapshot": "Media-Apple-TV-Screenshot-Inventory-v1-2026-10-29.md",
+          "viewed_status": "Unconfirmed beyond the Apple TV screenshot label"
+        },
+        "editorial": {
+          "tier": "Strong Prospects",
+          "ranked_at": "2026-10-29",
+          "basis": "The original Greenland received an exceptionally high personal rating of 9 despite its much lower audience consensus; direct personal-interest signal.",
+          "reservation": "The sequel's critical reception is substantially weaker (48% Rotten Tomatoes on Apple TV as checked); keep below core top picks.",
+          "source_neutral": true,
+          "rank": 23
+        },
+        "source_evidence": [
+          "https://tv.apple.com/us/movie/greenland-2-migration/umc.cmc.1ged2augqqvydram1rwo21ubi"
+        ]
       },
       {
         "title": "Mars Express",
@@ -1701,13 +2045,70 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 18,
+          "rank": 24,
           "tier": "Strong Prospects",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
           "source_neutral": true,
           "original_group": "Science Fiction & Dystopian Movies"
         }
+      },
+      {
+        "title": "Constellation",
+        "year": 2024,
+        "type": "TV",
+        "group": "Strong Prospects",
+        "poster": "https://tr.web.img4.acsta.net/pictures/24/01/22/16/35/1143365.jpg",
+        "tmdb_id": null,
+        "imdb_id": null,
+        "short_summary": "After surviving a catastrophe in orbit, an astronaut returns home to a reality that no longer matches her memories.",
+        "synopsis": "After surviving a catastrophe in orbit, an astronaut returns home to a reality that no longer matches her memories.",
+        "genres": [
+          "Science Fiction",
+          "Mystery",
+          "Drama"
+        ],
+        "runtime_minutes": 53,
+        "cast": [
+          "Noomi Rapace",
+          "Jonathan Banks",
+          "James D'Arcy",
+          "Julian Looman"
+        ],
+        "tmdb_rating": null,
+        "imdb_rating": null,
+        "rotten_tomatoes_score": null,
+        "metacritic_score": null,
+        "watch_us": {
+          "stream": [
+            "Apple TV"
+          ],
+          "rent": [],
+          "buy": [],
+          "source": "Confirmed source recorded in evidence field",
+          "checked": "2026-10-29"
+        },
+        "provenance": {
+          "source": "User-selected Apple TV screenshots",
+          "origin": "Apple TV Home > Continue Watching screenshot inventory supplied by user on 2026-10-29",
+          "screenshot": "IMG_3307.jpeg",
+          "apple_tv_label": "In Watchlist",
+          "user_explicitly_selected_for_media_center": true,
+          "added_on": "2026-10-29",
+          "original_snapshot": "Media-Apple-TV-Screenshot-Inventory-v1-2026-10-29.md",
+          "viewed_status": "Unconfirmed beyond the Apple TV screenshot label"
+        },
+        "editorial": {
+          "tier": "Strong Prospects",
+          "ranked_at": "2026-10-29",
+          "basis": "Reality shifts, hidden institutional secrets and personal stakes share appeal with Silo, Black Mirror, and Rubicon.",
+          "reservation": "Unsettling, slow-burn structure could be a challenge.",
+          "source_neutral": true,
+          "rank": 25
+        },
+        "source_evidence": [
+          "https://www.apple.com/tv-pr/originals/constellation/"
+        ]
       },
       {
         "title": "12 Monkeys",
@@ -1732,7 +2133,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 19,
+          "rank": 26,
           "tier": "Strong Prospects",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -1840,13 +2241,65 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 20,
+          "rank": 27,
           "tier": "Strong Prospects",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
           "source_neutral": true,
           "original_group": "Strong Possibilities"
         }
+      },
+      {
+        "title": "Brave New World",
+        "year": 2020,
+        "type": "TV",
+        "group": "Strong Prospects",
+        "poster": "https://cdn.thecollector.com/wp-content/uploads/2023/12/brave-new-world-1.jpg?quality=55&width=800",
+        "tmdb_id": null,
+        "imdb_id": null,
+        "short_summary": "In a seemingly perfect society built on social control and engineered happiness, outsiders expose what its citizens sacrifice.",
+        "synopsis": "In a seemingly perfect society built on social control and engineered happiness, outsiders expose what its citizens sacrifice.",
+        "genres": [
+          "Science Fiction",
+          "Drama",
+          "Dystopian"
+        ],
+        "runtime_minutes": 50,
+        "cast": [
+          "Alden Ehrenreich",
+          "Jessica Brown Findlay",
+          "Harry Lloyd"
+        ],
+        "tmdb_rating": null,
+        "imdb_rating": null,
+        "rotten_tomatoes_score": null,
+        "metacritic_score": null,
+        "watch_us": {
+          "stream": [],
+          "rent": [],
+          "buy": [],
+          "source": "Not verified",
+          "checked": null
+        },
+        "provenance": {
+          "source": "User-selected Apple TV screenshots",
+          "origin": "Apple TV Home > Continue Watching screenshot inventory supplied by user on 2026-10-29",
+          "screenshot": "IMG_3304.jpeg",
+          "apple_tv_label": "Next Episode",
+          "user_explicitly_selected_for_media_center": true,
+          "added_on": "2026-10-29",
+          "original_snapshot": "Media-Apple-TV-Screenshot-Inventory-v1-2026-10-29.md",
+          "viewed_status": "Unconfirmed beyond the Apple TV screenshot label"
+        },
+        "editorial": {
+          "tier": "Strong Prospects",
+          "ranked_at": "2026-10-29",
+          "basis": "Dystopian social structure, control, and ideological conflict match longstanding thematic preferences; screenshot indicates continuation, not endorsement.",
+          "reservation": "The series has only one season and may not deliver the novel's philosophical depth.",
+          "source_neutral": true,
+          "rank": 28
+        },
+        "source_evidence": []
       },
       {
         "title": "Midnight Special",
@@ -1950,7 +2403,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 21,
+          "rank": 29,
           "tier": "Strong Prospects",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -2070,7 +2523,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 22,
+          "rank": 30,
           "tier": "Strong Prospects",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -2183,7 +2636,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 23,
+          "rank": 31,
           "tier": "Strong Prospects",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -2232,7 +2685,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 24,
+          "rank": 32,
           "tier": "Strong Prospects",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -2376,13 +2829,69 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 25,
+          "rank": 33,
           "tier": "Strong Prospects",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
           "source_neutral": true,
           "original_group": "Highest Priority"
         }
+      },
+      {
+        "title": "Philip K. Dick's Electric Dreams",
+        "year": 2017,
+        "type": "TV",
+        "group": "Strong Prospects",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTk1ODBiYzktZjg5Zi00OTk4LTgxNWQtYzFhYzQzZDAwOTk2XkEyXkFqcGc%40._V1_.jpg",
+        "tmdb_id": null,
+        "imdb_id": "tt5711280",
+        "short_summary": "A ten-episode anthology adapts Philip K. Dick's stories about technology, identities, and being human.",
+        "synopsis": "A ten-episode anthology adapts Philip K. Dick's stories about technology, identities, and being human.",
+        "genres": [
+          "Science Fiction",
+          "Drama",
+          "Anthology"
+        ],
+        "runtime_minutes": 48,
+        "cast": [
+          "Steve Buscemi",
+          "Bryan Cranston",
+          "Geraldine Chaplin",
+          "Terrence Howard"
+        ],
+        "tmdb_rating": null,
+        "imdb_rating": null,
+        "rotten_tomatoes_score": null,
+        "metacritic_score": null,
+        "watch_us": {
+          "stream": [],
+          "rent": [],
+          "buy": [],
+          "source": "Not verified",
+          "checked": null
+        },
+        "provenance": {
+          "source": "User-selected Apple TV screenshots",
+          "origin": "Apple TV Home > Continue Watching screenshot inventory supplied by user on 2026-10-29",
+          "screenshot": "IMG_3304.jpeg",
+          "apple_tv_label": "Continue",
+          "user_explicitly_selected_for_media_center": true,
+          "added_on": "2026-10-29",
+          "original_snapshot": "Media-Apple-TV-Screenshot-Inventory-v1-2026-10-29.md",
+          "viewed_status": "Unconfirmed beyond the Apple TV screenshot label",
+          "historical_user_imdb_rating": 7
+        },
+        "editorial": {
+          "tier": "Strong Prospects",
+          "ranked_at": "2026-10-29",
+          "basis": "Concrete prior IMDb 7/10 and Black Mirror 10/10 suggest episodic dystopian exploration appeals, but not uniformly.",
+          "reservation": "Previously rated 7, so continuation/revisit—not a novel discovery.",
+          "source_neutral": true,
+          "rank": 34
+        },
+        "source_evidence": [
+          "https://tv.apple.com/us/show/philip-k-dicks-electric-dreams/umc.cmc.4fm4ugckvsu5rcnovg55xr7ij"
+        ]
       },
       {
         "title": "Devs",
@@ -2454,13 +2963,69 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 26,
+          "rank": 35,
           "tier": "Strong Prospects",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
           "source_neutral": true,
           "original_group": "Television Series"
         }
+      },
+      {
+        "title": "Everything Everywhere All at Once",
+        "year": 2022,
+        "type": "Movie",
+        "group": "Strong Prospects",
+        "poster": "https://images.squarespace-cdn.com/content/v1/51c8b108e4b050e44c477323/caf391fd-16bd-4bf5-b1a3-8c05599ab36d/Everything%2BEverywhere%2BAll%2BAt%2BOnce%2BPoster%2B01.jpg",
+        "tmdb_id": null,
+        "imdb_id": null,
+        "short_summary": "An overwhelmed woman gains access to parallel lives and must navigate a chaotic multiverse to save her family.",
+        "synopsis": "An overwhelmed woman gains access to parallel lives and must navigate a chaotic multiverse to save her family.",
+        "genres": [
+          "Science Fiction",
+          "Action",
+          "Comedy",
+          "Drama"
+        ],
+        "runtime_minutes": 139,
+        "cast": [
+          "Michelle Yeoh",
+          "Stephanie Hsu",
+          "Ke Huy Quan",
+          "Jamie Lee Curtis"
+        ],
+        "tmdb_rating": null,
+        "imdb_rating": null,
+        "rotten_tomatoes_score": null,
+        "metacritic_score": null,
+        "watch_us": {
+          "stream": [],
+          "rent": [],
+          "buy": [],
+          "source": "Not verified",
+          "checked": null
+        },
+        "provenance": {
+          "source": "User-selected Apple TV screenshots",
+          "origin": "Apple TV Home > Continue Watching screenshot inventory supplied by user on 2026-10-29",
+          "screenshot": "IMG_3305.jpeg",
+          "apple_tv_label": "Continue",
+          "user_explicitly_selected_for_media_center": true,
+          "added_on": "2026-10-29",
+          "original_snapshot": "Media-Apple-TV-Screenshot-Inventory-v1-2026-10-29.md",
+          "viewed_status": "Unconfirmed beyond the Apple TV screenshot label"
+        },
+        "editorial": {
+          "tier": "Strong Prospects",
+          "ranked_at": "2026-10-29",
+          "basis": "Fantastic worldbuilding combined with strong relationships and high stakes; the family focus distinguishes it from mere puzzle-box sci-fi.",
+          "reservation": "Surreal, fragmented comedy could be less appealing than grounded character drama.",
+          "source_neutral": true,
+          "rank": 36
+        },
+        "source_evidence": [
+          "https://a24films.com/films/everything-everywhere-all-at-once"
+        ]
       },
       {
         "title": "Dark",
@@ -2513,7 +3078,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 27,
+          "rank": 37,
           "tier": "Strong Prospects",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -2616,7 +3181,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 28,
+          "rank": 38,
           "tier": "Strong Prospects",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -2731,7 +3296,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 29,
+          "rank": 39,
           "tier": "Strong Prospects",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -2855,7 +3420,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 30,
+          "rank": 40,
           "tier": "Strong Prospects",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -2904,7 +3469,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 31,
+          "rank": 41,
           "tier": "Strong Prospects",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -3033,7 +3598,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 32,
+          "rank": 42,
           "tier": "Strong Prospects",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -3178,7 +3743,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 33,
+          "rank": 43,
           "tier": "Strong Prospects",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -3287,7 +3852,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 34,
+          "rank": 44,
           "tier": "Strong Prospects",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -3411,13 +3976,65 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 35,
+          "rank": 45,
           "tier": "More Selective",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
           "source_neutral": true,
           "original_group": "Science Fiction & Dystopian Movies"
         }
+      },
+      {
+        "title": "2073",
+        "year": 2024,
+        "type": "Movie",
+        "group": "More Selective",
+        "poster": "https://www.impawards.com/2024/posters/twenty_seventy_three_ver2_xxlg.jpg",
+        "tmdb_id": null,
+        "imdb_id": null,
+        "short_summary": "A hybrid documentary and dystopian fictional story imagines a world of extreme surveillance and societal decay.",
+        "synopsis": "A hybrid documentary and dystopian fictional story imagines a world of extreme surveillance and societal decay.",
+        "genres": [
+          "Science Fiction",
+          "Documentary",
+          "Dystopian"
+        ],
+        "runtime_minutes": 83,
+        "cast": [
+          "Samantha Morton"
+        ],
+        "tmdb_rating": null,
+        "imdb_rating": null,
+        "rotten_tomatoes_score": null,
+        "metacritic_score": null,
+        "watch_us": {
+          "stream": [],
+          "rent": [],
+          "buy": [],
+          "source": "Not verified",
+          "checked": null
+        },
+        "provenance": {
+          "source": "User-selected Apple TV screenshots",
+          "origin": "Apple TV Home > Continue Watching screenshot inventory supplied by user on 2026-10-29",
+          "screenshot": "IMG_3304.jpeg",
+          "apple_tv_label": "Now Available",
+          "user_explicitly_selected_for_media_center": true,
+          "added_on": "2026-10-29",
+          "original_snapshot": "Media-Apple-TV-Screenshot-Inventory-v1-2026-10-29.md",
+          "viewed_status": "Unconfirmed beyond the Apple TV screenshot label"
+        },
+        "editorial": {
+          "tier": "More Selective",
+          "ranked_at": "2026-10-29",
+          "basis": "Political decay, technology and authoritarianism overlap with the user's interest in social systems under pressure.",
+          "reservation": "Documentary argument and fictional framing may be more polemical than conventional storytelling.",
+          "source_neutral": true,
+          "rank": 46
+        },
+        "source_evidence": [
+          "https://tv.apple.com/us/movie/2073/umc.cmc.3ueoyn66rvue71zbahr61wntb"
+        ]
       },
       {
         "title": "Splice",
@@ -3483,13 +4100,68 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 36,
+          "rank": 47,
           "tier": "More Selective",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
           "source_neutral": true,
           "original_group": "More Experimental or Uncertain"
         }
+      },
+      {
+        "title": "Backrooms",
+        "year": 2026,
+        "type": "Movie",
+        "group": "More Selective",
+        "poster": "https://s.yimg.com/ny/api/res/1.2/wyD5vfMFCSlcJnmHMsoqeA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0zNTU2O2NmPXdlYnA-/https%3A/media.zenfs.com/en/gold_derby_993/ad9e9f1cf900d203c1348a8e9617bf74",
+        "tmdb_id": null,
+        "imdb_id": null,
+        "short_summary": "A mysterious door in a furniture showroom opens into an endless labyrinth of unnerving interconnected rooms.",
+        "synopsis": "A mysterious door in a furniture showroom opens into an endless labyrinth of unnerving interconnected rooms.",
+        "genres": [
+          "Science Fiction",
+          "Horror",
+          "Mystery"
+        ],
+        "runtime_minutes": 110,
+        "cast": [
+          "Renate Reinsve",
+          "Chiwetel Ejiofor",
+          "Mark Duplass",
+          "Lukita Maxwell"
+        ],
+        "tmdb_rating": null,
+        "imdb_rating": null,
+        "rotten_tomatoes_score": null,
+        "metacritic_score": null,
+        "watch_us": {
+          "stream": [],
+          "rent": [],
+          "buy": [],
+          "source": "Not verified",
+          "checked": null
+        },
+        "provenance": {
+          "source": "User-selected Apple TV screenshots",
+          "origin": "Apple TV Home > Continue Watching screenshot inventory supplied by user on 2026-10-29",
+          "screenshot": "IMG_3302.jpeg",
+          "apple_tv_label": "Now Available",
+          "user_explicitly_selected_for_media_center": true,
+          "added_on": "2026-10-29",
+          "original_snapshot": "Media-Apple-TV-Screenshot-Inventory-v1-2026-10-29.md",
+          "viewed_status": "Unconfirmed beyond the Apple TV screenshot label"
+        },
+        "editorial": {
+          "tier": "More Selective",
+          "ranked_at": "2026-10-29",
+          "basis": "Reality-bending premise may work as an atmospheric sci-fi experiment.",
+          "reservation": "Horror-leaning abstract atmosphere and limited conventional character storytelling make personal fit uncertain.",
+          "source_neutral": true,
+          "rank": 48
+        },
+        "source_evidence": [
+          "https://a24films.com/films/backrooms"
+        ]
       },
       {
         "title": "The Endless",
@@ -3643,7 +4315,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 37,
+          "rank": 49,
           "tier": "More Selective",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -3753,13 +4425,69 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 38,
+          "rank": 50,
           "tier": "More Selective",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
           "source_neutral": true,
           "original_group": "Science Fiction & Dystopian Movies"
         }
+      },
+      {
+        "title": "Invasion",
+        "year": 2021,
+        "type": "TV",
+        "group": "More Selective",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTA3MzI4MDItMDAxOC00MWNhLWFhZjUtODU4N2ZjNzkwOGZkXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg",
+        "tmdb_id": null,
+        "imdb_id": null,
+        "short_summary": "An alien invasion unfolds through the experiences of ordinary people scattered across the world.",
+        "synopsis": "An alien invasion unfolds through the experiences of ordinary people scattered across the world.",
+        "genres": [
+          "Science Fiction",
+          "Drama"
+        ],
+        "runtime_minutes": 55,
+        "cast": [
+          "Golshifteh Farahani",
+          "Shamier Anderson",
+          "Shioli Kutsuna",
+          "Sam Neill"
+        ],
+        "tmdb_rating": null,
+        "imdb_rating": null,
+        "rotten_tomatoes_score": null,
+        "metacritic_score": null,
+        "watch_us": {
+          "stream": [
+            "Apple TV"
+          ],
+          "rent": [],
+          "buy": [],
+          "source": "Confirmed source recorded in evidence field",
+          "checked": "2026-10-29"
+        },
+        "provenance": {
+          "source": "User-selected Apple TV screenshots",
+          "origin": "Apple TV Home > Continue Watching screenshot inventory supplied by user on 2026-10-29",
+          "screenshot": "IMG_3307.jpeg",
+          "apple_tv_label": "Episode/progress",
+          "user_explicitly_selected_for_media_center": true,
+          "added_on": "2026-10-29",
+          "original_snapshot": "Media-Apple-TV-Screenshot-Inventory-v1-2026-10-29.md",
+          "viewed_status": "Unconfirmed beyond the Apple TV screenshot label"
+        },
+        "editorial": {
+          "tier": "More Selective",
+          "ranked_at": "2026-10-29",
+          "basis": "Global-scale consequences are appealing, and the perspective stays anchored in recognizable people.",
+          "reservation": "Often deliberate pacing and subdued early episodes; the screenshot shows progress but not enjoyment.",
+          "source_neutral": true,
+          "rank": 51
+        },
+        "source_evidence": [
+          "https://www.apple.com/tv-pr/originals/invasion/"
+        ]
       },
       {
         "title": "Aniara",
@@ -3845,7 +4573,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 39,
+          "rank": 52,
           "tier": "More Selective",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -3948,7 +4676,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 40,
+          "rank": 53,
           "tier": "More Selective",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -4041,7 +4769,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 41,
+          "rank": 54,
           "tier": "More Selective",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -4155,7 +4883,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 42,
+          "rank": 55,
           "tier": "More Selective",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -4237,7 +4965,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 43,
+          "rank": 56,
           "tier": "More Selective",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -4357,7 +5085,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 44,
+          "rank": 57,
           "tier": "More Selective",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -4472,7 +5200,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 45,
+          "rank": 58,
           "tier": "More Selective",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -4592,7 +5320,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 46,
+          "rank": 59,
           "tier": "More Selective",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -4653,7 +5381,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 47,
+          "rank": 60,
           "tier": "More Selective",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -4768,7 +5496,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 48,
+          "rank": 61,
           "tier": "More Selective",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -4778,6 +5506,63 @@
       }
     ],
     "other": [
+      {
+        "title": "F1: The Movie",
+        "year": 2025,
+        "type": "Movie",
+        "group": "Crime & High-Stakes Drama",
+        "poster": "https://images.flickdirect.com/movies/f1/f1-poster.jpg",
+        "tmdb_id": null,
+        "imdb_id": null,
+        "short_summary": "An aging Formula One racer returns to help a struggling team, clashing with a gifted young teammate while fighting for redemption.",
+        "synopsis": "An aging Formula One racer returns to help a struggling team, clashing with a gifted young teammate while fighting for redemption.",
+        "genres": [
+          "Action",
+          "Drama",
+          "Sport"
+        ],
+        "runtime_minutes": 155,
+        "cast": [
+          "Brad Pitt",
+          "Damson Idris",
+          "Javier Bardem",
+          "Kerry Condon"
+        ],
+        "tmdb_rating": null,
+        "imdb_rating": null,
+        "rotten_tomatoes_score": null,
+        "metacritic_score": null,
+        "watch_us": {
+          "stream": [
+            "Apple TV"
+          ],
+          "rent": [],
+          "buy": [],
+          "source": "Confirmed source recorded in evidence field",
+          "checked": "2026-10-29"
+        },
+        "provenance": {
+          "source": "User-selected Apple TV screenshots",
+          "origin": "Apple TV Home > Continue Watching screenshot inventory supplied by user on 2026-10-29",
+          "screenshot": "IMG_3303.jpeg",
+          "apple_tv_label": "Now Available",
+          "user_explicitly_selected_for_media_center": true,
+          "added_on": "2026-10-29",
+          "original_snapshot": "Media-Apple-TV-Screenshot-Inventory-v1-2026-10-29.md",
+          "viewed_status": "Unconfirmed beyond the Apple TV screenshot label"
+        },
+        "editorial": {
+          "tier": "Crime & High-Stakes Drama",
+          "ranked_at": "2026-10-29",
+          "basis": "Joseph Kosinski directed Tron: Legacy and Oblivion (both personal IMDb 9s); competitive personalities and dramatic confrontations align with Days of Thunder and The Program (both 8s).",
+          "reservation": "Kosinski's Top Gun: Maverick received a more modest 7/10; sports stories vary.",
+          "source_neutral": true,
+          "rank": 1
+        },
+        "source_evidence": [
+          "https://tv.apple.com/us/info/f1-the-movie"
+        ]
+      },
       {
         "title": "The Town",
         "year": 2010,
@@ -4900,10 +5685,11 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 1,
+          "rank": 2,
           "ranked_at": "2026-10-29",
           "basis": "Character dynamics and conflict calibrated against user's IMDb ratings.",
-          "source_neutral": true
+          "source_neutral": true,
+          "tier": "Crime & High-Stakes Drama"
         }
       },
       {
@@ -5013,10 +5799,11 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 2,
+          "rank": 3,
           "ranked_at": "2026-10-29",
           "basis": "Character dynamics and conflict calibrated against user's IMDb ratings.",
-          "source_neutral": true
+          "source_neutral": true,
+          "tier": "Crime & High-Stakes Drama"
         }
       },
       {
@@ -5106,11 +5893,67 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 3,
+          "rank": 4,
           "ranked_at": "2026-10-29",
           "basis": "Character dynamics and conflict calibrated against user's IMDb ratings.",
-          "source_neutral": true
+          "source_neutral": true,
+          "tier": "Crime & High-Stakes Drama"
         }
+      },
+      {
+        "title": "Oppenheimer",
+        "year": 2023,
+        "type": "Movie",
+        "group": "Political & Historical Drama",
+        "poster": "https://alumni.cornell.edu/cornellians/wp-content/uploads/sites/2/2024/02/oppenheimer-poster-A-691x1024.jpg",
+        "tmdb_id": null,
+        "imdb_id": "tt15398776",
+        "short_summary": "The physicist leading the Manhattan Project confronts scientific ambition, political pressure, and the consequences of creating the atomic bomb.",
+        "synopsis": "The physicist leading the Manhattan Project confronts scientific ambition, political pressure, and the consequences of creating the atomic bomb.",
+        "genres": [
+          "History",
+          "Drama",
+          "Biography"
+        ],
+        "runtime_minutes": 180,
+        "cast": [
+          "Cillian Murphy",
+          "Emily Blunt",
+          "Robert Downey Jr.",
+          "Matt Damon"
+        ],
+        "tmdb_rating": null,
+        "imdb_rating": null,
+        "rotten_tomatoes_score": 93,
+        "metacritic_score": null,
+        "watch_us": {
+          "stream": [],
+          "rent": [],
+          "buy": [],
+          "source": "Not verified",
+          "checked": null
+        },
+        "provenance": {
+          "source": "User-selected Apple TV screenshots",
+          "origin": "Apple TV Home > Continue Watching screenshot inventory supplied by user on 2026-10-29",
+          "screenshot": "IMG_3306.jpeg",
+          "apple_tv_label": "In Watchlist",
+          "user_explicitly_selected_for_media_center": true,
+          "added_on": "2026-10-29",
+          "original_snapshot": "Media-Apple-TV-Screenshot-Inventory-v1-2026-10-29.md",
+          "viewed_status": "Unconfirmed beyond the Apple TV screenshot label"
+        },
+        "editorial": {
+          "tier": "Political & Historical Drama",
+          "ranked_at": "2026-10-29",
+          "basis": "Power struggles, brilliant strategists and high moral stakes may engage the same interests as Heat and House of Cards.",
+          "reservation": "Three hours of dialogue-intensive historical drama; Nolan's films received varied personal scores, and Matt Damon is a minor personal negative.",
+          "source_neutral": true,
+          "rank": 5
+        },
+        "source_evidence": [
+          "https://tv.apple.com/us/movie/oppenheimer/umc.cmc.5gylew9icuhfiifdv3oxwxen8"
+        ]
       },
       {
         "title": "The Lives of Others",
@@ -5211,10 +6054,11 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 4,
+          "rank": 6,
           "ranked_at": "2026-10-29",
           "basis": "Character dynamics and conflict calibrated against user's IMDb ratings.",
-          "source_neutral": true
+          "source_neutral": true,
+          "tier": "Political & Historical Drama"
         }
       }
     ],
@@ -5268,7 +6112,8 @@
         },
         "tmdb_id": 298343,
         "synopsis": "An uptight lawyer teams with a flashy Las Vegas magician to bring some pizzazz to the city's stupidest cases in this adult animated comedy.",
-        "tmdb_rating": 7.2
+        "tmdb_rating": 7.2,
+        "editorial": {}
       },
       {
         "title": "Universal Basic Guys",
@@ -5350,7 +6195,8 @@
         },
         "tmdb_id": 214087,
         "synopsis": "Two brothers lose their jobs to automation and are given $3,000 a month in a new basic income program, allowing them to use their free time and free money to find purpose in a world where they're no longer needed.",
-        "tmdb_rating": 5.8
+        "tmdb_rating": 5.8,
+        "editorial": {}
       },
       {
         "title": "Haunted Hotel",
@@ -5401,7 +6247,8 @@
         },
         "tmdb_id": 255752,
         "synopsis": "After inheriting a hotel from her late brother, a single mom moves in with his good-natured ghost — and high-maintenance guests who will never check out.",
-        "tmdb_rating": 8.1
+        "tmdb_rating": 8.1,
+        "editorial": {}
       },
       {
         "title": "Agent Elvis",
@@ -5452,7 +6299,8 @@
         },
         "tmdb_id": 110126,
         "synopsis": "Elvis Presley trades in his white jumpsuit for a jet pack when he is covertly inducted into a secret government spy program to help battle the dark forces that threaten the country he loves — all while holding down his day job as the King of Rock & Roll.",
-        "tmdb_rating": 7
+        "tmdb_rating": 7,
+        "editorial": {}
       },
       {
         "title": "Digman!",
@@ -5549,7 +6397,8 @@
         },
         "tmdb_id": 210249,
         "synopsis": "Celebrity archaeologist Rip Digman and his team of experts travel dangerous parts of the world to unearth legendary artifacts and grow their reputations as fearless adventurers.",
-        "tmdb_rating": 6.1
+        "tmdb_rating": 6.1,
+        "editorial": {}
       },
       {
         "title": "Haha, You Clowns",
@@ -5628,7 +6477,8 @@
         },
         "tmdb_id": 256748,
         "synopsis": "Join the Campbell boys, three doting teenagers and their tenderhearted dad, as they live, laugh, love their way into your living rooms. They're big dudes with big feelings who are learning to navigate life in the wake of their mother's death, sensing her presence in everyday adventures.",
-        "tmdb_rating": 7.5
+        "tmdb_rating": 7.5,
+        "editorial": {}
       },
       {
         "title": "Fired on Mars",
@@ -5676,7 +6526,8 @@
         },
         "tmdb_id": 126726,
         "synopsis": "After taking a one-way trip to the Red Planet, graphic designer Jeff Cooper finds himself adrift when his bosses unceremoniously eliminate his role.",
-        "tmdb_rating": 7.1
+        "tmdb_rating": 7.1,
+        "editorial": {}
       },
       {
         "title": "Mike Tyson Mysteries",
@@ -5737,7 +6588,8 @@
         },
         "tmdb_id": 61949,
         "synopsis": "Mike Tyson is taking the fight from the boxing ring to the streets … by solving mysteries! Aided by the Mike Tyson Mystery Team — the Ghost of the Marquess of Queensberry, Mike’s adopted Korean daughter and a pigeon who was once a man — Mike Tyson will answer any plea sent to him.",
-        "tmdb_rating": 7.3
+        "tmdb_rating": 7.3,
+        "editorial": {}
       },
       {
         "title": "Gary and His Demons",
@@ -5775,7 +6627,8 @@
         },
         "tmdb_id": 79478,
         "synopsis": "Gary is a cantankerous, aging demon slayer who has nothing left to lose. Burdened by his “chosen one” status and backed by a team of specialists he can’t relate to, Gary struggles to keep interest in the Earth-saving duty he never asked for and doesn’t want.",
-        "tmdb_rating": 7.6
+        "tmdb_rating": 7.6,
+        "editorial": {}
       },
       {
         "title": "Ugly Americans",
@@ -5862,7 +6715,8 @@
         },
         "tmdb_id": 32351,
         "synopsis": "Social worker Mark Lilly helps new citizens—both human and \"other\"—begin the process of adapting to life in the Big Apple, but his coworkers, demonic bureaucrat Twayne, drunken wizard Leonard Powers, surly law enforcement head Frank Grimes & his girlfriend, Callie, don't make it easy.",
-        "tmdb_rating": 8.2
+        "tmdb_rating": 8.2,
+        "editorial": {}
       },
       {
         "title": "Harvey Birdman, Attorney at Law",
@@ -5950,7 +6804,8 @@
         },
         "tmdb_id": 416,
         "synopsis": "Harvey Birdman, Attorney at Law features ex-superhero Harvey T. Birdman of Birdman and the Galaxy Trio as an attorney working for a law firm alongside other cartoon stars from 1960s and 1970s Hanna-Barbera cartoon series. Similarly, Harvey's clients are also primarily composed of characters taken from Hanna-Barbera cartoon series of the same era. Many of Birdman's nemeses featured in his former cartoon series also became attorneys, often representing the opposing side of a given case.",
-        "tmdb_rating": 8
+        "tmdb_rating": 8,
+        "editorial": {}
       },
       {
         "title": "Drawn Together",
@@ -6028,7 +6883,8 @@
         },
         "tmdb_id": 4336,
         "synopsis": "The world's first animated reality series gathers icons from all corners of the cartoon universe and lets them loose, with plenty of cameras to catch their exploits. Here's what happens when eight cartoon characters stop being polite and start getting real.",
-        "tmdb_rating": 8.2
+        "tmdb_rating": 8.2,
+        "editorial": {}
       },
       {
         "title": "The Xtacles",
@@ -6067,7 +6923,8 @@
         },
         "tmdb_id": 8151,
         "synopsis": null,
-        "tmdb_rating": 6
+        "tmdb_rating": 6,
+        "editorial": {}
       },
       {
         "title": "Animals.",
@@ -6131,7 +6988,8 @@
         },
         "tmdb_id": 65228,
         "synopsis": "An animated comedy focusing on the downtrodden creatures native to Earth’s least-habitable environment: New York City. Whether it’s lovelorn rats, gender-questioning pigeons or aging bedbugs in the midst of a midlife crisis, the awkward small talk, moral ambiguity and existential woes of non-human urbanites prove startlingly similar to our own.",
-        "tmdb_rating": 6.4
+        "tmdb_rating": 6.4,
+        "editorial": {}
       },
       {
         "title": "Rick and Morty",
@@ -6219,7 +7077,8 @@
         },
         "tmdb_id": 60625,
         "synopsis": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
-        "tmdb_rating": 8.7
+        "tmdb_rating": 8.7,
+        "editorial": {}
       },
       {
         "title": "Smiling Friends",
@@ -6296,7 +7155,8 @@
         },
         "tmdb_id": 126506,
         "synopsis": "Smiling Friends Inc. is a small company whose main purpose is to bring happiness and make people smile. The series follows the day-to-day lives and misadventures of its representatives, the lazy, cynical Charlie, and the cheerful, optimistic Pim, as they try to cheer up and comfort the troubled people who call their company's hotline. They receive seemingly simple requests but the jobs turn out to be more complicated than they seem, making it difficult to bring happiness to the world.",
-        "tmdb_rating": 8.5
+        "tmdb_rating": 8.5,
+        "editorial": {}
       },
       {
         "title": "Sealab 2021",
@@ -6358,7 +7218,8 @@
         },
         "tmdb_id": 334,
         "synopsis": "The year is 2021. Deep below the ocean's surface, looms a vast, magnificently high-tech compound: Sealab. A multi-national scientific station with an annual budget in the trillions, manned by a motley collection of malcontents and screw-ups who were unfit for work in the private sector. They really don't get any research done, but instead spend their time bickering among themselves or just plain goofing off. The crew have manipulated their luckless leader, Captain Murphy, into submission, and are content to ride the government clock, raking in fat, hazardous-duty paychecks.",
-        "tmdb_rating": 7.4
+        "tmdb_rating": 7.4,
+        "editorial": {}
       },
       {
         "title": "Common Side Effects",
@@ -6441,7 +7302,8 @@
         },
         "tmdb_id": 228878,
         "synopsis": "Former high school lab partners Marshall and Frances begin to unravel a conspiracy involving big pharma and the federal government to suppress knowledge of a rare mushroom that may hold the key to curing all the world’s diseases.",
-        "tmdb_rating": 8.5
+        "tmdb_rating": 8.5,
+        "editorial": {}
       }
     ]
   }
