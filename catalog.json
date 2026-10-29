@@ -4808,478 +4808,1224 @@
         "year": 2026,
         "type": "TV",
         "group": "Next to Try",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNDIyMDBkMGUtZDZiOC00NDU1LThjNDQtMzRkYzVlZTE0NGM5XkEyXkFqcGc%40._V1_.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/hs9kjF67nO5vc3kBgm3IF2MLnRe.jpg",
         "short_summary": "An uptight Vegas attorney partners with an outrageous magician to tackle absurd legal cases.",
         "genres": [
           "Animation",
-          "Comedy"
+          "Comedy",
+          "Drama"
         ],
-        "runtime_minutes": 26,
+        "runtime_minutes": null,
         "cast": [
           "Adam Scott",
           "Janelle James",
+          "Keith David",
           "Stephen Root"
         ],
-        "imdb_id": "tt37937030",
+        "imdb_id": null,
         "watch_us": {
           "stream": [
-            "Netflix"
+            "Netflix",
+            "Netflix Standard with Ads"
           ],
           "rent": [],
-          "buy": []
+          "buy": [],
+          "stream_logos": [
+            {
+              "name": "Netflix",
+              "logo": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Netflix Standard with Ads",
+              "logo": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+            }
+          ],
+          "rent_logos": [],
+          "buy_logos": [],
+          "source": "TMDb",
+          "checked": "2026-10-29"
         },
         "provenance": {
           "source": "October 2026 recommendation shortlist",
           "recommendation_date": "2026-10-28",
           "user_feedback": "User particularly attracted to the premise and presentation; not yet watched."
-        }
+        },
+        "tmdb_id": 298343,
+        "synopsis": "An uptight lawyer teams with a flashy Las Vegas magician to bring some pizzazz to the city's stupidest cases in this adult animated comedy.",
+        "tmdb_rating": 7.2
       },
       {
         "title": "Universal Basic Guys",
         "year": 2024,
         "type": "TV",
         "group": "Next to Try",
-        "poster": "https://m.media-amazon.com/images/M/MV5BOWRjMjkxZTItOTZhOC00MTVkLTk4Y2UtYTNiZmFiODkxMjBhXkEyXkFqcGc%40._V1_.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/i2TomZ3p2UoHnTRslxDebRu0blL.jpg",
         "short_summary": "After losing their factory jobs to automation, two brothers use basic-income checks to finance increasingly ridiculous adventures.",
         "genres": [
-          "Animation",
-          "Comedy"
+          "Comedy",
+          "Animation"
         ],
-        "runtime_minutes": 22,
+        "runtime_minutes": null,
         "cast": [
           "Adam Malamut",
+          "Craig Malamut",
           "Talia Genevieve",
           "Fred Armisen"
         ],
-        "imdb_id": "tt23469464",
+        "imdb_id": null,
         "watch_us": {
           "stream": [
-            "Hulu"
+            "Hulu",
+            "fuboTV",
+            "YouTube TV",
+            "FOX One Amazon Channel"
           ],
           "rent": [],
-          "buy": []
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "Fandango At Home"
+          ],
+          "stream_logos": [
+            {
+              "name": "Hulu",
+              "logo": "https://image.tmdb.org/t/p/w92/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
+            },
+            {
+              "name": "fuboTV",
+              "logo": "https://image.tmdb.org/t/p/w92/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
+            },
+            {
+              "name": "YouTube TV",
+              "logo": "https://image.tmdb.org/t/p/w92/48bVXEIyCLSL9pZUQ7gB9ToyWto.png"
+            },
+            {
+              "name": "FOX One Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/b3KR9gzy7QkvLNyNzUROavLpsrq.png"
+            }
+          ],
+          "rent_logos": [],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-29"
         },
         "provenance": {
           "source": "October 2026 recommendation shortlist",
           "recommendation_date": "2026-10-28",
           "user_feedback": "User particularly attracted to the premise and presentation; not yet watched."
-        }
+        },
+        "tmdb_id": 214087,
+        "synopsis": "Two brothers lose their jobs to automation and are given $3,000 a month in a new basic income program, allowing them to use their free time and free money to find purpose in a world where they're no longer needed.",
+        "tmdb_rating": 5.8
       },
       {
         "title": "Haunted Hotel",
         "year": 2025,
         "type": "TV",
         "group": "More to Explore",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNWZhNzJlZGEtYTY4My00NTgxLWJiNmUtZWI3NWJlNWE0YjMzXkEyXkFqcGc%40._V1_.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/4arTlVw8oceZDOhGv9GFrgGztUq.jpg",
         "short_summary": "A family attempts to run a hotel occupied by ghosts, monsters, and dysfunction.",
         "genres": [
           "Animation",
-          "Comedy"
+          "Comedy",
+          "Sci-Fi & Fantasy"
         ],
-        "runtime_minutes": 25,
+        "runtime_minutes": null,
         "cast": [
           "Will Forte",
           "Eliza Coupe",
-          "Jimmi Simpson"
+          "Skyler Gisondo",
+          "Natalie Palamides"
         ],
-        "imdb_id": "tt32499579",
+        "imdb_id": null,
         "watch_us": {
           "stream": [
-            "Netflix"
+            "Netflix",
+            "Netflix Standard with Ads"
           ],
           "rent": [],
-          "buy": []
+          "buy": [],
+          "stream_logos": [
+            {
+              "name": "Netflix",
+              "logo": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Netflix Standard with Ads",
+              "logo": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+            }
+          ],
+          "rent_logos": [],
+          "buy_logos": [],
+          "source": "TMDb",
+          "checked": "2026-10-29"
         },
         "provenance": {
           "source": "October 2026 recommendation shortlist",
           "recommendation_date": "2026-10-28",
           "user_feedback": "Previously ranked first, now below Strip Law and Universal Basic Guys; not yet watched."
-        }
+        },
+        "tmdb_id": 255752,
+        "synopsis": "After inheriting a hotel from her late brother, a single mom moves in with his good-natured ghost — and high-maintenance guests who will never check out.",
+        "tmdb_rating": 8.1
       },
       {
         "title": "Agent Elvis",
         "year": 2023,
         "type": "TV",
         "group": "More to Explore",
-        "poster": "https://i.iplsc.com/000GQ25LSNT8NL1C-C125-F4.webp",
+        "poster": "https://image.tmdb.org/t/p/w500/9iFMG4zyAkLnvfEwNqIiiEEQ342.jpg",
         "short_summary": "Elvis becomes a secret agent while his eccentric spy team creates chaos.",
         "genres": [
           "Animation",
-          "Comedy"
+          "Comedy",
+          "Action & Adventure"
         ],
-        "runtime_minutes": 25,
+        "runtime_minutes": null,
         "cast": [
-          "Matthew McConaughey"
+          "Matthew McConaughey",
+          "Kaitlin Olson",
+          "Johnny Knoxville",
+          "Niecy Nash-Betts"
         ],
-        "imdb_id": "",
+        "imdb_id": null,
         "watch_us": {
           "stream": [
-            "Netflix"
+            "Netflix",
+            "Netflix Standard with Ads"
           ],
           "rent": [],
-          "buy": []
+          "buy": [],
+          "stream_logos": [
+            {
+              "name": "Netflix",
+              "logo": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Netflix Standard with Ads",
+              "logo": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+            }
+          ],
+          "rent_logos": [],
+          "buy_logos": [],
+          "source": "TMDb",
+          "checked": "2026-10-29"
         },
         "provenance": {
           "source": "October 2026 recommendation shortlist",
           "recommendation_date": "2026-10-28",
           "user_feedback": "No viewing feedback recorded"
-        }
+        },
+        "tmdb_id": 110126,
+        "synopsis": "Elvis Presley trades in his white jumpsuit for a jet pack when he is covertly inducted into a secret government spy program to help battle the dark forces that threaten the country he loves — all while holding down his day job as the King of Rock & Roll.",
+        "tmdb_rating": 7.0
       },
       {
         "title": "Digman!",
         "year": 2023,
         "type": "TV",
         "group": "More to Explore",
-        "poster": "https://resizing.flixster.com/qlelH90AzmHKhrxDZYLhJ7s3qas%3D/ems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvNGMyOTg3ZjYtMDg4Zi00ODNjLWJmMmUtMDQzYTBkMWMyNjRiLmpwZw%3D%3D",
+        "poster": "https://image.tmdb.org/t/p/w500/yt6yvFBpeWVaqowRqmeXmvU3IsT.jpg",
         "short_summary": "A vain celebrity archaeologist and his oddball crew seek treasure and fame.",
         "genres": [
-          "Animation",
-          "Comedy"
+          "Comedy",
+          "Animation"
         ],
         "runtime_minutes": 22,
         "cast": [
-          "Andy Samberg"
+          "Andy Samberg",
+          "Tim Robinson",
+          "Mitra Jouhari",
+          "Dale Soules"
         ],
-        "imdb_id": "",
+        "imdb_id": null,
         "watch_us": {
-          "stream": [],
+          "stream": [
+            "Netflix",
+            "Paramount Plus Premium",
+            "Paramount Plus Essential",
+            "Paramount Plus Apple TV channel",
+            "Paramount+ Amazon Channel",
+            "Paramount+ Roku Premium Channel",
+            "Netflix Standard with Ads"
+          ],
           "rent": [],
-          "buy": []
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "Fandango At Home"
+          ],
+          "stream_logos": [
+            {
+              "name": "Netflix",
+              "logo": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Paramount Plus Premium",
+              "logo": "https://image.tmdb.org/t/p/w92/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
+            },
+            {
+              "name": "Paramount Plus Essential",
+              "logo": "https://image.tmdb.org/t/p/w92/uPWQPyF4nqwtfPNmGcFcenU57HG.png"
+            },
+            {
+              "name": "Paramount Plus Apple TV channel",
+              "logo": "https://image.tmdb.org/t/p/w92/xu4LyKTwasTbta1Z0qWtZG48yZ3.png"
+            },
+            {
+              "name": "Paramount+ Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png"
+            },
+            {
+              "name": "Paramount+ Roku Premium Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/tnZCMxbcKdxuVmjxefyXCaip7q3.png"
+            },
+            {
+              "name": "Netflix Standard with Ads",
+              "logo": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+            }
+          ],
+          "rent_logos": [],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-29"
         },
         "provenance": {
           "source": "October 2026 recommendation shortlist",
           "recommendation_date": "2026-10-28",
           "user_feedback": "No viewing feedback recorded"
-        }
+        },
+        "tmdb_id": 210249,
+        "synopsis": "Celebrity archaeologist Rip Digman and his team of experts travel dangerous parts of the world to unearth legendary artifacts and grow their reputations as fearless adventurers.",
+        "tmdb_rating": 6.1
       },
       {
         "title": "Haha, You Clowns",
         "year": 2025,
         "type": "TV",
         "group": "More to Explore",
-        "poster": "",
+        "poster": "https://image.tmdb.org/t/p/w500/5baap1Y3pED0HltMRnUDW6w9Bny.jpg",
         "short_summary": "A father and his sons approach everyday situations with strikingly sincere and unconventional humor.",
         "genres": [
           "Animation",
           "Comedy"
         ],
-        "runtime_minutes": 11,
-        "cast": [],
-        "imdb_id": "",
+        "runtime_minutes": null,
+        "cast": [
+          "Joe Cappa"
+        ],
+        "imdb_id": null,
         "watch_us": {
-          "stream": [],
+          "stream": [
+            "HBO Max Amazon Channel",
+            "YouTube TV",
+            "Adult Swim",
+            "HBO Max"
+          ],
           "rent": [],
-          "buy": []
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "Fandango At Home"
+          ],
+          "stream_logos": [
+            {
+              "name": "HBO Max Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/64fLWeSyZ1KQZhIdvTdy4QHeWty.png"
+            },
+            {
+              "name": "YouTube TV",
+              "logo": "https://image.tmdb.org/t/p/w92/48bVXEIyCLSL9pZUQ7gB9ToyWto.png"
+            },
+            {
+              "name": "Adult Swim",
+              "logo": "https://image.tmdb.org/t/p/w92/lEboSJfLzmtWaoLsms0jYBxYqka.png"
+            },
+            {
+              "name": "HBO Max",
+              "logo": "https://image.tmdb.org/t/p/w92/skypuy7SXuugIQeYg0IglmzoKaS.png"
+            }
+          ],
+          "rent_logos": [],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-29"
         },
         "provenance": {
           "source": "October 2026 recommendation shortlist",
           "recommendation_date": "2026-10-28",
           "user_feedback": "Highly tentative given user's mixed reaction to absurdist Adult Swim comedy."
-        }
+        },
+        "tmdb_id": 256748,
+        "synopsis": "Join the Campbell boys, three doting teenagers and their tenderhearted dad, as they live, laugh, love their way into your living rooms. They're big dudes with big feelings who are learning to navigate life in the wake of their mother's death, sensing her presence in everyday adventures.",
+        "tmdb_rating": 7.5
       },
       {
         "title": "Fired on Mars",
         "year": 2023,
         "type": "TV",
         "group": "Earlier Recommendations",
-        "poster": "https://resizing.flixster.com/W0hclxXmwP7sYDD-XfZPmAuhAjo%3D/ems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vMDQ3N2Y0NWYtMDhhMS00OTRiLTg3NjEtMWRhN2Y0MmVmOGU0LmpwZw%3D%3D",
+        "poster": "https://image.tmdb.org/t/p/w500/7x4EO1UOvat2V78WuC2CpAqxjH8.jpg",
         "short_summary": "A graphic designer is laid off while living in an isolated company colony on Mars.",
         "genres": [
           "Animation",
-          "Comedy"
+          "Comedy",
+          "Sci-Fi & Fantasy"
         ],
-        "runtime_minutes": 25,
+        "runtime_minutes": null,
         "cast": [
           "Luke Wilson"
         ],
-        "imdb_id": "",
+        "imdb_id": null,
         "watch_us": {
-          "stream": [],
+          "stream": [
+            "HBO Max Amazon Channel",
+            "HBO Max"
+          ],
           "rent": [],
-          "buy": []
+          "buy": [],
+          "stream_logos": [
+            {
+              "name": "HBO Max Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/64fLWeSyZ1KQZhIdvTdy4QHeWty.png"
+            },
+            {
+              "name": "HBO Max",
+              "logo": "https://image.tmdb.org/t/p/w92/skypuy7SXuugIQeYg0IglmzoKaS.png"
+            }
+          ],
+          "rent_logos": [],
+          "buy_logos": [],
+          "source": "TMDb",
+          "checked": "2026-10-29"
         },
         "provenance": {
           "source": "Previously recommended in Media conversation",
           "recommendation_date": "2026-10-28",
           "user_feedback": "No viewing feedback recorded"
-        }
+        },
+        "tmdb_id": 126726,
+        "synopsis": "After taking a one-way trip to the Red Planet, graphic designer Jeff Cooper finds himself adrift when his bosses unceremoniously eliminate his role.",
+        "tmdb_rating": 7.1
       },
       {
         "title": "Mike Tyson Mysteries",
         "year": 2014,
         "type": "TV",
         "group": "Earlier Recommendations",
-        "poster": "https://artworks.thetvdb.com/banners/v4/series/277954/posters/67381a91bece8.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/iQq8OApBL5sCgtLGnKKWwAgN8Zy.jpg",
         "short_summary": "Mike Tyson and an improbable team investigate strange mysteries.",
         "genres": [
+          "Mystery",
           "Animation",
           "Comedy"
         ],
         "runtime_minutes": 11,
-        "cast": [],
-        "imdb_id": "",
+        "cast": [
+          "Mike Tyson",
+          "Norm Macdonald",
+          "Rachel Ramras",
+          "Jim Rash"
+        ],
+        "imdb_id": null,
         "watch_us": {
           "stream": [],
           "rent": [],
-          "buy": []
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "Fandango At Home"
+          ],
+          "stream_logos": [],
+          "rent_logos": [],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-29"
         },
         "provenance": {
           "source": "Previously recommended in Media conversation",
           "recommendation_date": "2026-10-28",
           "user_feedback": "Previously recommended first; US streaming availability was a blocker."
-        }
+        },
+        "tmdb_id": 61949,
+        "synopsis": "Mike Tyson is taking the fight from the boxing ring to the streets … by solving mysteries! Aided by the Mike Tyson Mystery Team — the Ghost of the Marquess of Queensberry, Mike’s adopted Korean daughter and a pigeon who was once a man — Mike Tyson will answer any plea sent to him.",
+        "tmdb_rating": 7.3
       },
       {
         "title": "Gary and His Demons",
         "year": 2018,
         "type": "TV",
         "group": "Earlier Recommendations",
-        "poster": "",
+        "poster": "https://image.tmdb.org/t/p/w500/wN6EU9KJ2K8fwFASuwDPWrAXkTn.jpg",
         "short_summary": "An exhausted middle-aged demon slayer resents being the world's last line of defense.",
         "genres": [
           "Animation",
           "Comedy"
         ],
         "runtime_minutes": 11,
-        "cast": [],
-        "imdb_id": "",
+        "cast": [
+          "Tim Gilbert",
+          "Miguel Rivas",
+          "Marito Lopez",
+          "Emma Hunter"
+        ],
+        "imdb_id": null,
         "watch_us": {
           "stream": [],
           "rent": [],
-          "buy": []
+          "buy": [],
+          "stream_logos": [],
+          "rent_logos": [],
+          "buy_logos": [],
+          "source": "TMDb",
+          "checked": "2026-10-29"
         },
         "provenance": {
           "source": "Previously recommended in Media conversation",
           "recommendation_date": "2026-10-28",
           "user_feedback": "No viewing feedback recorded"
-        }
+        },
+        "tmdb_id": 79478,
+        "synopsis": "Gary is a cantankerous, aging demon slayer who has nothing left to lose. Burdened by his “chosen one” status and backed by a team of specialists he can’t relate to, Gary struggles to keep interest in the Earth-saving duty he never asked for and doesn’t want.",
+        "tmdb_rating": 7.6
       },
       {
         "title": "Ugly Americans",
         "year": 2010,
         "type": "TV",
         "group": "Earlier Recommendations",
-        "poster": "",
+        "poster": "https://image.tmdb.org/t/p/w500/lGwH9KWYhU16ZYyNX7mz30M0J1U.jpg",
         "short_summary": "A New York social worker navigates a city inhabited by humans and monsters.",
         "genres": [
           "Animation",
           "Comedy"
         ],
         "runtime_minutes": 22,
-        "cast": [],
-        "imdb_id": "",
+        "cast": [
+          "Matt Oberg",
+          "Kurt Metzger",
+          "Natasha Leggero",
+          "Michael-Leon Wooley"
+        ],
+        "imdb_id": null,
         "watch_us": {
-          "stream": [],
+          "stream": [
+            "Paramount Plus Premium",
+            "Paramount Plus Essential",
+            "Paramount Plus Apple TV channel",
+            "Paramount+ Amazon Channel",
+            "Paramount+ Roku Premium Channel"
+          ],
           "rent": [],
-          "buy": []
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "Fandango At Home"
+          ],
+          "stream_logos": [
+            {
+              "name": "Paramount Plus Premium",
+              "logo": "https://image.tmdb.org/t/p/w92/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
+            },
+            {
+              "name": "Paramount Plus Essential",
+              "logo": "https://image.tmdb.org/t/p/w92/uPWQPyF4nqwtfPNmGcFcenU57HG.png"
+            },
+            {
+              "name": "Paramount Plus Apple TV channel",
+              "logo": "https://image.tmdb.org/t/p/w92/xu4LyKTwasTbta1Z0qWtZG48yZ3.png"
+            },
+            {
+              "name": "Paramount+ Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png"
+            },
+            {
+              "name": "Paramount+ Roku Premium Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/tnZCMxbcKdxuVmjxefyXCaip7q3.png"
+            }
+          ],
+          "rent_logos": [],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-29"
         },
         "provenance": {
           "source": "Previously recommended in Media conversation",
           "recommendation_date": "2026-10-28",
           "user_feedback": "No viewing feedback recorded"
-        }
+        },
+        "tmdb_id": 32351,
+        "synopsis": "Social worker Mark Lilly helps new citizens—both human and \"other\"—begin the process of adapting to life in the Big Apple, but his coworkers, demonic bureaucrat Twayne, drunken wizard Leonard Powers, surly law enforcement head Frank Grimes & his girlfriend, Callie, don't make it easy.",
+        "tmdb_rating": 8.2
       },
       {
         "title": "Harvey Birdman, Attorney at Law",
         "year": 2000,
         "type": "TV",
         "group": "Earlier Recommendations",
-        "poster": "",
+        "poster": "https://image.tmdb.org/t/p/w500/tBVSDa48aOcq7vF0xLFprRWZgbh.jpg",
         "short_summary": "An ex-superhero litigates surreal cases for classic cartoon characters.",
         "genres": [
+          "Sci-Fi & Fantasy",
           "Animation",
           "Comedy"
         ],
         "runtime_minutes": 11,
-        "cast": [],
-        "imdb_id": "",
+        "cast": [
+          "Gary Cole",
+          "Thomas Allen",
+          "Stephen Colbert",
+          "John Michael Higgins"
+        ],
+        "imdb_id": null,
         "watch_us": {
-          "stream": [],
+          "stream": [
+            "Hulu",
+            "HBO Max Amazon Channel",
+            "YouTube TV",
+            "Adult Swim",
+            "HBO Max"
+          ],
           "rent": [],
-          "buy": []
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "Fandango At Home"
+          ],
+          "stream_logos": [
+            {
+              "name": "Hulu",
+              "logo": "https://image.tmdb.org/t/p/w92/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
+            },
+            {
+              "name": "HBO Max Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/64fLWeSyZ1KQZhIdvTdy4QHeWty.png"
+            },
+            {
+              "name": "YouTube TV",
+              "logo": "https://image.tmdb.org/t/p/w92/48bVXEIyCLSL9pZUQ7gB9ToyWto.png"
+            },
+            {
+              "name": "Adult Swim",
+              "logo": "https://image.tmdb.org/t/p/w92/lEboSJfLzmtWaoLsms0jYBxYqka.png"
+            },
+            {
+              "name": "HBO Max",
+              "logo": "https://image.tmdb.org/t/p/w92/skypuy7SXuugIQeYg0IglmzoKaS.png"
+            }
+          ],
+          "rent_logos": [],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-29"
         },
         "provenance": {
           "source": "Previously recommended in Media conversation",
           "recommendation_date": "2026-10-28",
           "user_feedback": "Deprioritized in favor of more contemporary character comedy."
-        }
+        },
+        "tmdb_id": 416,
+        "synopsis": "Harvey Birdman, Attorney at Law features ex-superhero Harvey T. Birdman of Birdman and the Galaxy Trio as an attorney working for a law firm alongside other cartoon stars from 1960s and 1970s Hanna-Barbera cartoon series. Similarly, Harvey's clients are also primarily composed of characters taken from Hanna-Barbera cartoon series of the same era. Many of Birdman's nemeses featured in his former cartoon series also became attorneys, often representing the opposing side of a given case.",
+        "tmdb_rating": 8.0
       },
       {
         "title": "Drawn Together",
         "year": 2004,
         "type": "TV",
         "group": "Earlier Recommendations",
-        "poster": "",
+        "poster": "https://image.tmdb.org/t/p/w500/xhshQ2WgAa5zyXqwRcxKMDwRBGd.jpg",
         "short_summary": "A group of radically different cartoon characters live together in a reality-show house.",
         "genres": [
           "Animation",
-          "Comedy"
+          "Comedy",
+          "Reality"
         ],
-        "runtime_minutes": 22,
-        "cast": [],
-        "imdb_id": "",
+        "runtime_minutes": 30,
+        "cast": [
+          "Adam Carolla",
+          "Jess Harnell",
+          "Abbey DiGregorio",
+          "Jack Plotnick"
+        ],
+        "imdb_id": null,
         "watch_us": {
-          "stream": [],
+          "stream": [
+            "Paramount Plus Premium",
+            "Paramount Plus Essential",
+            "Paramount Plus Apple TV channel",
+            "Paramount+ Amazon Channel",
+            "Paramount+ Roku Premium Channel"
+          ],
           "rent": [],
-          "buy": []
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store"
+          ],
+          "stream_logos": [
+            {
+              "name": "Paramount Plus Premium",
+              "logo": "https://image.tmdb.org/t/p/w92/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
+            },
+            {
+              "name": "Paramount Plus Essential",
+              "logo": "https://image.tmdb.org/t/p/w92/uPWQPyF4nqwtfPNmGcFcenU57HG.png"
+            },
+            {
+              "name": "Paramount Plus Apple TV channel",
+              "logo": "https://image.tmdb.org/t/p/w92/xu4LyKTwasTbta1Z0qWtZG48yZ3.png"
+            },
+            {
+              "name": "Paramount+ Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png"
+            },
+            {
+              "name": "Paramount+ Roku Premium Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/tnZCMxbcKdxuVmjxefyXCaip7q3.png"
+            }
+          ],
+          "rent_logos": [],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-29"
         },
         "provenance": {
           "source": "Previously recommended in Media conversation",
           "recommendation_date": "2026-10-28",
           "user_feedback": "Older cult comedy; not currently prioritized."
-        }
+        },
+        "tmdb_id": 4336,
+        "synopsis": "The world's first animated reality series gathers icons from all corners of the cartoon universe and lets them loose, with plenty of cameras to catch their exploits. Here's what happens when eight cartoon characters stop being polite and start getting real.",
+        "tmdb_rating": 8.2
       },
       {
         "title": "The Xtacles",
         "year": 2008,
         "type": "TV",
         "group": "Earlier Recommendations",
-        "poster": "",
+        "poster": "https://image.tmdb.org/t/p/w500/nIoAMupsdWRNILU3VkgROFFD9Tz.jpg",
         "short_summary": "Inept crime-fighting heroes stumble through missions in a Frisky Dingo spinoff.",
         "genres": [
           "Animation",
-          "Comedy"
+          "Comedy",
+          "Action & Adventure"
         ],
         "runtime_minutes": 11,
-        "cast": [],
-        "imdb_id": "",
+        "cast": [
+          "Marshall Bell",
+          "Michael Ian Black",
+          "Rachael Harris",
+          "Christian Danley"
+        ],
+        "imdb_id": null,
         "watch_us": {
           "stream": [],
           "rent": [],
-          "buy": []
+          "buy": [],
+          "stream_logos": [],
+          "rent_logos": [],
+          "buy_logos": [],
+          "source": "TMDb",
+          "checked": "2026-10-29"
         },
         "provenance": {
           "source": "Previously recommended in Media conversation",
           "recommendation_date": "2026-10-28",
           "user_feedback": "Older cult animated comedy; not currently prioritized."
-        }
+        },
+        "tmdb_id": 8151,
+        "synopsis": null,
+        "tmdb_rating": 6.0
       },
       {
         "title": "Animals.",
         "year": 2016,
         "type": "TV",
         "group": "Earlier Recommendations",
-        "poster": "",
+        "poster": "https://image.tmdb.org/t/p/w500/n9w6Njoioimlr1mEyURF5HqeAhV.jpg",
         "short_summary": "Animals in New York act out all-too-human workplace and relationship problems.",
         "genres": [
           "Animation",
           "Comedy"
         ],
-        "runtime_minutes": 22,
-        "cast": [],
-        "imdb_id": "",
+        "runtime_minutes": 28,
+        "cast": [
+          "Mike Luciano",
+          "Phil Matarese",
+          "Katie Aselton"
+        ],
+        "imdb_id": null,
         "watch_us": {
-          "stream": [],
+          "stream": [
+            "fuboTV",
+            "HBO Max Amazon Channel",
+            "HBO Max",
+            "CuriosityStream Apple TV channel",
+            "CuriosityStream Amazon Channel"
+          ],
           "rent": [],
-          "buy": []
+          "buy": [],
+          "stream_logos": [
+            {
+              "name": "fuboTV",
+              "logo": "https://image.tmdb.org/t/p/w92/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
+            },
+            {
+              "name": "HBO Max Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/64fLWeSyZ1KQZhIdvTdy4QHeWty.png"
+            },
+            {
+              "name": "HBO Max",
+              "logo": "https://image.tmdb.org/t/p/w92/skypuy7SXuugIQeYg0IglmzoKaS.png"
+            },
+            {
+              "name": "CuriosityStream Apple TV channel",
+              "logo": "https://image.tmdb.org/t/p/w92/sDEg0lTuj2Z2X14yIquwAdv7KuL.png"
+            },
+            {
+              "name": "CuriosityStream Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/lD5GM2RVquDG85ybCswioL1MXHU.png"
+            }
+          ],
+          "rent_logos": [],
+          "buy_logos": [],
+          "source": "TMDb",
+          "checked": "2026-10-29"
         },
         "provenance": {
           "source": "Previously recommended in Media conversation",
           "recommendation_date": "2026-10-28",
           "user_feedback": "No viewing feedback recorded"
-        }
+        },
+        "tmdb_id": 65228,
+        "synopsis": "An animated comedy focusing on the downtrodden creatures native to Earth’s least-habitable environment: New York City. Whether it’s lovelorn rats, gender-questioning pigeons or aging bedbugs in the midst of a midlife crisis, the awkward small talk, moral ambiguity and existential woes of non-human urbanites prove startlingly similar to our own.",
+        "tmdb_rating": 6.4
       },
       {
         "title": "Rick and Morty",
         "year": 2013,
         "type": "TV",
         "group": "Earlier Recommendations",
-        "poster": "",
+        "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
         "short_summary": "A reckless genius and his grandson embark on absurd, often dangerous adventures.",
         "genres": [
           "Animation",
-          "Comedy"
+          "Comedy",
+          "Sci-Fi & Fantasy"
         ],
-        "runtime_minutes": 22,
-        "cast": [],
-        "imdb_id": "",
+        "runtime_minutes": null,
+        "cast": [
+          "Chris Parnell",
+          "Spencer Grammer",
+          "Sarah Chalke",
+          "Ian Cardoni"
+        ],
+        "imdb_id": null,
         "watch_us": {
-          "stream": [],
+          "stream": [
+            "Hulu",
+            "HBO Max Amazon Channel",
+            "YouTube TV",
+            "Adult Swim",
+            "HBO Max"
+          ],
           "rent": [],
-          "buy": []
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "Fandango At Home"
+          ],
+          "stream_logos": [
+            {
+              "name": "Hulu",
+              "logo": "https://image.tmdb.org/t/p/w92/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
+            },
+            {
+              "name": "HBO Max Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/64fLWeSyZ1KQZhIdvTdy4QHeWty.png"
+            },
+            {
+              "name": "YouTube TV",
+              "logo": "https://image.tmdb.org/t/p/w92/48bVXEIyCLSL9pZUQ7gB9ToyWto.png"
+            },
+            {
+              "name": "Adult Swim",
+              "logo": "https://image.tmdb.org/t/p/w92/lEboSJfLzmtWaoLsms0jYBxYqka.png"
+            },
+            {
+              "name": "HBO Max",
+              "logo": "https://image.tmdb.org/t/p/w92/skypuy7SXuugIQeYg0IglmzoKaS.png"
+            }
+          ],
+          "rent_logos": [],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-29"
         },
         "provenance": {
           "source": "Previously recommended in Media conversation",
           "recommendation_date": "2026-10-28",
           "user_feedback": "Previously raised as a tentative possibility; user was not initially drawn to it."
-        }
+        },
+        "tmdb_id": 60625,
+        "synopsis": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+        "tmdb_rating": 8.7
       },
       {
         "title": "Smiling Friends",
         "year": 2020,
         "type": "TV",
         "group": "Tried or On Hold",
-        "poster": "https://fr.web.img4.acsta.net/pictures/22/01/13/15/38/4066426.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/q3CSxl3G06MBc73TpHWwBYYTPxL.jpg",
         "short_summary": "Employees of a business dedicated to spreading happiness encounter bizarre people and situations.",
         "genres": [
           "Animation",
-          "Comedy"
+          "Comedy",
+          "Sci-Fi & Fantasy"
         ],
-        "runtime_minutes": 11,
-        "cast": [],
-        "imdb_id": "",
+        "runtime_minutes": null,
+        "cast": [
+          "Michael Cusack",
+          "Zach Hadel",
+          "Marc Moceri"
+        ],
+        "imdb_id": null,
         "watch_us": {
           "stream": [
+            "HBO Max Amazon Channel",
+            "Adult Swim",
             "HBO Max"
           ],
           "rent": [],
-          "buy": []
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "Fandango At Home"
+          ],
+          "stream_logos": [
+            {
+              "name": "HBO Max Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/64fLWeSyZ1KQZhIdvTdy4QHeWty.png"
+            },
+            {
+              "name": "Adult Swim",
+              "logo": "https://image.tmdb.org/t/p/w92/lEboSJfLzmtWaoLsms0jYBxYqka.png"
+            },
+            {
+              "name": "HBO Max",
+              "logo": "https://image.tmdb.org/t/p/w92/skypuy7SXuugIQeYg0IglmzoKaS.png"
+            }
+          ],
+          "rent_logos": [],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-29"
         },
         "provenance": {
           "source": "October 2026 recommendation shortlist",
           "recommendation_date": "2026-10-28",
           "user_feedback": "User watched and described it as 'kinda meh' on 2026-10-29."
-        }
+        },
+        "tmdb_id": 126506,
+        "synopsis": "Smiling Friends Inc. is a small company whose main purpose is to bring happiness and make people smile. The series follows the day-to-day lives and misadventures of its representatives, the lazy, cynical Charlie, and the cheerful, optimistic Pim, as they try to cheer up and comfort the troubled people who call their company's hotline. They receive seemingly simple requests but the jobs turn out to be more complicated than they seem, making it difficult to bring happiness to the world.",
+        "tmdb_rating": 8.5
       },
       {
         "title": "Sealab 2021",
         "year": 2000,
         "type": "TV",
         "group": "Tried or On Hold",
-        "poster": "",
+        "poster": "https://image.tmdb.org/t/p/w500/eA4JJfHZ6DdfPd3BCu5qWm99Fl5.jpg",
         "short_summary": "An incompetent crew runs an underwater research station.",
         "genres": [
           "Animation",
           "Comedy"
         ],
-        "runtime_minutes": 11,
-        "cast": [],
-        "imdb_id": "",
+        "runtime_minutes": 12,
+        "cast": [
+          "Erik Estrada",
+          "Kate Miller",
+          "Brett Butler",
+          "Ellis Henican"
+        ],
+        "imdb_id": null,
         "watch_us": {
-          "stream": [],
+          "stream": [
+            "YouTube TV",
+            "Adult Swim"
+          ],
           "rent": [],
-          "buy": []
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store"
+          ],
+          "stream_logos": [
+            {
+              "name": "YouTube TV",
+              "logo": "https://image.tmdb.org/t/p/w92/48bVXEIyCLSL9pZUQ7gB9ToyWto.png"
+            },
+            {
+              "name": "Adult Swim",
+              "logo": "https://image.tmdb.org/t/p/w92/lEboSJfLzmtWaoLsms0jYBxYqka.png"
+            }
+          ],
+          "rent_logos": [],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-29"
         },
         "provenance": {
           "source": "Previously recommended in Media conversation",
           "recommendation_date": "2026-10-28",
           "user_feedback": "User sampled one episode and did not find it funny."
-        }
+        },
+        "tmdb_id": 334,
+        "synopsis": "The year is 2021. Deep below the ocean's surface, looms a vast, magnificently high-tech compound: Sealab. A multi-national scientific station with an annual budget in the trillions, manned by a motley collection of malcontents and screw-ups who were unfit for work in the private sector. They really don't get any research done, but instead spend their time bickering among themselves or just plain goofing off. The crew have manipulated their luckless leader, Captain Murphy, into submission, and are content to ride the government clock, raking in fat, hazardous-duty paychecks.",
+        "tmdb_rating": 7.4
       },
       {
         "title": "Common Side Effects",
         "year": 2025,
         "type": "TV",
         "group": "Tried or On Hold",
-        "poster": "",
+        "poster": "https://image.tmdb.org/t/p/w500/a8X5XXP49DHrySTXJMUIN5HI1Wz.jpg",
         "short_summary": "Two former classmates discover an extraordinary biological secret that threatens powerful interests.",
         "genres": [
           "Animation",
+          "Drama",
           "Comedy"
         ],
-        "runtime_minutes": 22,
-        "cast": [],
-        "imdb_id": "",
+        "runtime_minutes": 23,
+        "cast": [
+          "Dave King",
+          "Emily Pendergast",
+          "Mike Judge",
+          "Martha Kelly"
+        ],
+        "imdb_id": null,
         "watch_us": {
-          "stream": [],
+          "stream": [
+            "HBO Max Amazon Channel",
+            "YouTube TV",
+            "Adult Swim",
+            "HBO Max"
+          ],
           "rent": [],
-          "buy": []
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "Fandango At Home"
+          ],
+          "stream_logos": [
+            {
+              "name": "HBO Max Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/64fLWeSyZ1KQZhIdvTdy4QHeWty.png"
+            },
+            {
+              "name": "YouTube TV",
+              "logo": "https://image.tmdb.org/t/p/w92/48bVXEIyCLSL9pZUQ7gB9ToyWto.png"
+            },
+            {
+              "name": "Adult Swim",
+              "logo": "https://image.tmdb.org/t/p/w92/lEboSJfLzmtWaoLsms0jYBxYqka.png"
+            },
+            {
+              "name": "HBO Max",
+              "logo": "https://image.tmdb.org/t/p/w92/skypuy7SXuugIQeYg0IglmzoKaS.png"
+            }
+          ],
+          "rent_logos": [],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-29"
         },
         "provenance": {
           "source": "Previously recommended in Media conversation",
           "recommendation_date": "2026-10-28",
           "user_feedback": "User had previously tried it, and it did not stick."
-        }
+        },
+        "tmdb_id": 228878,
+        "synopsis": "Former high school lab partners Marshall and Frances begin to unravel a conspiracy involving big pharma and the federal government to suppress knowledge of a rare mushroom that may hold the key to curing all the world’s diseases.",
+        "tmdb_rating": 8.5
       }
     ]
   }
