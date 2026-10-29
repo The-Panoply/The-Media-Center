@@ -35,33 +35,85 @@
         "year": 2004,
         "type": "TV",
         "group": "Top Picks",
-        "poster": "https://images.justwatch.com/poster/71839228/s718/battlestar-galactica.jpg",
-        "tmdb_id": null,
-        "imdb_id": "tt0407362",
+        "poster": "https://image.tmdb.org/t/p/w500/99PJSbcO2LeM10uOGWeFihNp77j.jpg",
+        "tmdb_id": 1972,
+        "imdb_id": null,
         "short_summary": "After an attack by humanity's robotic creations, a battered fleet battles for survival while its military and political leaders struggle to hold society together.",
-        "synopsis": "After an attack by humanity's robotic creations, a battered fleet battles for survival while its military and political leaders struggle to hold society together.",
+        "synopsis": "When an old enemy, the Cylons, resurface and obliterate the 12 colonies, the crew of the aged Galactica protect a small civilian fleet - the last of humanity - as they journey toward the fabled 13th colony, Earth.",
         "genres": [
           "Sci-Fi & Fantasy",
-          "Drama",
-          "Action"
+          "Action & Adventure",
+          "Drama"
         ],
-        "runtime_minutes": 45,
+        "runtime_minutes": 44,
         "cast": [
           "Edward James Olmos",
           "Mary McDonnell",
-          "Katee Sackhoff",
-          "James Callis"
+          "Jamie Bamber",
+          "Katee Sackhoff"
         ],
-        "tmdb_rating": null,
+        "tmdb_rating": 8.2,
         "imdb_rating": null,
         "rotten_tomatoes_score": null,
         "metacritic_score": null,
         "watch_us": {
-          "stream": [],
+          "stream": [
+            "Paramount Plus Premium",
+            "Paramount Plus Essential",
+            "Paramount Plus Apple TV channel",
+            "Paramount+ Amazon Channel",
+            "Paramount+ Roku Premium Channel"
+          ],
           "rent": [],
-          "buy": [],
-          "source": "Not verified",
-          "checked": null
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "Fandango At Home"
+          ],
+          "stream_logos": [
+            {
+              "name": "Paramount Plus Premium",
+              "logo": "https://image.tmdb.org/t/p/w92/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
+            },
+            {
+              "name": "Paramount Plus Essential",
+              "logo": "https://image.tmdb.org/t/p/w92/uPWQPyF4nqwtfPNmGcFcenU57HG.png"
+            },
+            {
+              "name": "Paramount Plus Apple TV channel",
+              "logo": "https://image.tmdb.org/t/p/w92/xu4LyKTwasTbta1Z0qWtZG48yZ3.png"
+            },
+            {
+              "name": "Paramount+ Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png"
+            },
+            {
+              "name": "Paramount+ Roku Premium Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/tnZCMxbcKdxuVmjxefyXCaip7q3.png"
+            }
+          ],
+          "rent_logos": [],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-29"
         },
         "provenance": {
           "source": "User-selected Apple TV screenshots",
@@ -206,34 +258,46 @@
         "year": 2021,
         "type": "TV",
         "group": "Top Picks",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNjBjZjZjNWMtMTJhZi00OTZkLTkyZWQtNGVmOTE5ZmY3ODJhXkEyXkFqcGc%40._V1_.jpg",
-        "tmdb_id": null,
-        "imdb_id": "tt10574236",
+        "poster": "https://image.tmdb.org/t/p/w500/xWlhMOzRxUpu4uzkWcDQOaESCE.jpg",
+        "tmdb_id": 90972,
+        "imdb_id": null,
         "short_summary": "Survivors of a devastating pandemic rebuild their lives and culture across intertwined timelines.",
-        "synopsis": "Survivors of a devastating pandemic rebuild their lives and culture across intertwined timelines.",
+        "synopsis": "The survivors of a devastating flu attempt to rebuild and reimagine the world anew – while holding on to the best of what’s been lost.",
         "genres": [
-          "Science Fiction",
           "Drama",
-          "Post-Apocalyptic"
+          "Mystery"
         ],
-        "runtime_minutes": 51,
+        "runtime_minutes": 46,
         "cast": [
           "Mackenzie Davis",
           "Himesh Patel",
           "Matilda Lawler",
           "David Wilmot"
         ],
-        "tmdb_rating": null,
+        "tmdb_rating": 7.0,
         "imdb_rating": null,
         "rotten_tomatoes_score": null,
         "metacritic_score": null,
         "watch_us": {
           "stream": [
+            "HBO Max Amazon Channel",
             "HBO Max"
           ],
           "rent": [],
           "buy": [],
-          "source": "Confirmed source recorded in evidence field",
+          "stream_logos": [
+            {
+              "name": "HBO Max Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/64fLWeSyZ1KQZhIdvTdy4QHeWty.png"
+            },
+            {
+              "name": "HBO Max",
+              "logo": "https://image.tmdb.org/t/p/w92/skypuy7SXuugIQeYg0IglmzoKaS.png"
+            }
+          ],
+          "rent_logos": [],
+          "buy_logos": [],
+          "source": "TMDb",
           "checked": "2026-10-29"
         },
         "provenance": {
@@ -691,33 +755,101 @@
         "year": 2026,
         "type": "Movie",
         "group": "Top Picks",
-        "poster": "https://prod3.agileticketing.net/images/user/fsc_2553/disclosure-day-teaser-poster-emily-1080x1600.jpg",
-        "tmdb_id": null,
-        "imdb_id": null,
+        "poster": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+        "tmdb_id": 1275779,
+        "imdb_id": "tt15047880",
         "short_summary": "The revelation of nonhuman intelligence forces people around the world to confront the extraordinary truth.",
-        "synopsis": "The revelation of nonhuman intelligence forces people around the world to confront the extraordinary truth.",
+        "synopsis": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
         "genres": [
           "Science Fiction",
-          "Thriller",
-          "Drama"
+          "Thriller"
         ],
-        "runtime_minutes": 145,
+        "runtime_minutes": 146,
         "cast": [
           "Emily Blunt",
           "Josh O'Connor",
           "Colin Firth",
           "Eve Hewson"
         ],
-        "tmdb_rating": null,
+        "tmdb_rating": 7.4,
         "imdb_rating": null,
         "rotten_tomatoes_score": 79,
         "metacritic_score": null,
         "watch_us": {
-          "stream": [],
-          "rent": [],
-          "buy": [],
-          "source": "Not verified",
-          "checked": null
+          "stream": [
+            "Peacock Premium",
+            "Peacock Premium Plus"
+          ],
+          "rent": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "stream_logos": [
+            {
+              "name": "Peacock Premium",
+              "logo": "https://image.tmdb.org/t/p/w92/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png"
+            },
+            {
+              "name": "Peacock Premium Plus",
+              "logo": "https://image.tmdb.org/t/p/w92/yrEwyMzEKdqAoGhaWUARtIxByol.png"
+            }
+          ],
+          "rent_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-29"
         },
         "provenance": {
           "source": "User-selected Apple TV screenshots",
@@ -997,11 +1129,11 @@
         "year": 2026,
         "type": "Movie",
         "group": "Top Picks",
-        "poster": "https://dx35vtwkllhj9.cloudfront.net/briarcliffentertainment/good-luck-have-fun-dont-die/images/regions/us/updates2/onesheet.jpg",
-        "tmdb_id": null,
-        "imdb_id": null,
+        "poster": "https://image.tmdb.org/t/p/w500/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
+        "tmdb_id": 1119449,
+        "imdb_id": "tt1341338",
         "short_summary": "A man claiming to be from the future recruits unlikely diner patrons to stop a rogue AI from destroying the world.",
-        "synopsis": "A man claiming to be from the future recruits unlikely diner patrons to stop a rogue AI from destroying the world.",
+        "synopsis": "A 'Man from the Future' arrives at an LA diner where he must recruit the precise combination of disgruntled patrons to join him on a one-night quest to save the world from the terminal threat of a rogue artificial intelligence.",
         "genres": [
           "Science Fiction",
           "Action",
@@ -1010,20 +1142,84 @@
         "runtime_minutes": 134,
         "cast": [
           "Sam Rockwell",
-          "Haley Lu Richardson",
           "Juno Temple",
+          "Haley Lu Richardson",
           "Michael Peña"
         ],
-        "tmdb_rating": null,
+        "tmdb_rating": 7.1,
         "imdb_rating": null,
         "rotten_tomatoes_score": 82,
         "metacritic_score": null,
         "watch_us": {
-          "stream": [],
-          "rent": [],
-          "buy": [],
-          "source": "Not verified",
-          "checked": null
+          "stream": [
+            "Hulu"
+          ],
+          "rent": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "stream_logos": [
+            {
+              "name": "Hulu",
+              "logo": "https://image.tmdb.org/t/p/w92/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
+            }
+          ],
+          "rent_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-29"
         },
         "provenance": {
           "source": "User-selected Apple TV screenshots",
@@ -1720,14 +1916,14 @@
         "year": 2019,
         "type": "Movie",
         "group": "Strong Prospects",
-        "poster": "https://d-tv.ppstatic.pl/images/tv-tv/59/2d/prg55136706_831508441_large.jpg",
-        "tmdb_id": null,
-        "imdb_id": null,
+        "poster": "https://image.tmdb.org/t/p/w500/xRWht48C2V8XNfzvPehyClOvDni.jpg",
+        "tmdb_id": 399579,
+        "imdb_id": "tt0437086",
         "short_summary": "A discarded cyborg awakens with no memory and uncovers exceptional abilities in a ruthless futuristic city.",
-        "synopsis": "A discarded cyborg awakens with no memory and uncovers exceptional abilities in a ruthless futuristic city.",
+        "synopsis": "When Alita awakens with no memory of who she is in a future world she does not recognize, she is taken in by Ido, a compassionate doctor who realizes that somewhere in this abandoned cyborg shell is the heart and soul of a young woman with an extraordinary past.",
         "genres": [
-          "Science Fiction",
           "Action",
+          "Science Fiction",
           "Adventure"
         ],
         "runtime_minutes": 122,
@@ -1737,16 +1933,90 @@
           "Jennifer Connelly",
           "Mahershala Ali"
         ],
-        "tmdb_rating": null,
+        "tmdb_rating": 7.3,
         "imdb_rating": null,
         "rotten_tomatoes_score": null,
         "metacritic_score": null,
         "watch_us": {
-          "stream": [],
-          "rent": [],
-          "buy": [],
-          "source": "Not verified",
-          "checked": null
+          "stream": [
+            "fuboTV",
+            "YouTube TV",
+            "FXNow"
+          ],
+          "rent": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "stream_logos": [
+            {
+              "name": "fuboTV",
+              "logo": "https://image.tmdb.org/t/p/w92/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
+            },
+            {
+              "name": "YouTube TV",
+              "logo": "https://image.tmdb.org/t/p/w92/48bVXEIyCLSL9pZUQ7gB9ToyWto.png"
+            },
+            {
+              "name": "FXNow",
+              "logo": "https://image.tmdb.org/t/p/w92/a7ZF6Ng3d6KDMylLUMH1OjAeTqW.png"
+            }
+          ],
+          "rent_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-29"
         },
         "provenance": {
           "source": "User-selected Apple TV screenshots",
@@ -1895,33 +2165,112 @@
         "year": 2026,
         "type": "Movie",
         "group": "Strong Prospects",
-        "poster": "https://images.squarespace-cdn.com/content/v1/60d93ff47168967b5f3ce2bb/1767978459844-3REHP9FPEWR4SE493WEE/greenland-2-migration-GRNLND2_2025x3000_ONLINE_1SHT_TSR_V3_rgb.jpg",
-        "tmdb_id": null,
-        "imdb_id": null,
+        "poster": "https://image.tmdb.org/t/p/w500/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
+        "tmdb_id": 840464,
+        "imdb_id": "tt14850054",
         "short_summary": "The Garrity family leaves its bunker and crosses a shattered Europe to find a new home after a global catastrophe.",
-        "synopsis": "The Garrity family leaves its bunker and crosses a shattered Europe to find a new home after a global catastrophe.",
+        "synopsis": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a perilous journey across the wasteland of Europe to find a new home.",
         "genres": [
-          "Science Fiction",
           "Adventure",
-          "Thriller"
+          "Thriller",
+          "Science Fiction"
         ],
         "runtime_minutes": 98,
         "cast": [
           "Gerard Butler",
           "Morena Baccarin",
           "Roman Griffin Davis",
-          "Amber Rose Revah"
+          "Tommie Earl Jenkins"
         ],
-        "tmdb_rating": null,
+        "tmdb_rating": 6.4,
         "imdb_rating": null,
         "rotten_tomatoes_score": 48,
         "metacritic_score": null,
         "watch_us": {
-          "stream": [],
-          "rent": [],
-          "buy": [],
-          "source": "Not verified",
-          "checked": null
+          "stream": [
+            "HBO Max Amazon Channel",
+            "HBO Max"
+          ],
+          "rent": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home",
+            "FlixFling",
+            "Plex"
+          ],
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "stream_logos": [
+            {
+              "name": "HBO Max Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/64fLWeSyZ1KQZhIdvTdy4QHeWty.png"
+            },
+            {
+              "name": "HBO Max",
+              "logo": "https://image.tmdb.org/t/p/w92/skypuy7SXuugIQeYg0IglmzoKaS.png"
+            }
+          ],
+          "rent_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            },
+            {
+              "name": "FlixFling",
+              "logo": "https://image.tmdb.org/t/p/w92/hkw2s2Su8EyifB9EbbQP64Fj1xA.png"
+            },
+            {
+              "name": "Plex",
+              "logo": "https://image.tmdb.org/t/p/w92/blAEhvx3XX8sV0fFVFk88FFjubs.png"
+            }
+          ],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-29"
         },
         "provenance": {
           "source": "User-selected Apple TV screenshots",
@@ -2058,34 +2407,47 @@
         "year": 2024,
         "type": "TV",
         "group": "Strong Prospects",
-        "poster": "https://tr.web.img4.acsta.net/pictures/24/01/22/16/35/1143365.jpg",
-        "tmdb_id": null,
+        "poster": "https://image.tmdb.org/t/p/w500/21ICs3fxlxGslbzS4moCHk9HNo6.jpg",
+        "tmdb_id": 197125,
         "imdb_id": null,
         "short_summary": "After surviving a catastrophe in orbit, an astronaut returns home to a reality that no longer matches her memories.",
-        "synopsis": "After surviving a catastrophe in orbit, an astronaut returns home to a reality that no longer matches her memories.",
+        "synopsis": "When a fatal accident occurs on board the International Space Station, a lone astronaut makes the heroic journey back to Earth, only to discover key pieces of her life—including her young daughter—have changed.",
         "genres": [
-          "Science Fiction",
+          "Sci-Fi & Fantasy",
           "Mystery",
           "Drama"
         ],
-        "runtime_minutes": 53,
+        "runtime_minutes": null,
         "cast": [
           "Noomi Rapace",
           "Jonathan Banks",
           "James D'Arcy",
-          "Julian Looman"
+          "Rosie Coleman"
         ],
-        "tmdb_rating": null,
+        "tmdb_rating": 7.0,
         "imdb_rating": null,
         "rotten_tomatoes_score": null,
         "metacritic_score": null,
         "watch_us": {
           "stream": [
-            "Apple TV"
+            "Apple TV",
+            "Apple TV Amazon Channel"
           ],
           "rent": [],
           "buy": [],
-          "source": "Confirmed source recorded in evidence field",
+          "stream_logos": [
+            {
+              "name": "Apple TV",
+              "logo": "https://image.tmdb.org/t/p/w92/9icYBfYFcwgCbky5VdGUIKJ4C5i.png"
+            },
+            {
+              "name": "Apple TV Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/rerVCu9auZrgxTTiZu1criqrQzg.png"
+            }
+          ],
+          "rent_logos": [],
+          "buy_logos": [],
+          "source": "TMDb",
           "checked": "2026-10-29"
         },
         "provenance": {
@@ -2254,32 +2616,47 @@
         "year": 2020,
         "type": "TV",
         "group": "Strong Prospects",
-        "poster": "https://cdn.thecollector.com/wp-content/uploads/2023/12/brave-new-world-1.jpg?quality=55&width=800",
-        "tmdb_id": null,
+        "poster": "https://image.tmdb.org/t/p/w500/vPl7hAY0vt0OPhIflRb5IXrssBv.jpg",
+        "tmdb_id": 93289,
         "imdb_id": null,
         "short_summary": "In a seemingly perfect society built on social control and engineered happiness, outsiders expose what its citizens sacrifice.",
-        "synopsis": "In a seemingly perfect society built on social control and engineered happiness, outsiders expose what its citizens sacrifice.",
+        "synopsis": "In a utopia whose perfection hinges upon control of monogamy and privacy, members of the collective begin to question the rules, putting their regimented society on a collision course with forbidden love and revolution.",
         "genres": [
-          "Science Fiction",
-          "Drama",
-          "Dystopian"
+          "Sci-Fi & Fantasy",
+          "Drama"
         ],
-        "runtime_minutes": 50,
+        "runtime_minutes": null,
         "cast": [
           "Alden Ehrenreich",
           "Jessica Brown Findlay",
-          "Harry Lloyd"
+          "Harry Lloyd",
+          "Kylie Bunbury"
         ],
-        "tmdb_rating": null,
+        "tmdb_rating": 6.6,
         "imdb_rating": null,
         "rotten_tomatoes_score": null,
         "metacritic_score": null,
         "watch_us": {
-          "stream": [],
+          "stream": [
+            "Peacock Premium",
+            "Peacock Premium Plus"
+          ],
           "rent": [],
           "buy": [],
-          "source": "Not verified",
-          "checked": null
+          "stream_logos": [
+            {
+              "name": "Peacock Premium",
+              "logo": "https://image.tmdb.org/t/p/w92/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png"
+            },
+            {
+              "name": "Peacock Premium Plus",
+              "logo": "https://image.tmdb.org/t/p/w92/yrEwyMzEKdqAoGhaWUARtIxByol.png"
+            }
+          ],
+          "rent_logos": [],
+          "buy_logos": [],
+          "source": "TMDb",
+          "checked": "2026-10-29"
         },
         "provenance": {
           "source": "User-selected Apple TV screenshots",
@@ -2842,33 +3219,52 @@
         "year": 2017,
         "type": "TV",
         "group": "Strong Prospects",
-        "poster": "https://m.media-amazon.com/images/M/MV5BOTk1ODBiYzktZjg5Zi00OTk4LTgxNWQtYzFhYzQzZDAwOTk2XkEyXkFqcGc%40._V1_.jpg",
-        "tmdb_id": null,
-        "imdb_id": "tt5711280",
+        "poster": "https://image.tmdb.org/t/p/w500/tyaNrGepu4HbkjLFkK6vgua1vgn.jpg",
+        "tmdb_id": 70391,
+        "imdb_id": null,
         "short_summary": "A ten-episode anthology adapts Philip K. Dick's stories about technology, identities, and being human.",
-        "synopsis": "A ten-episode anthology adapts Philip K. Dick's stories about technology, identities, and being human.",
+        "synopsis": "A diverse anthology of ambitious, moving tales inspired by Philip K Dick's short stories.",
         "genres": [
-          "Science Fiction",
-          "Drama",
-          "Anthology"
+          "Sci-Fi & Fantasy",
+          "Drama"
         ],
-        "runtime_minutes": 48,
+        "runtime_minutes": null,
         "cast": [
           "Steve Buscemi",
           "Bryan Cranston",
           "Geraldine Chaplin",
           "Terrence Howard"
         ],
-        "tmdb_rating": null,
+        "tmdb_rating": 7.0,
         "imdb_rating": null,
         "rotten_tomatoes_score": null,
         "metacritic_score": null,
         "watch_us": {
           "stream": [],
           "rent": [],
-          "buy": [],
-          "source": "Not verified",
-          "checked": null
+          "buy": [
+            "Apple TV Store",
+            "Google Play Movies",
+            "Fandango At Home"
+          ],
+          "stream_logos": [],
+          "rent_logos": [],
+          "buy_logos": [
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-29"
         },
         "provenance": {
           "source": "User-selected Apple TV screenshots",
@@ -2976,34 +3372,107 @@
         "year": 2022,
         "type": "Movie",
         "group": "Strong Prospects",
-        "poster": "https://images.squarespace-cdn.com/content/v1/51c8b108e4b050e44c477323/caf391fd-16bd-4bf5-b1a3-8c05599ab36d/Everything%2BEverywhere%2BAll%2BAt%2BOnce%2BPoster%2B01.jpg",
-        "tmdb_id": null,
-        "imdb_id": null,
+        "poster": "https://image.tmdb.org/t/p/w500/u68AjlvlutfEIcpmbYpKcdi09ut.jpg",
+        "tmdb_id": 545611,
+        "imdb_id": "tt6710474",
         "short_summary": "An overwhelmed woman gains access to parallel lives and must navigate a chaotic multiverse to save her family.",
-        "synopsis": "An overwhelmed woman gains access to parallel lives and must navigate a chaotic multiverse to save her family.",
+        "synopsis": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes.",
         "genres": [
-          "Science Fiction",
           "Action",
-          "Comedy",
-          "Drama"
+          "Adventure",
+          "Science Fiction"
         ],
-        "runtime_minutes": 139,
+        "runtime_minutes": 140,
         "cast": [
           "Michelle Yeoh",
           "Stephanie Hsu",
           "Ke Huy Quan",
-          "Jamie Lee Curtis"
+          "James Hong"
         ],
-        "tmdb_rating": null,
+        "tmdb_rating": 7.7,
         "imdb_rating": null,
         "rotten_tomatoes_score": null,
         "metacritic_score": null,
         "watch_us": {
-          "stream": [],
-          "rent": [],
-          "buy": [],
-          "source": "Not verified",
-          "checked": null
+          "stream": [
+            "Hulu"
+          ],
+          "rent": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home",
+            "Spectrum On Demand",
+            "Plex"
+          ],
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "stream_logos": [
+            {
+              "name": "Hulu",
+              "logo": "https://image.tmdb.org/t/p/w92/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
+            }
+          ],
+          "rent_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            },
+            {
+              "name": "Spectrum On Demand",
+              "logo": "https://image.tmdb.org/t/p/w92/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png"
+            },
+            {
+              "name": "Plex",
+              "logo": "https://image.tmdb.org/t/p/w92/blAEhvx3XX8sV0fFVFk88FFjubs.png"
+            }
+          ],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-29"
         },
         "provenance": {
           "source": "User-selected Apple TV screenshots",
@@ -3989,30 +4458,96 @@
         "year": 2024,
         "type": "Movie",
         "group": "More Selective",
-        "poster": "https://www.impawards.com/2024/posters/twenty_seventy_three_ver2_xxlg.jpg",
-        "tmdb_id": null,
-        "imdb_id": null,
+        "poster": "https://image.tmdb.org/t/p/w500/l67ir3kU53FYd6Vjwhqrkih1H1P.jpg",
+        "tmdb_id": 1023915,
+        "imdb_id": "tt22042346",
         "short_summary": "A hybrid documentary and dystopian fictional story imagines a world of extreme surveillance and societal decay.",
-        "synopsis": "A hybrid documentary and dystopian fictional story imagines a world of extreme surveillance and societal decay.",
+        "synopsis": "Inspired by Chris Marker's iconic 1962 featurette La Jetée; the year is 2073—a not-so-distant dystopian future—and the setting is New San Francisco, the scorched-earth tech-dominant police state where democracy and personal freedom have been well and truly obliterated.",
         "genres": [
+          "Thriller",
           "Science Fiction",
-          "Documentary",
-          "Dystopian"
+          "Drama"
         ],
         "runtime_minutes": 83,
         "cast": [
-          "Samantha Morton"
+          "Samantha Morton",
+          "Naomi Ackie",
+          "Hector Hewer"
         ],
-        "tmdb_rating": null,
+        "tmdb_rating": 6.7,
         "imdb_rating": null,
         "rotten_tomatoes_score": null,
         "metacritic_score": null,
         "watch_us": {
-          "stream": [],
-          "rent": [],
-          "buy": [],
-          "source": "Not verified",
-          "checked": null
+          "stream": [
+            "HBO Max Amazon Channel"
+          ],
+          "rent": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "stream_logos": [
+            {
+              "name": "HBO Max Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/64fLWeSyZ1KQZhIdvTdy4QHeWty.png"
+            }
+          ],
+          "rent_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-29"
         },
         "provenance": {
           "source": "User-selected Apple TV screenshots",
@@ -4113,33 +4648,107 @@
         "year": 2026,
         "type": "Movie",
         "group": "More Selective",
-        "poster": "https://s.yimg.com/ny/api/res/1.2/wyD5vfMFCSlcJnmHMsoqeA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0zNTU2O2NmPXdlYnA-/https%3A/media.zenfs.com/en/gold_derby_993/ad9e9f1cf900d203c1348a8e9617bf74",
-        "tmdb_id": null,
-        "imdb_id": null,
+        "poster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+        "tmdb_id": 1083381,
+        "imdb_id": "tt26657236",
         "short_summary": "A mysterious door in a furniture showroom opens into an endless labyrinth of unnerving interconnected rooms.",
-        "synopsis": "A mysterious door in a furniture showroom opens into an endless labyrinth of unnerving interconnected rooms.",
+        "synopsis": "A strange doorway appears in the basement of a furniture showroom.",
         "genres": [
-          "Science Fiction",
           "Horror",
-          "Mystery"
+          "Mystery",
+          "Science Fiction"
         ],
-        "runtime_minutes": 110,
+        "runtime_minutes": 111,
         "cast": [
-          "Renate Reinsve",
           "Chiwetel Ejiofor",
-          "Mark Duplass",
+          "Renate Reinsve",
+          "Finn Bennett",
           "Lukita Maxwell"
         ],
-        "tmdb_rating": null,
+        "tmdb_rating": 7.0,
         "imdb_rating": null,
         "rotten_tomatoes_score": null,
         "metacritic_score": null,
         "watch_us": {
-          "stream": [],
-          "rent": [],
-          "buy": [],
-          "source": "Not verified",
-          "checked": null
+          "stream": [
+            "HBO Max Amazon Channel",
+            "HBO Max"
+          ],
+          "rent": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home",
+            "Plex"
+          ],
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "stream_logos": [
+            {
+              "name": "HBO Max Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/64fLWeSyZ1KQZhIdvTdy4QHeWty.png"
+            },
+            {
+              "name": "HBO Max",
+              "logo": "https://image.tmdb.org/t/p/w92/skypuy7SXuugIQeYg0IglmzoKaS.png"
+            }
+          ],
+          "rent_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            },
+            {
+              "name": "Plex",
+              "logo": "https://image.tmdb.org/t/p/w92/blAEhvx3XX8sV0fFVFk88FFjubs.png"
+            }
+          ],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-29"
         },
         "provenance": {
           "source": "User-selected Apple TV screenshots",
@@ -4438,33 +5047,46 @@
         "year": 2021,
         "type": "TV",
         "group": "More Selective",
-        "poster": "https://m.media-amazon.com/images/M/MV5BYTA3MzI4MDItMDAxOC00MWNhLWFhZjUtODU4N2ZjNzkwOGZkXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg",
-        "tmdb_id": null,
+        "poster": "https://image.tmdb.org/t/p/w500/1PdNB3rYTcf8VXc8rcmZ0SeYxSq.jpg",
+        "tmdb_id": 127235,
         "imdb_id": null,
         "short_summary": "An alien invasion unfolds through the experiences of ordinary people scattered across the world.",
-        "synopsis": "An alien invasion unfolds through the experiences of ordinary people scattered across the world.",
+        "synopsis": "Earth is visited by an alien species that threatens humanity's existence. Events unfold in real time through the eyes of five ordinary people across the globe as they struggle to make sense of the chaos unraveling around them.",
         "genres": [
-          "Science Fiction",
+          "Sci-Fi & Fantasy",
           "Drama"
         ],
-        "runtime_minutes": 55,
+        "runtime_minutes": null,
         "cast": [
           "Golshifteh Farahani",
-          "Shamier Anderson",
           "Shioli Kutsuna",
-          "Sam Neill"
+          "Shamier Anderson",
+          "India Brown"
         ],
-        "tmdb_rating": null,
+        "tmdb_rating": 7.1,
         "imdb_rating": null,
         "rotten_tomatoes_score": null,
         "metacritic_score": null,
         "watch_us": {
           "stream": [
-            "Apple TV"
+            "Apple TV",
+            "Apple TV Amazon Channel"
           ],
           "rent": [],
           "buy": [],
-          "source": "Confirmed source recorded in evidence field",
+          "stream_logos": [
+            {
+              "name": "Apple TV",
+              "logo": "https://image.tmdb.org/t/p/w92/9icYBfYFcwgCbky5VdGUIKJ4C5i.png"
+            },
+            {
+              "name": "Apple TV Amazon Channel",
+              "logo": "https://image.tmdb.org/t/p/w92/rerVCu9auZrgxTTiZu1criqrQzg.png"
+            }
+          ],
+          "rent_logos": [],
+          "buy_logos": [],
+          "source": "TMDb",
           "checked": "2026-10-29"
         },
         "provenance": {
@@ -5905,33 +6527,112 @@
         "year": 2023,
         "type": "Movie",
         "group": "Political & Historical Drama",
-        "poster": "https://alumni.cornell.edu/cornellians/wp-content/uploads/sites/2/2024/02/oppenheimer-poster-A-691x1024.jpg",
-        "tmdb_id": null,
+        "poster": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+        "tmdb_id": 872585,
         "imdb_id": "tt15398776",
         "short_summary": "The physicist leading the Manhattan Project confronts scientific ambition, political pressure, and the consequences of creating the atomic bomb.",
-        "synopsis": "The physicist leading the Manhattan Project confronts scientific ambition, political pressure, and the consequences of creating the atomic bomb.",
+        "synopsis": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
         "genres": [
-          "History",
           "Drama",
-          "Biography"
+          "History",
+          "War"
         ],
-        "runtime_minutes": 180,
+        "runtime_minutes": 181,
         "cast": [
           "Cillian Murphy",
           "Emily Blunt",
-          "Robert Downey Jr.",
-          "Matt Damon"
+          "Matt Damon",
+          "Robert Downey Jr."
         ],
-        "tmdb_rating": null,
+        "tmdb_rating": 8.0,
         "imdb_rating": null,
         "rotten_tomatoes_score": 93,
         "metacritic_score": null,
         "watch_us": {
-          "stream": [],
-          "rent": [],
-          "buy": [],
-          "source": "Not verified",
-          "checked": null
+          "stream": [
+            "Peacock Premium",
+            "YouTube TV",
+            "Peacock Premium Plus"
+          ],
+          "rent": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home",
+            "Spectrum On Demand"
+          ],
+          "buy": [
+            "Amazon Video",
+            "Apple TV Store",
+            "Google Play Movies",
+            "YouTube",
+            "Fandango At Home"
+          ],
+          "stream_logos": [
+            {
+              "name": "Peacock Premium",
+              "logo": "https://image.tmdb.org/t/p/w92/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png"
+            },
+            {
+              "name": "YouTube TV",
+              "logo": "https://image.tmdb.org/t/p/w92/48bVXEIyCLSL9pZUQ7gB9ToyWto.png"
+            },
+            {
+              "name": "Peacock Premium Plus",
+              "logo": "https://image.tmdb.org/t/p/w92/yrEwyMzEKdqAoGhaWUARtIxByol.png"
+            }
+          ],
+          "rent_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            },
+            {
+              "name": "Spectrum On Demand",
+              "logo": "https://image.tmdb.org/t/p/w92/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png"
+            }
+          ],
+          "buy_logos": [
+            {
+              "name": "Amazon Video",
+              "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "https://image.tmdb.org/t/p/w92/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "https://image.tmdb.org/t/p/w92/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
+          "source": "TMDb",
+          "checked": "2026-10-29"
         },
         "provenance": {
           "source": "User-selected Apple TV screenshots",
