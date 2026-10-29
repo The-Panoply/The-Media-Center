@@ -45,36 +45,42 @@
         "year": 2022,
         "type": "TV",
         "group": "Top Picks",
-        "poster": "https://www.impawards.com/tv/posters/andor_ver9_xlg.jpg",
-        "tmdb_id": null,
-        "imdb_id": "tt9253284",
+        "poster": "https://image.tmdb.org/t/p/w500/khZqmwHQicTYoS7Flreb9EddFZC.jpg",
+        "tmdb_id": 83867,
+        "imdb_id": null,
         "short_summary": "An ordinary man becomes entangled in a growing rebellion against an authoritarian empire, navigating intelligence operations, political intrigue, and dangerous competing loyalties.",
-        "synopsis": "A grounded science-fiction political thriller about Cassian Andor, the early formation of a rebellion, covert operations, surveillance, ambition, and the people who risk everything to oppose an authoritarian government.",
+        "synopsis": "In an era filled with danger, deception and intrigue, Cassian Andor will discover the difference he can make in the struggle against the tyrannical Galactic Empire. He embarks on a path that is destined to turn him into a rebel hero.",
         "genres": [
           "Sci-Fi & Fantasy",
-          "Drama",
-          "Thriller",
-          "Political Thriller"
+          "Action & Adventure",
+          "Drama"
         ],
-        "runtime_minutes": 50,
+        "runtime_minutes": null,
         "cast": [
           "Diego Luna",
-          "Stellan Skarsgård",
-          "Genevieve O'Reilly",
-          "Denise Gough",
-          "Kyle Soller"
+          "Anton Lesser",
+          "Muhannad Bhaier",
+          "Stellan Skarsgård"
         ],
-        "tmdb_rating": null,
+        "tmdb_rating": 8.3,
         "imdb_rating": 8.6,
         "rotten_tomatoes_score": null,
         "metacritic_score": null,
         "watch_us": {
           "stream": [
-            "Disney+"
+            "Disney Plus"
           ],
           "rent": [],
           "buy": [],
-          "source": "Lucasfilm and Rotten Tomatoes official availability",
+          "stream_logos": [
+            {
+              "name": "Disney Plus",
+              "logo": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png"
+            }
+          ],
+          "rent_logos": [],
+          "buy_logos": [],
+          "source": "TMDb",
           "checked": "2026-10-29"
         },
         "provenance": {
