@@ -26,10 +26,84 @@
       "beyond_scifi_added": 2,
       "animation_added": 0,
       "notes": "Apple TV screenshot labels are preserved as seen, not inferred user viewing status. No Apple TV changes were made. Existing list provenance and prior titles retained. New entries have verified source summaries but some public ratings/streaming fields remain unavailable; these are not imputed."
+    },
+    "andor_supplementary_addition": {
+      "title": "Andor",
+      "added_on": "2026-10-29",
+      "added_to": "scifi",
+      "rank": 1,
+      "prior_watchlist_status": "Not shown; earlier private hesitation based on Star Wars branding",
+      "added_by": "Assistant independent research with user explicit authorization",
+      "user_consent": "Go ahead and put Andor where you think; challenge preconceptions where evidence justifies it",
+      "disclaimer": "Not from the Apple TV screenshot import; subject to broader supplementary ranking audit."
     }
   },
   "lists": {
     "scifi": [
+      {
+        "title": "Andor",
+        "year": 2022,
+        "type": "TV",
+        "group": "Top Picks",
+        "poster": "https://www.impawards.com/tv/posters/andor_ver9_xlg.jpg",
+        "tmdb_id": null,
+        "imdb_id": "tt9253284",
+        "short_summary": "An ordinary man becomes entangled in a growing rebellion against an authoritarian empire, navigating intelligence operations, political intrigue, and dangerous competing loyalties.",
+        "synopsis": "A grounded science-fiction political thriller about Cassian Andor, the early formation of a rebellion, covert operations, surveillance, ambition, and the people who risk everything to oppose an authoritarian government.",
+        "genres": [
+          "Sci-Fi & Fantasy",
+          "Drama",
+          "Thriller",
+          "Political Thriller"
+        ],
+        "runtime_minutes": 50,
+        "cast": [
+          "Diego Luna",
+          "Stellan Skarsgård",
+          "Genevieve O'Reilly",
+          "Denise Gough",
+          "Kyle Soller"
+        ],
+        "tmdb_rating": null,
+        "imdb_rating": 8.6,
+        "rotten_tomatoes_score": null,
+        "metacritic_score": null,
+        "watch_us": {
+          "stream": [
+            "Disney+"
+          ],
+          "rent": [],
+          "buy": [],
+          "source": "Lucasfilm and Rotten Tomatoes official availability",
+          "checked": "2026-10-29"
+        },
+        "provenance": {
+          "source": "Independent supplementary Media Center research",
+          "research_date": "2026-10-29",
+          "origin": "Supplementary discovery search prompted by user's request for stronger, comprehensive and independent recommendations",
+          "user_explicitly_authorized_inclusion": true,
+          "user_previous_status": "Previously marked possibly not interested due to Star Wars association, never rejected",
+          "user_latest_feedback": "Open to recommendation and specifically encourages challenging Star Wars preconceptions when evidence is strong",
+          "added_on": "2026-10-29",
+          "viewed_status": "Not confirmed watched",
+          "not_from_apple_tv": true
+        },
+        "editorial": {
+          "rank": 1,
+          "tier": "Top Picks",
+          "ranked_at": "2026-10-29",
+          "basis": "Strong intersection of user ratings House of Cards 9, Rubicon 9, Silo 9, Expanse 8, and favorite character archetypes. Deliberate independent judgment based on political espionage, institutional conflict, morally complex characters and grounded sci-fi, not Star Wars brand or public acclaim alone.",
+          "reservation": "First three episodes are a slower setup. Connection to Rogue One adds context; no franchise preparation necessary.",
+          "source_neutral": true,
+          "status": "Working top pick pending comprehensive supplementary discovery audit"
+        },
+        "source_evidence": [
+          "https://www.lucasfilm.com/productions/andor/",
+          "https://www.rottentomatoes.com/tv/andor/s01",
+          "https://www.rottentomatoes.com/tv/andor/s02",
+          "https://www.imdb.com/title/tt9253284"
+        ]
+      },
       {
         "title": "Battlestar Galactica",
         "year": 2004,
@@ -131,7 +205,7 @@
           "basis": "Rare direct match for societal collapse, political power struggles, artificial intelligence, and tense personalities; parallels multiple 9–10 rated favorites.",
           "reservation": "Lengthy series with shifting tone and mythology.",
           "source_neutral": true,
-          "rank": 1
+          "rank": 2
         },
         "source_evidence": [
           "https://tv.apple.com/us/boxset/battlestar-galactica-reboot-the-complete-series/umc.cmr.its.se.3sy5s03oldp1la39318pspzzq?showId=umc.cmc.5yjjly03omplqewo2v28t03x"
@@ -184,7 +258,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 2,
+          "rank": 3,
           "tier": "Top Picks",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -245,7 +319,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 3,
+          "rank": 4,
           "tier": "Top Picks",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -316,7 +390,7 @@
           "basis": "Social collapse and the people living through it align with Children of Men, Silo, and broader societal-decay interests.",
           "reservation": "Lyrical, nonlinear, and less action-focused than some favorites.",
           "source_neutral": true,
-          "rank": 4
+          "rank": 5
         },
         "source_evidence": [
           "https://paramountglobalcontent.com/title/station-eleven",
@@ -419,7 +493,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 5,
+          "rank": 6,
           "tier": "Top Picks",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -529,7 +603,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 6,
+          "rank": 7,
           "tier": "Top Picks",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -602,7 +676,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 7,
+          "rank": 8,
           "tier": "Top Picks",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -742,7 +816,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 8,
+          "rank": 9,
           "tier": "Top Picks",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -867,7 +941,7 @@
           "basis": "Massive societal stakes and Spielberg's human perspective fit Interstellar/Black Mirror interest; grounded extraordinary-event premise.",
           "reservation": "Prior Spielberg War of the Worlds received 7/10, so director and premise are not guarantees.",
           "source_neutral": true,
-          "rank": 9
+          "rank": 10
         },
         "source_evidence": [
           "https://www.universalpicturesathome.com/press-release/disclosure-day-fact-sheet"
@@ -935,7 +1009,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 10,
+          "rank": 11,
           "tier": "Top Picks",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -996,7 +1070,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 11,
+          "rank": 12,
           "tier": "Top Picks",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -1116,7 +1190,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 12,
+          "rank": 13,
           "tier": "Top Picks",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -1237,7 +1311,7 @@
           "basis": "High-energy AI catastrophe with sharp, eccentric personalities and recognizable human setting; more grounded in character than abstract philosophy.",
           "reservation": "Deliberately chaotic tone may be uneven for this user's tastes.",
           "source_neutral": true,
-          "rank": 13
+          "rank": 14
         },
         "source_evidence": [
           "https://tv.apple.com/us/movie/good-luck-have-fun-dont-die/umc.cmc.7jtkucfs19f2zz383s5n0katk"
@@ -1284,7 +1358,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 14,
+          "rank": 15,
           "tier": "Top Picks",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -1394,7 +1468,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 15,
+          "rank": 16,
           "tier": "Top Picks",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -1499,7 +1573,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 16,
+          "rank": 17,
           "tier": "Top Picks",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -1577,7 +1651,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 17,
+          "rank": 18,
           "tier": "Top Picks",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -1639,7 +1713,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 18,
+          "rank": 19,
           "tier": "Top Picks",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -1773,7 +1847,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 19,
+          "rank": 20,
           "tier": "Top Picks",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -1903,7 +1977,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 20,
+          "rank": 21,
           "tier": "Strong Prospects",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -2034,7 +2108,7 @@
           "basis": "Cyberpunk society and sympathetic, capable protagonist fit Altered Carbon and Tron: Legacy.",
           "reservation": "More YA/action-franchise stylization than the user's most grounded favorites.",
           "source_neutral": true,
-          "rank": 21
+          "rank": 22
         },
         "source_evidence": [
           "https://www.impawards.com/2019/alita_battle_angel.html"
@@ -2152,7 +2226,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 22,
+          "rank": 23,
           "tier": "Strong Prospects",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -2288,7 +2362,7 @@
           "basis": "The original Greenland received an exceptionally high personal rating of 9 despite its much lower audience consensus; direct personal-interest signal.",
           "reservation": "The sequel's critical reception is substantially weaker (48% Rotten Tomatoes on Apple TV as checked); keep below core top picks.",
           "source_neutral": true,
-          "rank": 23
+          "rank": 24
         },
         "source_evidence": [
           "https://tv.apple.com/us/movie/greenland-2-migration/umc.cmc.1ged2augqqvydram1rwo21ubi"
@@ -2394,7 +2468,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 24,
+          "rank": 25,
           "tier": "Strong Prospects",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -2466,7 +2540,7 @@
           "basis": "Reality shifts, hidden institutional secrets and personal stakes share appeal with Silo, Black Mirror, and Rubicon.",
           "reservation": "Unsettling, slow-burn structure could be a challenge.",
           "source_neutral": true,
-          "rank": 25
+          "rank": 26
         },
         "source_evidence": [
           "https://www.apple.com/tv-pr/originals/constellation/"
@@ -2495,7 +2569,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 26,
+          "rank": 27,
           "tier": "Strong Prospects",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -2603,7 +2677,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 27,
+          "rank": 28,
           "tier": "Strong Prospects",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -2674,7 +2748,7 @@
           "basis": "Dystopian social structure, control, and ideological conflict match longstanding thematic preferences; screenshot indicates continuation, not endorsement.",
           "reservation": "The series has only one season and may not deliver the novel's philosophical depth.",
           "source_neutral": true,
-          "rank": 28
+          "rank": 29
         },
         "source_evidence": []
       },
@@ -2780,7 +2854,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 29,
+          "rank": 30,
           "tier": "Strong Prospects",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -2900,7 +2974,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 30,
+          "rank": 31,
           "tier": "Strong Prospects",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -3013,7 +3087,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 31,
+          "rank": 32,
           "tier": "Strong Prospects",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -3062,7 +3136,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 32,
+          "rank": 33,
           "tier": "Strong Prospects",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -3206,7 +3280,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 33,
+          "rank": 34,
           "tier": "Strong Prospects",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -3283,7 +3357,7 @@
           "basis": "Concrete prior IMDb 7/10 and Black Mirror 10/10 suggest episodic dystopian exploration appeals, but not uniformly.",
           "reservation": "Previously rated 7, so continuation/revisit—not a novel discovery.",
           "source_neutral": true,
-          "rank": 34
+          "rank": 35
         },
         "source_evidence": [
           "https://tv.apple.com/us/show/philip-k-dicks-electric-dreams/umc.cmc.4fm4ugckvsu5rcnovg55xr7ij"
@@ -3359,7 +3433,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 35,
+          "rank": 36,
           "tier": "Strong Prospects",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -3490,7 +3564,7 @@
           "basis": "Fantastic worldbuilding combined with strong relationships and high stakes; the family focus distinguishes it from mere puzzle-box sci-fi.",
           "reservation": "Surreal, fragmented comedy could be less appealing than grounded character drama.",
           "source_neutral": true,
-          "rank": 36
+          "rank": 37
         },
         "source_evidence": [
           "https://a24films.com/films/everything-everywhere-all-at-once"
@@ -3547,7 +3621,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 37,
+          "rank": 38,
           "tier": "Strong Prospects",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -3650,7 +3724,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 38,
+          "rank": 39,
           "tier": "Strong Prospects",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -3765,7 +3839,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 39,
+          "rank": 40,
           "tier": "Strong Prospects",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -3889,7 +3963,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 40,
+          "rank": 41,
           "tier": "Strong Prospects",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -3938,7 +4012,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 41,
+          "rank": 42,
           "tier": "Strong Prospects",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -4067,7 +4141,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 42,
+          "rank": 43,
           "tier": "Strong Prospects",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -4212,7 +4286,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 43,
+          "rank": 44,
           "tier": "Strong Prospects",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -4321,7 +4395,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 44,
+          "rank": 45,
           "tier": "Strong Prospects",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -4445,7 +4519,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 45,
+          "rank": 46,
           "tier": "More Selective",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -4565,7 +4639,7 @@
           "basis": "Political decay, technology and authoritarianism overlap with the user's interest in social systems under pressure.",
           "reservation": "Documentary argument and fictional framing may be more polemical than conventional storytelling.",
           "source_neutral": true,
-          "rank": 46
+          "rank": 47
         },
         "source_evidence": [
           "https://tv.apple.com/us/movie/2073/umc.cmc.3ueoyn66rvue71zbahr61wntb"
@@ -4635,7 +4709,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 47,
+          "rank": 48,
           "tier": "More Selective",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -4766,7 +4840,7 @@
           "basis": "Reality-bending premise may work as an atmospheric sci-fi experiment.",
           "reservation": "Horror-leaning abstract atmosphere and limited conventional character storytelling make personal fit uncertain.",
           "source_neutral": true,
-          "rank": 48
+          "rank": 49
         },
         "source_evidence": [
           "https://a24films.com/films/backrooms"
@@ -4924,7 +4998,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 49,
+          "rank": 50,
           "tier": "More Selective",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -5034,7 +5108,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 50,
+          "rank": 51,
           "tier": "More Selective",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -5105,7 +5179,7 @@
           "basis": "Global-scale consequences are appealing, and the perspective stays anchored in recognizable people.",
           "reservation": "Often deliberate pacing and subdued early episodes; the screenshot shows progress but not enjoyment.",
           "source_neutral": true,
-          "rank": 51
+          "rank": 52
         },
         "source_evidence": [
           "https://www.apple.com/tv-pr/originals/invasion/"
@@ -5195,7 +5269,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 52,
+          "rank": 53,
           "tier": "More Selective",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -5298,7 +5372,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 53,
+          "rank": 54,
           "tier": "More Selective",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -5391,7 +5465,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 54,
+          "rank": 55,
           "tier": "More Selective",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -5505,7 +5579,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 55,
+          "rank": 56,
           "tier": "More Selective",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -5587,7 +5661,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 56,
+          "rank": 57,
           "tier": "More Selective",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -5707,7 +5781,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 57,
+          "rank": 58,
           "tier": "More Selective",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -5822,7 +5896,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 58,
+          "rank": 59,
           "tier": "More Selective",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -5942,7 +6016,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 59,
+          "rank": 60,
           "tier": "More Selective",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -6003,7 +6077,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 60,
+          "rank": 61,
           "tier": "More Selective",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
@@ -6118,7 +6192,7 @@
           "user_approval": "Prior catalog entry; this update only changes placement."
         },
         "editorial": {
-          "rank": 61,
+          "rank": 62,
           "tier": "More Selective",
           "ranked_at": "2026-10-29",
           "basis": "Cross-title personal IMDb rating patterns, narrative characteristics, latest user reactions and counterexamples. Personal-fit ranking, not quality ranking.",
