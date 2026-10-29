@@ -454,6 +454,11 @@ header .inner{padding-bottom:40px}
   #results .section-heading{margin-top:30px}
   #results .section-label{font-size:15px}
 }
+@media(max-width:550px){
+  .header-controls .tools:has(.search-control.open){flex-wrap:wrap}
+  .header-controls .tools:has(.search-control.open) .tabs{flex:1 1 100%}
+  .header-controls .search-control.open{flex:1 1 100%;width:100%}
+}
 @media(prefers-reduced-motion:reduce){.header-controls .tabs button,.section-jumps .jump-link{transition:none}}
 </style></head><body><header><div class="inner"><h1 class="media-wordmark" aria-label="The Media Center"><span class="wordmark-the" aria-hidden="true">The</span><span class="wordmark-title" aria-hidden="true"><span>Media</span><span class="wordmark-center">Center</span></span></h1><span class="masthead-rule" aria-hidden="true"></span><small class="panoply-label">Part of The Panoply</small></div><div class="header-controls"><div class="tools"><div class="tabs"><button id="scifi" aria-pressed="true">Sci-Fi</button><button id="other" aria-pressed="false">Beyond Sci-Fi</button><button id="animation" aria-pressed="false">Animation</button></div><div class="search-control" id="search-control"><button type="button" id="search-toggle" class="search-toggle" aria-label="Open title search" aria-controls="search" aria-expanded="false" title="Search titles"><svg class="search-glass" viewBox="0 0 24 24" fill="none" aria-hidden="true" focusable="false" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="10.7" cy="10.7" r="6.5"/><path d="m15.5 15.5 5 5"/></svg><svg class="search-cross" viewBox="0 0 24 24" fill="none" aria-hidden="true" focusable="false" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M5 5l14 14M19 5L5 19"/></svg></button><input id="search" type="search" placeholder="Search titles…" aria-label="Search titles" autocomplete="off" hidden></div></div></div></header><main><nav class="section-jumps" id="section-jumps" aria-label="Jump to section"></nav><section id="results" aria-live="polite"></section></main><footer class="panoply-footer"><div class="panoply-footer-brand"><span>The Panoply</span></div></footer><script>
 let lists={scifi:[],other:[],animation:[]};
