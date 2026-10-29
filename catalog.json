@@ -274,7 +274,7 @@
           "Matilda Lawler",
           "David Wilmot"
         ],
-        "tmdb_rating": 7.0,
+        "tmdb_rating": 7,
         "imdb_rating": null,
         "rotten_tomatoes_score": null,
         "metacritic_score": null,
@@ -2424,7 +2424,7 @@
           "James D'Arcy",
           "Rosie Coleman"
         ],
-        "tmdb_rating": 7.0,
+        "tmdb_rating": 7,
         "imdb_rating": null,
         "rotten_tomatoes_score": null,
         "metacritic_score": null,
@@ -3235,7 +3235,7 @@
           "Geraldine Chaplin",
           "Terrence Howard"
         ],
-        "tmdb_rating": 7.0,
+        "tmdb_rating": 7,
         "imdb_rating": null,
         "rotten_tomatoes_score": null,
         "metacritic_score": null,
@@ -4665,7 +4665,7 @@
           "Finn Bennett",
           "Lukita Maxwell"
         ],
-        "tmdb_rating": 7.0,
+        "tmdb_rating": 7,
         "imdb_rating": null,
         "rotten_tomatoes_score": null,
         "metacritic_score": null,
@@ -6132,7 +6132,7 @@
         "title": "F1: The Movie",
         "year": 2025,
         "type": "Movie",
-        "group": "Crime & High-Stakes Drama",
+        "group": "Sports & Competition",
         "poster": "https://images.flickdirect.com/movies/f1/f1-poster.jpg",
         "tmdb_id": null,
         "imdb_id": null,
@@ -6174,7 +6174,7 @@
           "viewed_status": "Unconfirmed beyond the Apple TV screenshot label"
         },
         "editorial": {
-          "tier": "Crime & High-Stakes Drama",
+          "tier": "Sports & Competition",
           "ranked_at": "2026-10-29",
           "basis": "Joseph Kosinski directed Tron: Legacy and Oblivion (both personal IMDb 9s); competitive personalities and dramatic confrontations align with Days of Thunder and The Program (both 8s).",
           "reservation": "Kosinski's Top Gun: Maverick received a more modest 7/10; sports stories vary.",
@@ -6544,7 +6544,7 @@
           "Matt Damon",
           "Robert Downey Jr."
         ],
-        "tmdb_rating": 8.0,
+        "tmdb_rating": 8,
         "imdb_rating": null,
         "rotten_tomatoes_score": 93,
         "metacritic_score": null,
