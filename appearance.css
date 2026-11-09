@@ -1,0 +1,45 @@
+/* Automatic system appearance. Light-mode layouts and artwork remain unchanged. */
+:root { color-scheme: light; }
+@media (prefers-color-scheme: dark) {
+ :root { color-scheme: dark; }
+ html, body { background: var(--app-bg); color: var(--app-ink); }
+ .panoply-footer { background: var(--app-bg); color: var(--app-ink); border-color: var(--app-line); }
+ .panoply-footer-brand { color: #d1b47c; }
+ .panoply-footer-brand::before, .panoply-footer-brand::after { background: #d1b47c; }
+ .panoply-footer-sites a { color: #b9c8d1; }
+ .panoply-footer-sites a:hover { color: #e2c68e; }
+ input::placeholder { color: #a8b7c1; opacity: 1; }
+ ::selection { background: #536b7d; color: #fff; }
+}
+
+@media (prefers-color-scheme: dark) {
+ :root { --app-bg:#1b242e; --app-ink:#e1e8ef; --app-line:#3a4958; --bg:var(--app-bg); --paper:var(--app-bg); --ink:var(--app-ink); --navy:var(--app-ink); --sub:#b0bfcc; --line:var(--app-line); --accent:#d5b57d; --gold:#d5b57d; }
+ header { background:#222e3a; border-color:var(--line); }
+ h1, h1.media-wordmark, h2, .title { color:var(--ink); }
+ header p, .count, .year, .format, .cast, .extra, .meta, .watch-kind, .watch-fallback { color:var(--sub); }
+ button, input, select, .header-controls .tabs button, .search-control .search-toggle { background:#283746; color:var(--ink); border-color:#53697c; }
+ .header-controls { border-color:var(--line); }
+ .header-controls .tabs button:hover, .search-control .search-toggle:hover { background:#35495b; border-color:#8199ad; }
+ .header-controls .tabs button[aria-pressed=true] { background:#365f82; border-color:#8aacc7; color:#fff; }
+ .short-summary, .synopsis, .ratings, .rating-score, .watch { color:#c1ced9; }
+ .lookup { color:#dfc28c; }
+ .extra, article { border-color:var(--line); }
+ #results article { background:#222f3b; border-color:#405367; }
+ #results article:hover { background:#2a3a49; border-color:#688095; }
+ #results .poster { background:#344250; color:#c3ced8; }
+ #results .genres, #results .section-count, #results .no-results { color:var(--sub); }
+ #results .card-facts { background:#283846; border-color:var(--line); }
+ #results .fact-label, #results .card-kind, #results .stream-empty { color:#b2c1cc; }
+ #results .fact-value { color:#d1dce5; }
+ #results .stream-chip { background:#314555; border-color:#586e80; color:#dae5ed; }
+ #results .section-label { color:#c2d1dc; }
+ #results .section-heading::after { background:var(--line); }
+ .section-jumps { border-color:var(--line); }
+ .section-jumps .jump-caption { color:#adbdca; }
+ .section-jumps .jump-link { color:#becedb; }
+ .section-jumps .jump-link:not(:last-child) { border-color:#536574; }
+ .section-jumps .jump-link:hover { background:transparent; color:#e3c991; }
+ footer { background:var(--bg); border-color:var(--line); color:var(--sub); }
+ /* Tiny source marks keep a light backing rather than being recolored. */
+ .rating-icon { background:#f7f8f9; border-radius:2px; }
+}
